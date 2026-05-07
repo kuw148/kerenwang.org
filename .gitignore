@@ -3,3 +3,7 @@
 public/
 resources/_gen/
 
+
+# Local Hugo theme source
+themes/
+
