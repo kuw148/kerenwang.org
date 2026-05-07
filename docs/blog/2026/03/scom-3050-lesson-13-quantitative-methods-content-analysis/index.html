@@ -1,0 +1,738 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto" data-theme="auto">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>SCOM 3050 Lesson 13: Quantitative Methods - Content Analysis | Keren Wang</title>
+<meta name="keywords" content="">
+<meta name="description" content="
+Overview
+Content Analysis: A research technique for the systematic classification and description of communication content based on predetermined categories. It can be quantitative, qualitative, or a combination of both.
+
+Quantitative content analysis involves counting occurrences (e.g., how often violence is depicted in media).
+Qualitative content analysis involves interpreting the meaning behind the content, overlapping with rhetorical and other qualitative methods discussed in previous weeks.
+
+Why Use Content Analysis?
+
+Researchers use content analysis to measure behavior within media, such as how characters in films or television programs act, or how frequently certain themes appear in advertisements or articles.
+It is commonly used to investigate themes like violence, bias, identity representation, or other significant patterns in media.
+
+Manifest vs. Latent Content
+
+Manifest Content: What is explicitly presented in the media (e.g., a character saying &#34;I love you&#34;).
+Latent Content: The underlying, hidden meanings behind what is explicitly shown, though content analysis typically focuses on manifest content.
+
+
+
+Coding
+Coding is a critical process in content analysis, where researchers classify and categorize the data they&#39;ve collected based on predefined rules. Coding allows researchers to systematically organize and interpret large sets of data, making it easier to quantify and analyze the information.
+Types of Coding
+
+Open Coding: This is the initial phase of coding where researchers start by identifying key themes, concepts, or patterns in the data. This approach is flexible and exploratory, allowing researchers to see what categories naturally emerge.
+Axial Coding: Once the initial categories are identified, axial coding refines and links the categories by identifying relationships among them. This step helps in organizing the data around central themes.
+Selective Coding: In this phase, researchers focus on the core categories that have emerged and further explore connections. This step helps develop a coherent narrative around the data.
+
+Coding Process
+
+Create Categories: Researchers must establish a clear system of categories based on the research question. For example, if studying violence in TV shows, categories could include &#34;physical violence,&#34; &#34;verbal aggression,&#34; and &#34;implied violence.&#34;
+Operational Definitions: Essential for clear, measurable research, operational definitions specify how a concept will be measured in the study. For example, define what counts as &#34;violence&#34; to ensure consistent coding.
+
+It is crucial to provide detailed operational definitions for each category. For example, if the category is &#34;physical violence,&#34; the definition might include &#34;any act where one character physically harms or attempts to harm another character, including hitting, kicking, shooting, etc.&#34;
+Coding for abstract concepts like &#34;patriotism&#34; or &#34;beauty&#34; can be difficult because these terms can be interpreted differently depending on context. Researchers must carefully operationalize these concepts to ensure clarity.
+
+
+Mutually Exclusive Categories: Categories must be distinct, meaning that a single piece of content should only fit into one category. If categories overlap, coding will be inconsistent and unreliable. For example, &#34;verbal aggression&#34; and &#34;insult&#34; should be clearly distinguished to avoid overlap.
+Intercoder Reliability: To maintain consistency, especially in larger studies involving multiple coders, researchers should test consistency between different coders, known as intercoder reliability. This process involves having several coders analyze the same content independently and comparing their results.
+
+A high level of agreement between coders (typically 90% or higher) indicates reliable coding. If discrepancies arise, the operational definitions or coding procedures may need to be revised.
+
+
+
+
+
+Sampling
+Sampling refers to the process of selecting a representative subset of content from a larger pool to study. In content analysis, sampling is crucial because it directly affects the generalizability and reliability of the findings.
+Sampling and coding are closely related because the way you select and code your sample affects the validity of your research project. A well-chosen, representative sample ensures that the data collected can be generalized to the broader population, while accurate coding ensures that the data collected is reliable and meaningful.">
+<meta name="author" content="Keren Wang">
+<link rel="canonical" href="http://localhost:1313/blog/2026/03/scom-3050-lesson-13-quantitative-methods-content-analysis/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.54db77ad7b2326cd6e6ae7cfd5e5a96fc5f154ab5e78855a6098093beeb4ce8f.css" integrity="sha256-VNt3rXsjJs1uaufP1eWpb8XxVKteeIVaYJgJO&#43;60zo8=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png">
+<link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/blog/2026/03/scom-3050-lesson-13-quantitative-methods-content-analysis/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+                color-scheme: dark;
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .toc {
+                background: var(--entry);
+            }
+        }
+
+    </style>
+</noscript>
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else if (localStorage.getItem("pref-theme") === "light") {
+       document.querySelector("html").dataset.theme = 'light';
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else {
+        document.querySelector("html").dataset.theme = 'light';
+    }
+
+</script><meta property="og:url" content="http://localhost:1313/blog/2026/03/scom-3050-lesson-13-quantitative-methods-content-analysis/">
+  <meta property="og:site_name" content="Keren Wang">
+  <meta property="og:title" content="SCOM 3050 Lesson 13: Quantitative Methods - Content Analysis">
+  <meta property="og:description" content="Overview Content Analysis: A research technique for the systematic classification and description of communication content based on predetermined categories. It can be quantitative, qualitative, or a combination of both. Quantitative content analysis involves counting occurrences (e.g., how often violence is depicted in media). Qualitative content analysis involves interpreting the meaning behind the content, overlapping with rhetorical and other qualitative methods discussed in previous weeks. Why Use Content Analysis? Researchers use content analysis to measure behavior within media, such as how characters in films or television programs act, or how frequently certain themes appear in advertisements or articles. It is commonly used to investigate themes like violence, bias, identity representation, or other significant patterns in media. Manifest vs. Latent Content Manifest Content: What is explicitly presented in the media (e.g., a character saying &#34;I love you&#34;). Latent Content: The underlying, hidden meanings behind what is explicitly shown, though content analysis typically focuses on manifest content. Coding Coding is a critical process in content analysis, where researchers classify and categorize the data they&#39;ve collected based on predefined rules. Coding allows researchers to systematically organize and interpret large sets of data, making it easier to quantify and analyze the information. Types of Coding Open Coding: This is the initial phase of coding where researchers start by identifying key themes, concepts, or patterns in the data. This approach is flexible and exploratory, allowing researchers to see what categories naturally emerge. Axial Coding: Once the initial categories are identified, axial coding refines and links the categories by identifying relationships among them. This step helps in organizing the data around central themes. Selective Coding: In this phase, researchers focus on the core categories that have emerged and further explore connections. This step helps develop a coherent narrative around the data. Coding Process Create Categories: Researchers must establish a clear system of categories based on the research question. For example, if studying violence in TV shows, categories could include &#34;physical violence,&#34; &#34;verbal aggression,&#34; and &#34;implied violence.&#34; Operational Definitions: Essential for clear, measurable research, operational definitions specify how a concept will be measured in the study. For example, define what counts as &#34;violence&#34; to ensure consistent coding. It is crucial to provide detailed operational definitions for each category. For example, if the category is &#34;physical violence,&#34; the definition might include &#34;any act where one character physically harms or attempts to harm another character, including hitting, kicking, shooting, etc.&#34; Coding for abstract concepts like &#34;patriotism&#34; or &#34;beauty&#34; can be difficult because these terms can be interpreted differently depending on context. Researchers must carefully operationalize these concepts to ensure clarity. Mutually Exclusive Categories: Categories must be distinct, meaning that a single piece of content should only fit into one category. If categories overlap, coding will be inconsistent and unreliable. For example, &#34;verbal aggression&#34; and &#34;insult&#34; should be clearly distinguished to avoid overlap. Intercoder Reliability: To maintain consistency, especially in larger studies involving multiple coders, researchers should test consistency between different coders, known as intercoder reliability. This process involves having several coders analyze the same content independently and comparing their results. A high level of agreement between coders (typically 90% or higher) indicates reliable coding. If discrepancies arise, the operational definitions or coding procedures may need to be revised. Sampling Sampling refers to the process of selecting a representative subset of content from a larger pool to study. In content analysis, sampling is crucial because it directly affects the generalizability and reliability of the findings. Sampling and coding are closely related because the way you select and code your sample affects the validity of your research project. A well-chosen, representative sample ensures that the data collected can be generalized to the broader population, while accurate coding ensures that the data collected is reliable and meaningful.">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="blog">
+    <meta property="article:published_time" content="2026-03-28T20:48:09+00:00">
+    <meta property="article:modified_time" content="2026-03-28T20:48:09+00:00">
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="SCOM 3050 Lesson 13: Quantitative Methods - Content Analysis">
+  <meta name="twitter:description" content="Overview Content Analysis: A research technique for the systematic classification and description of communication content based on predetermined categories. It can be quantitative, qualitative, or a combination of both. Quantitative content analysis involves counting occurrences (e.g., how often violence is depicted in media). Qualitative content analysis involves interpreting the meaning behind the content, overlapping with rhetorical and other qualitative methods discussed in previous weeks. Why Use Content Analysis? Researchers use content analysis to measure behavior within media, such as how characters in films or television programs act, or how frequently certain themes appear in advertisements or articles. It is commonly used to investigate themes like violence, bias, identity representation, or other significant patterns in media. Manifest vs. Latent Content Manifest Content: What is explicitly presented in the media (e.g., a character saying &#34;I love you&#34;). Latent Content: The underlying, hidden meanings behind what is explicitly shown, though content analysis typically focuses on manifest content. Coding Coding is a critical process in content analysis, where researchers classify and categorize the data they&#39;ve collected based on predefined rules. Coding allows researchers to systematically organize and interpret large sets of data, making it easier to quantify and analyze the information. Types of Coding Open Coding: This is the initial phase of coding where researchers start by identifying key themes, concepts, or patterns in the data. This approach is flexible and exploratory, allowing researchers to see what categories naturally emerge. Axial Coding: Once the initial categories are identified, axial coding refines and links the categories by identifying relationships among them. This step helps in organizing the data around central themes. Selective Coding: In this phase, researchers focus on the core categories that have emerged and further explore connections. This step helps develop a coherent narrative around the data. Coding Process Create Categories: Researchers must establish a clear system of categories based on the research question. For example, if studying violence in TV shows, categories could include &#34;physical violence,&#34; &#34;verbal aggression,&#34; and &#34;implied violence.&#34; Operational Definitions: Essential for clear, measurable research, operational definitions specify how a concept will be measured in the study. For example, define what counts as &#34;violence&#34; to ensure consistent coding. It is crucial to provide detailed operational definitions for each category. For example, if the category is &#34;physical violence,&#34; the definition might include &#34;any act where one character physically harms or attempts to harm another character, including hitting, kicking, shooting, etc.&#34; Coding for abstract concepts like &#34;patriotism&#34; or &#34;beauty&#34; can be difficult because these terms can be interpreted differently depending on context. Researchers must carefully operationalize these concepts to ensure clarity. Mutually Exclusive Categories: Categories must be distinct, meaning that a single piece of content should only fit into one category. If categories overlap, coding will be inconsistent and unreliable. For example, &#34;verbal aggression&#34; and &#34;insult&#34; should be clearly distinguished to avoid overlap. Intercoder Reliability: To maintain consistency, especially in larger studies involving multiple coders, researchers should test consistency between different coders, known as intercoder reliability. This process involves having several coders analyze the same content independently and comparing their results. A high level of agreement between coders (typically 90% or higher) indicates reliable coding. If discrepancies arise, the operational definitions or coding procedures may need to be revised. Sampling Sampling refers to the process of selecting a representative subset of content from a larger pool to study. In content analysis, sampling is crucial because it directly affects the generalizability and reliability of the findings. Sampling and coding are closely related because the way you select and code your sample affects the validity of your research project. A well-chosen, representative sample ensures that the data collected can be generalized to the broader population, while accurate coding ensures that the data collected is reliable and meaningful.">
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position":  1 ,
+      "name": "Blog",
+      "item": "http://localhost:1313/blog/"
+    }, 
+    {
+      "@type": "ListItem",
+      "position":  2 ,
+      "name": "SCOM 3050 Lesson 13: Quantitative Methods - Content Analysis",
+      "item": "http://localhost:1313/blog/2026/03/scom-3050-lesson-13-quantitative-methods-content-analysis/"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "SCOM 3050 Lesson 13: Quantitative Methods - Content Analysis",
+  "name": "SCOM 3050 Lesson 13: Quantitative Methods - Content Analysis",
+  "description": " Overview Content Analysis: A research technique for the systematic classification and description of communication content based on predetermined categories. It can be quantitative, qualitative, or a combination of both. Quantitative content analysis involves counting occurrences (e.g., how often violence is depicted in media). Qualitative content analysis involves interpreting the meaning behind the content, overlapping with rhetorical and other qualitative methods discussed in previous weeks. Why Use Content Analysis? Researchers use content analysis to measure behavior within media, such as how characters in films or television programs act, or how frequently certain themes appear in advertisements or articles. It is commonly used to investigate themes like violence, bias, identity representation, or other significant patterns in media. Manifest vs. Latent Content Manifest Content: What is explicitly presented in the media (e.g., a character saying \"I love you\"). Latent Content: The underlying, hidden meanings behind what is explicitly shown, though content analysis typically focuses on manifest content. Coding Coding is a critical process in content analysis, where researchers classify and categorize the data they've collected based on predefined rules. Coding allows researchers to systematically organize and interpret large sets of data, making it easier to quantify and analyze the information. Types of Coding Open Coding: This is the initial phase of coding where researchers start by identifying key themes, concepts, or patterns in the data. This approach is flexible and exploratory, allowing researchers to see what categories naturally emerge. Axial Coding: Once the initial categories are identified, axial coding refines and links the categories by identifying relationships among them. This step helps in organizing the data around central themes. Selective Coding: In this phase, researchers focus on the core categories that have emerged and further explore connections. This step helps develop a coherent narrative around the data. Coding Process Create Categories: Researchers must establish a clear system of categories based on the research question. For example, if studying violence in TV shows, categories could include \"physical violence,\" \"verbal aggression,\" and \"implied violence.\" Operational Definitions: Essential for clear, measurable research, operational definitions specify how a concept will be measured in the study. For example, define what counts as \"violence\" to ensure consistent coding. It is crucial to provide detailed operational definitions for each category. For example, if the category is \"physical violence,\" the definition might include \"any act where one character physically harms or attempts to harm another character, including hitting, kicking, shooting, etc.\" Coding for abstract concepts like \"patriotism\" or \"beauty\" can be difficult because these terms can be interpreted differently depending on context. Researchers must carefully operationalize these concepts to ensure clarity. Mutually Exclusive Categories: Categories must be distinct, meaning that a single piece of content should only fit into one category. If categories overlap, coding will be inconsistent and unreliable. For example, \"verbal aggression\" and \"insult\" should be clearly distinguished to avoid overlap. Intercoder Reliability: To maintain consistency, especially in larger studies involving multiple coders, researchers should test consistency between different coders, known as intercoder reliability. This process involves having several coders analyze the same content independently and comparing their results. A high level of agreement between coders (typically 90% or higher) indicates reliable coding. If discrepancies arise, the operational definitions or coding procedures may need to be revised. Sampling Sampling refers to the process of selecting a representative subset of content from a larger pool to study. In content analysis, sampling is crucial because it directly affects the generalizability and reliability of the findings. Sampling and coding are closely related because the way you select and code your sample affects the validity of your research project. A well-chosen, representative sample ensures that the data collected can be generalized to the broader population, while accurate coding ensures that the data collected is reliable and meaningful.\n",
+  "keywords": [
+    
+  ],
+  "articleBody": " Overview Content Analysis: A research technique for the systematic classification and description of communication content based on predetermined categories. It can be quantitative, qualitative, or a combination of both. Quantitative content analysis involves counting occurrences (e.g., how often violence is depicted in media). Qualitative content analysis involves interpreting the meaning behind the content, overlapping with rhetorical and other qualitative methods discussed in previous weeks. Why Use Content Analysis? Researchers use content analysis to measure behavior within media, such as how characters in films or television programs act, or how frequently certain themes appear in advertisements or articles. It is commonly used to investigate themes like violence, bias, identity representation, or other significant patterns in media. Manifest vs. Latent Content Manifest Content: What is explicitly presented in the media (e.g., a character saying \"I love you\"). Latent Content: The underlying, hidden meanings behind what is explicitly shown, though content analysis typically focuses on manifest content. Coding Coding is a critical process in content analysis, where researchers classify and categorize the data they've collected based on predefined rules. Coding allows researchers to systematically organize and interpret large sets of data, making it easier to quantify and analyze the information. Types of Coding Open Coding: This is the initial phase of coding where researchers start by identifying key themes, concepts, or patterns in the data. This approach is flexible and exploratory, allowing researchers to see what categories naturally emerge. Axial Coding: Once the initial categories are identified, axial coding refines and links the categories by identifying relationships among them. This step helps in organizing the data around central themes. Selective Coding: In this phase, researchers focus on the core categories that have emerged and further explore connections. This step helps develop a coherent narrative around the data. Coding Process Create Categories: Researchers must establish a clear system of categories based on the research question. For example, if studying violence in TV shows, categories could include \"physical violence,\" \"verbal aggression,\" and \"implied violence.\" Operational Definitions: Essential for clear, measurable research, operational definitions specify how a concept will be measured in the study. For example, define what counts as \"violence\" to ensure consistent coding. It is crucial to provide detailed operational definitions for each category. For example, if the category is \"physical violence,\" the definition might include \"any act where one character physically harms or attempts to harm another character, including hitting, kicking, shooting, etc.\" Coding for abstract concepts like \"patriotism\" or \"beauty\" can be difficult because these terms can be interpreted differently depending on context. Researchers must carefully operationalize these concepts to ensure clarity. Mutually Exclusive Categories: Categories must be distinct, meaning that a single piece of content should only fit into one category. If categories overlap, coding will be inconsistent and unreliable. For example, \"verbal aggression\" and \"insult\" should be clearly distinguished to avoid overlap. Intercoder Reliability: To maintain consistency, especially in larger studies involving multiple coders, researchers should test consistency between different coders, known as intercoder reliability. This process involves having several coders analyze the same content independently and comparing their results. A high level of agreement between coders (typically 90% or higher) indicates reliable coding. If discrepancies arise, the operational definitions or coding procedures may need to be revised. Sampling Sampling refers to the process of selecting a representative subset of content from a larger pool to study. In content analysis, sampling is crucial because it directly affects the generalizability and reliability of the findings. Sampling and coding are closely related because the way you select and code your sample affects the validity of your research project. A well-chosen, representative sample ensures that the data collected can be generalized to the broader population, while accurate coding ensures that the data collected is reliable and meaningful.\nSampling Process Defining the Population: The first step is to define the population of content you are analyzing. This could be all TV shows aired between 2000 and 2020, all magazine advertisements published in a specific year, or all social media posts on a particular topic. Establishing a Sample Frame: Once the population is defined, create a sample frame—a complete list of all potential items that could be sampled. For example, if studying newspaper articles, the sample frame could be the archives of all editions of a particular newspaper. Selecting the Sample: Based on your research question, choose the most appropriate sampling method. For instance, if studying how violence in children’s TV shows has evolved, you might use stratified sampling, selecting shows from different time periods and categories (e.g., comedy, action, educational). Advantages and Challenges of Content Analysis Advantages Unobtrusive: Content analysis does not interfere with the subject matter, allowing for objective results. Inexpensive: Most content, such as magazines or TV shows, is readily available for analysis. Quantifiable Data: Provides measurable data that can be interpreted and compared across studies. Challenges Defining Categories: Developing operational definitions can be difficult, especially for abstract concepts like \"violence\" or \"gender roles.\" Coding Reliability: Ensuring coders interpret content consistently is a common challenge. Sample Selection: It’s important to ensure the sample is representative of the broader media landscape; otherwise, the results might not be reliable. Example: Analyzing Media Coverage of 2024 U.S. Presidential Election Candidates Screenshot 2024-10-20 BBC Coverage of 2024 US Election Research Question How do major news networks portray the leading candidates in the 2024 U.S. Presidential Election? Step-by-Step Process Define the Research Question: What do you want to find out? Example: \"How frequently do major news networks portray the 2024 U.S. presidential candidates in a positive, neutral, or negative light?\" Develop a Hypothesis: What do you expect to find? Hypothesis: \"Leading news networks tend to portray candidates from their preferred political party more positively while portraying opposition candidates more negatively.\" Operationalize Key Terms: How will you define key concepts? Define \"positive portrayal\" as any instance where a candidate is shown in a favorable light, including praise for policies, personal attributes, or achievements. Define \"negative portrayal\" as instances where the candidate is criticized for policies, actions, or personal issues. Define \"neutral portrayal\" as coverage that neither praises nor criticizes but simply presents factual information without judgment. Select a Representative Sample: What content will you analyze? Select 5 major U.S. news networks (e.g., CNN, Fox News, MSNBC, ABC News, and NBC News) and gather a sample of 10 election-related news segments or articles from each network over a 2-month period leading up to the election. Create a Coding System: How will you categorize the data? Candidate is portrayed positively (Yes/No) Candidate is portrayed negatively (Yes/No) Candidate is portrayed neutrally (Yes/No) Focus of the coverage: Policy, Personal Attributes, or Campaign Strategy Mention of candidate's position on key issues (e.g., economy, immigration, healthcare) Test for Coding Reliability: Ensure consistency among coders. Have two coders independently analyze the same news segment using the coding sheet. Compare results to ensure they categorize positive, negative, and neutral coverage consistently. Analyze the Sample: Collect and quantify the data. Watch or read the selected news segments and articles, and use the coding sheet to categorize the portrayal of each candidate. Count the number of positive, negative, and neutral portrayals across networks. Present Results: Quantify the findings. Example findings: \"In the 50 news segments analyzed, Fox News portrayed the Republican candidate positively 70% of the time and the Democratic candidate negatively 60% of the time, while CNN portrayed the Democratic candidate positively 65% of the time and the Republican candidate negatively 55% of the time. Neutral coverage was more common on ABC News and NBC News.\" Interpret the Results: Based on the findings, conclude whether there is evidence of bias in how networks portray candidates from different political parties. The results might suggest that certain networks favor candidates from their preferred party, reflecting partisanship in media coverage of the election. Further Reading Adams, W., \u0026 Adams, F. S. (1978). Television network news: Issues in content research. Washington, DC: George Washington University. Gottschalk, L. A. (1995). Content analysis of verbal behavior: New findings and clinical applications. Mahwah, NJ: Lawrence Erlbaum. Krippendorff, K. (2018). Content analysis: An introduction to its methodology. Sage publications. Mayring, P. (2014). Qualitative content analysis: Theoretical foundation, basic procedures and software solution. SSOAR. Neuendorf, K. A. (2002). The content analysis guidebook. Thousand Oaks, CA: Sage. Riffe, D., Lacy, S., \u0026 Fico, G. (2005). Analyzing media messages: Using quantitative content analysis in research. Mahwah, NJ: Lawrence Erlbaum. ",
+  "wordCount" : "1391",
+  "inLanguage": "en",
+  "datePublished": "2026-03-28T20:48:09Z",
+  "dateModified": "2026-03-28T20:48:09Z",
+  "author":{
+    "@type": "Person",
+    "name": "Keren Wang"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "http://localhost:1313/blog/2026/03/scom-3050-lesson-13-quantitative-methods-content-analysis/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Keren Wang",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "http://localhost:1313/favicon.ico"
+    }
+  }
+}
+</script>
+</head>
+<body id="top">
+    <header class="header">
+    <nav class="header-nav">
+        <div class="logo">
+            <a href="http://localhost:1313/" accesskey="h" title="Keren Wang (Alt + H)">Keren Wang</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" class="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg class="moon" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg class="sun" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu" class="menu">
+            <li>
+                <a href="http://localhost:1313/about/" title="About">
+                    <span>About</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/cv/" title="CV">
+                    <span>CV</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/blog/" title="Blog">
+                    <span>Blog</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/teaching/" title="Teaching">
+                    <span>Teaching</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    <nav class="breadcrumbs" role="navigation" aria-label="Breadcrumb">
+            <a href="/">Home</a>
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+                stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-right">
+                <polyline points="9 18 15 12 9 6"></polyline>
+            </svg>
+            <a href="/blog/">Blog</a>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+        stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-right">
+        <polyline points="9 18 15 12 9 6"></polyline>
+    </svg>
+</nav>
+    <h1 class="post-title entry-hint-parent">
+      SCOM 3050 Lesson 13: Quantitative Methods - Content Analysis
+    </h1>
+    <div class="post-meta">
+
+<span title='2026-03-28 20:48:09 +0000 UTC'>March 28, 2026</span>&nbsp;·&nbsp;<span>7 min</span>&nbsp;·&nbsp;<span>1391 words</span>&nbsp;·&nbsp;<span>Keren Wang</span>
+
+</div>
+  </header> <details class="toc" >
+    <summary accesskey="c" title="(Alt + C)">
+        <span class="title">Table of Contents</span>
+    </summary>
+
+    <div class="inner"><ul>
+            <li>
+                <a href="#" aria-label="Overview">Overview</a><ul>
+                    
+            <li>
+                <a href="#" aria-label="Why Use Content Analysis?">Why Use Content Analysis?</a></li>
+            <li>
+                <a href="#" aria-label="Manifest vs. Latent Content">Manifest vs. Latent Content</a></li></ul>
+            </li>
+            <li>
+                <a href="#" aria-label="Coding">Coding</a><ul>
+                    
+            <li>
+                <a href="#" aria-label="Types of Coding">Types of Coding</a></li>
+            <li>
+                <a href="#" aria-label="Coding Process">Coding Process</a></li></ul>
+            </li>
+            <li>
+                <a href="#" aria-label="Sampling">Sampling</a><ul>
+                    
+            <li>
+                <a href="#" aria-label="Sampling Process">Sampling Process</a></li></ul>
+            </li>
+            <li>
+                <a href="#" aria-label="Advantages and Challenges of Content Analysis">Advantages and Challenges of Content Analysis</a><ul>
+                    
+            <li>
+                <a href="#" aria-label="Advantages">Advantages</a></li>
+            <li>
+                <a href="#" aria-label="Challenges">Challenges</a></li></ul>
+            </li>
+            <li>
+                <a href="#" aria-label="Example: Analyzing Media Coverage of 2024 U.S. Presidential Election Candidates">Example: Analyzing Media Coverage of 2024 U.S. Presidential Election Candidates</a><ul>
+                    
+            <li>
+                <a href="#" aria-label="Research Question">Research Question</a></li>
+            <li>
+                <a href="#" aria-label="Step-by-Step Process">Step-by-Step Process</a></li></ul>
+            </li>
+            <li>
+                <a href="#" aria-label="Further Reading">Further Reading</a>
+            </li>
+        </ul>
+    </div>
+</details>
+
+  <div class="post-content md-content"><section id="overview">
+<h2>Overview</h2>
+<strong>Content Analysis</strong>: A research technique for the systematic classification and description of communication content based on predetermined categories. It can be quantitative, qualitative, or a combination of both.
+<ul>
+<li><strong>Quantitative content analysis</strong> involves counting occurrences (e.g., how often violence is depicted in media).</li>
+<li><strong>Qualitative content analysis</strong> involves interpreting the meaning behind the content, overlapping with rhetorical and other qualitative methods discussed in previous weeks.</li>
+</ul>
+<h3>Why Use Content Analysis?</h3>
+<ul>
+<li>Researchers use content analysis to measure behavior within media, such as how characters in films or television programs act, or how frequently certain themes appear in advertisements or articles.</li>
+<li>It is commonly used to investigate themes like violence, bias, identity representation, or other significant patterns in media.</li>
+</ul>
+<h3>Manifest vs. Latent Content</h3>
+<ul>
+<li><strong>Manifest Content</strong>: What is explicitly presented in the media (e.g., a character saying "I love you").</li>
+<li><strong>Latent Content</strong>: The underlying, hidden meanings behind what is explicitly shown, though content analysis typically focuses on manifest content.</li>
+</ul>
+</section>
+<section id="coding">
+<h2>Coding</h2>
+<strong>Coding</strong> is a critical process in content analysis, where researchers classify and categorize the data they've collected based on predefined rules. Coding allows researchers to systematically organize and interpret large sets of data, making it easier to quantify and analyze the information.
+<h3>Types of Coding</h3>
+<ul>
+<li><strong>Open Coding</strong>: This is the initial phase of coding where researchers start by identifying key themes, concepts, or patterns in the data. This approach is flexible and exploratory, allowing researchers to see what categories naturally emerge.</li>
+<li><strong>Axial Coding</strong>: Once the initial categories are identified, axial coding refines and links the categories by identifying relationships among them. This step helps in organizing the data around central themes.</li>
+<li><strong>Selective Coding</strong>: In this phase, researchers focus on the core categories that have emerged and further explore connections. This step helps develop a coherent narrative around the data.</li>
+</ul>
+<h3>Coding Process</h3>
+<ol>
+<li><strong>Create Categories</strong>: Researchers must establish a clear system of categories based on the research question. For example, if studying violence in TV shows, categories could include "physical violence," "verbal aggression," and "implied violence."</li>
+<li><strong>Operational Definitions</strong>: Essential for clear, measurable research, operational definitions specify how a concept will be measured in the study. For example, define what counts as "violence" to ensure consistent coding.
+<ul>
+<li>It is crucial to provide detailed operational definitions for each category. For example, if the category is "physical violence," the definition might include "any act where one character physically harms or attempts to harm another character, including hitting, kicking, shooting, etc."</li>
+<li>Coding for abstract concepts like "patriotism" or "beauty" can be difficult because these terms can be interpreted differently depending on context. Researchers must carefully operationalize these concepts to ensure clarity.</li>
+</ul>
+</li>
+<li><strong>Mutually Exclusive Categories</strong>: Categories must be distinct, meaning that a single piece of content should only fit into one category. If categories overlap, coding will be inconsistent and unreliable. For example, "verbal aggression" and "insult" should be clearly distinguished to avoid overlap.</li>
+<li><strong>Intercoder Reliability</strong>: To maintain consistency, especially in larger studies involving multiple coders, researchers should test consistency between different coders, known as intercoder reliability. This process involves having several coders analyze the same content independently and comparing their results.
+<ul>
+<li>A high level of agreement between coders (typically 90% or higher) indicates reliable coding. If discrepancies arise, the operational definitions or coding procedures may need to be revised.</li>
+</ul>
+</li>
+</ol>
+</section>
+<section id="sampling">
+<h2>Sampling</h2>
+<strong>Sampling</strong> refers to the process of selecting a representative subset of content from a larger pool to study. In content analysis, sampling is crucial because it directly affects the generalizability and reliability of the findings.
+<p>Sampling and coding are closely related because the way you select and code your sample affects the validity of your research project. A well-chosen, representative sample ensures that the data collected can be generalized to the broader population, while accurate coding ensures that the data collected is reliable and meaningful.</p>
+<h3>Sampling Process</h3>
+<ol>
+<li><strong>Defining the Population</strong>: The first step is to define the population of content you are analyzing. This could be all TV shows aired between 2000 and 2020, all magazine advertisements published in a specific year, or all social media posts on a particular topic.</li>
+<li><strong>Establishing a Sample Frame</strong>: Once the population is defined, create a sample frame—a complete list of all potential items that could be sampled. For example, if studying newspaper articles, the sample frame could be the archives of all editions of a particular newspaper.</li>
+<li><strong>Selecting the Sample</strong>: Based on your research question, choose the most appropriate sampling method. For instance, if studying how violence in children’s TV shows has evolved, you might use stratified sampling, selecting shows from different time periods and categories (e.g., comedy, action, educational).</li>
+</ol>
+</section>
+<section id="advantages-challenges">
+<h2>Advantages and Challenges of Content Analysis</h2>
+<h3>Advantages</h3>
+<ul>
+<li><strong>Unobtrusive</strong>: Content analysis does not interfere with the subject matter, allowing for objective results.</li>
+<li><strong>Inexpensive</strong>: Most content, such as magazines or TV shows, is readily available for analysis.</li>
+<li><strong>Quantifiable Data</strong>: Provides measurable data that can be interpreted and compared across studies.</li>
+</ul>
+<h3>Challenges</h3>
+<ul>
+<li><strong>Defining Categories</strong>: Developing operational definitions can be difficult, especially for abstract concepts like "violence" or "gender roles."</li>
+<li><strong>Coding Reliability</strong>: Ensuring coders interpret content consistently is a common challenge.</li>
+<li><strong>Sample Selection</strong>: It’s important to ensure the sample is representative of the broader media landscape; otherwise, the results might not be reliable.</li>
+</ul>
+</section>
+<section id="example">
+<h2>Example: Analyzing Media Coverage of 2024 U.S. Presidential Election Candidates</h2>
+<figure>
+  <img alt="" class="wpa-warning wpa-image-missing-alt size-full wp-image-798" data-warning="Missing alt text" height="695" src="/images/uploads/2024/10/Screenshot-2024-10-20-BBC-Coverage-of-2024-US-Election.png" width="902"/>
+  <figcaption>Screenshot 2024-10-20 BBC Coverage of 2024 US Election</figcaption>
+</figure>
+<h3>Research Question</h3>
+How do major news networks portray the leading candidates in the 2024 U.S. Presidential Election?
+<h3>Step-by-Step Process</h3>
+<ol>
+<li><strong>Define the Research Question</strong>: What do you want to find out?
+<ul>
+<li>Example: "How frequently do major news networks portray the 2024 U.S. presidential candidates in a positive, neutral, or negative light?"</li>
+</ul>
+</li>
+<li><strong>Develop a Hypothesis</strong>: What do you expect to find?
+<ul>
+<li>Hypothesis: "Leading news networks tend to portray candidates from their preferred political party more positively while portraying opposition candidates more negatively."</li>
+</ul>
+</li>
+<li><strong>Operationalize Key Terms</strong>: How will you define key concepts?
+<ul>
+<li>Define "positive portrayal" as any instance where a candidate is shown in a favorable light, including praise for policies, personal attributes, or achievements.</li>
+<li>Define "negative portrayal" as instances where the candidate is criticized for policies, actions, or personal issues.</li>
+<li>Define "neutral portrayal" as coverage that neither praises nor criticizes but simply presents factual information without judgment.</li>
+</ul>
+</li>
+<li><strong>Select a Representative Sample</strong>: What content will you analyze?
+<ul>
+<li>Select 5 major U.S. news networks (e.g., CNN, Fox News, MSNBC, ABC News, and NBC News) and gather a sample of 10 election-related news segments or articles from each network over a 2-month period leading up to the election.</li>
+</ul>
+</li>
+<li><strong>Create a Coding System</strong>: How will you categorize the data?
+<ul>
+<li>Candidate is portrayed positively (Yes/No)</li>
+<li>Candidate is portrayed negatively (Yes/No)</li>
+<li>Candidate is portrayed neutrally (Yes/No)</li>
+<li>Focus of the coverage: Policy, Personal Attributes, or Campaign Strategy</li>
+<li>Mention of candidate's position on key issues (e.g., economy, immigration, healthcare)</li>
+</ul>
+</li>
+<li><strong>Test for Coding Reliability</strong>: Ensure consistency among coders. Have two coders independently analyze the same news segment using the coding sheet. Compare results to ensure they categorize positive, negative, and neutral coverage consistently.</li>
+<li><strong>Analyze the Sample</strong>: Collect and quantify the data. Watch or read the selected news segments and articles, and use the coding sheet to categorize the portrayal of each candidate. Count the number of positive, negative, and neutral portrayals across networks.</li>
+<li><strong>Present Results</strong>: Quantify the findings.
+<ul>
+<li>Example findings: "In the 50 news segments analyzed, Fox News portrayed the Republican candidate positively 70% of the time and the Democratic candidate negatively 60% of the time, while CNN portrayed the Democratic candidate positively 65% of the time and the Republican candidate negatively 55% of the time. Neutral coverage was more common on ABC News and NBC News."</li>
+</ul>
+</li>
+<li><strong>Interpret the Results</strong>: Based on the findings, conclude whether there is evidence of bias in how networks portray candidates from different political parties. The results might suggest that certain networks favor candidates from their preferred party, reflecting partisanship in media coverage of the election.</li>
+</ol>
+</section>
+<section id="further-reading">
+<h2>Further Reading</h2>
+<ul>
+<li>Adams, W., &amp; Adams, F. S. (1978). Television network news: Issues in content research. Washington, DC: George Washington University.</li>
+<li>Gottschalk, L. A. (1995). Content analysis of verbal behavior: New findings and clinical applications. Mahwah, NJ: Lawrence Erlbaum.</li>
+<li>Krippendorff, K. (2018). Content analysis: An introduction to its methodology. Sage publications.</li>
+<li>Mayring, P. (2014). Qualitative content analysis: Theoretical foundation, basic procedures and software solution. SSOAR.</li>
+<li>Neuendorf, K. A. (2002). The content analysis guidebook. Thousand Oaks, CA: Sage.</li>
+<li>Riffe, D., Lacy, S., &amp; Fico, G. (2005). Analyzing media messages: Using quantitative content analysis in research. Mahwah, NJ: Lawrence Erlbaum.</li>
+</ul>
+</section>
+
+
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+    </ul>
+<nav class="paginav">
+  <a class="next" href="http://localhost:1313/blog/2025/12/what-is-ai-part-2-demystifying-ai-through-four-acts/">
+    <span class="title">Next »</span>
+    <span>What Is AI? Part 2 – Demystifying AI Through Four Acts</span>
+  </a>
+</nav>
+
+  </footer>
+</article>
+    </main>
+    
+<footer class="footer">
+        <span>&copy; 2026 <a href="http://localhost:1313/">Keren Wang</a></span> · 
+
+    
+    
+    <span>
+        Powered by
+        <a href="https://gohugo.io/?utm_source=papermod" rel="noopener" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" id="top-link" class="top-link hidden" aria-label="go to top" title="Go to Top (Alt + G)" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+        stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevrons-up">
+        <polyline points="17 11 12 6 7 11"></polyline>
+        <polyline points="17 18 12 13 7 18"></polyline>
+    </svg>
+</a>
+
+<script>
+(function() {
+    'use strict';
+
+    
+
+    function slugify(text) {
+        return text
+            .toLowerCase()
+            .replace(/[\u00A0\s]+/g, '-')
+            .replace(/[^\w\-]+/g, '')
+            .replace(/--+/g, '-')
+            .replace(/^-|-$/g, '');
+    }
+
+    
+
+    function backfillHeadingIds() {
+        var tocLinks = document.querySelectorAll(
+            'nav#TableOfContents a[href^="#"], ' +
+            '.toc a[href^="#"], ' +
+            'details.toc a[href^="#"]'
+        );
+        if (tocLinks.length === 0) return;
+
+        var headings = Array.prototype.slice.call(
+            document.querySelectorAll(
+                '.post-content h1, .post-content h2, .post-content h3, ' +
+                '.post-content h4, .post-content h5, .post-content h6'
+            )
+        );
+
+        tocLinks.forEach(function(link) {
+            var href = link.getAttribute('href');
+            if (!href || href === '#') return;
+            var targetId = decodeURIComponent(href.substring(1));
+            if (!targetId || document.getElementById(targetId)) return;
+
+            var linkText = link.textContent.trim();
+            for (var i = 0; i < headings.length; i++) {
+                if (headings[i].textContent.trim() === linkText && !headings[i].id) {
+                    headings[i].id = targetId;
+                    break;
+                }
+            }
+        });
+
+        
+        headings.forEach(function(h) {
+            if (!h.id) {
+                var id = slugify(h.textContent);
+                if (id) h.id = id;
+            }
+        });
+    }
+
+    
+
+    function attachAnchorScroll() {
+        var HEADER_OFFSET = 80;
+
+        document.addEventListener('click', function(e) {
+            var link = e.target.closest('a[href^="#"]');
+            if (!link) return;
+            var href = link.getAttribute('href');
+            if (!href || href === '#') return;
+
+            var targetId = decodeURIComponent(href.substring(1));
+            if (!targetId) return;
+
+            var target = document.getElementById(targetId);
+            if (!target) return;
+
+            
+            if (e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
+            if (link.target === '_blank') return;
+
+            e.preventDefault();
+
+            var rect = target.getBoundingClientRect();
+            var top = rect.top + window.pageYOffset - HEADER_OFFSET;
+
+            window.scrollTo({
+                top: top,
+                behavior: 'smooth'
+            });
+
+            
+            if (history.replaceState) {
+                history.replaceState(null, '', '#' + targetId);
+            }
+        });
+    }
+
+    
+
+    function applySmartDropCap() {
+        var posts = document.querySelectorAll('.post-single .post-content');
+        posts.forEach(function(post) {
+            
+            if (post.querySelector('p.has-drop-cap')) return;
+
+            
+            
+            var paragraphs = post.querySelectorAll('p');
+            for (var i = 0; i < paragraphs.length; i++) {
+                var p = paragraphs[i];
+                var text = p.textContent.trim();
+
+                
+                if (text.length < 80) continue;
+
+                
+                if (/^Posted by /i.test(text)) continue;
+                if (/^Lecture by /i.test(text)) continue;
+                if (/^Published in /i.test(text)) continue;
+
+                
+                
+                var firstChild = p.firstElementChild;
+                if (firstChild) {
+                    var style = firstChild.getAttribute('style') || '';
+                    if (/font-size:\s*(?:[2-9]\d|[0-9]+pt|[1-9]\.\d+em|[1-9]rem)/i.test(style)) {
+                        continue;
+                    }
+                }
+
+                
+                p.classList.add('has-drop-cap');
+                break;
+            }
+        });
+    }
+
+    
+
+    function init() {
+        backfillHeadingIds();
+        applySmartDropCap();
+        attachAnchorScroll();
+    }
+
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', init);
+    } else {
+        init();
+    }
+})();
+</script>
+
+
+<script>
+    let menu = document.getElementById('menu');
+    if (menu) {
+        
+        const scrollPosition = localStorage.getItem("menu-scroll-position");
+        if (scrollPosition) {
+            menu.scrollLeft = parseInt(scrollPosition, 10);
+        }
+        
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var toplink = document.getElementById("top-link");
+    window.onscroll = function () {
+        const scrollThreshold = window.innerHeight;
+        if (document.body.scrollTop > scrollThreshold || document.documentElement.scrollTop > scrollThreshold) {
+            toplink.classList.remove("hidden");
+        } else {
+            toplink.classList.add("hidden");
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        const html = document.querySelector("html");
+        if (html.dataset.theme === "dark") {
+            html.dataset.theme = 'light';
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            html.dataset.theme = 'dark';
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+<script>
+    document.querySelectorAll('pre > code').forEach((codeblock) => {
+        const container = codeblock.parentNode.parentNode;
+
+        const copybutton = document.createElement('button');
+        copybutton.classList.add('copy-code');
+        copybutton.innerHTML = 'copy';
+
+        function copyingDone() {
+            copybutton.innerHTML = 'copied!';
+            setTimeout(() => {
+                copybutton.innerHTML = 'copy';
+            }, 2000);
+        }
+
+        copybutton.addEventListener('click', (cb) => {
+            if ('clipboard' in navigator) {
+                navigator.clipboard.writeText(codeblock.textContent);
+                copyingDone();
+                return;
+            }
+
+            const range = document.createRange();
+            range.selectNodeContents(codeblock);
+            const selection = window.getSelection();
+            selection.removeAllRanges();
+            selection.addRange(range);
+            try {
+                document.execCommand('copy');
+                copyingDone();
+            } catch (e) { };
+            selection.removeRange(range);
+        });
+
+        if (container.classList.contains("highlight")) {
+            container.appendChild(copybutton);
+        } else if (container.parentNode.firstChild == container) {
+            
+        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
+            
+            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
+        } else {
+            
+            codeblock.parentNode.appendChild(copybutton);
+        }
+    });
+</script>
+</body>
+
+</html>

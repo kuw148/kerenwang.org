@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Gantt Chart on Keren Wang</title>
+    <link>http://localhost:1313/tags/gantt-chart/</link>
+    <description>Recent content in Gantt Chart on Keren Wang</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Nov 2024 01:05:28 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/gantt-chart/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lesson on Data Visualization and its Misuses</title>
+      <link>http://localhost:1313/teaching/2024/11/lesson-on-data-visualization-and-its-misuses/</link>
+      <pubDate>Tue, 12 Nov 2024 01:05:28 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/2024/11/lesson-on-data-visualization-and-its-misuses/</guid>
+      <description>&lt;h4&gt;&lt;b&gt;Posted by Keren Wang, FA 2024&lt;/b&gt;&lt;/h4&gt;&lt;hr/&gt;
+&lt;h6&gt;&lt;b&gt;In this session, we aim to achieve several key learning objectives:&lt;/b&gt;&lt;/h6&gt;
+&lt;ul&gt;
+&lt;li aria-checked=&#34;false&#34; aria-level=&#34;1&#34;&gt;&lt;b&gt;Understand the fundamental principles of framing and visual rhetoric,&lt;/b&gt; exploring how they shape the design and interpretation of data visualizations.&lt;/li&gt;
+&lt;li aria-checked=&#34;false&#34; aria-level=&#34;1&#34;&gt;&lt;b&gt;Examine the art of designing and manipulating graphic systems of signs&lt;/b&gt; that disclose or conceal specific quantitative or qualitative information.&lt;/li&gt;
+&lt;li aria-checked=&#34;false&#34; aria-level=&#34;1&#34;&gt;&lt;b&gt;Identify common types of data visualizations,&lt;/b&gt; such as bar charts, pie charts, line graphs, and network graphs, along with their appropriate applications.&lt;/li&gt;
+&lt;li aria-checked=&#34;false&#34; aria-level=&#34;1&#34;&gt;&lt;b&gt;Recognize the advantages and potential misuses of data visualizations,&lt;/b&gt; including manipulative techniques like framing and scaling distortions.&lt;/li&gt;
+&lt;li aria-checked=&#34;false&#34; aria-level=&#34;1&#34;&gt;&lt;b&gt;Critically analyze real and hypothetical examples&lt;/b&gt; to detect misleading or biased visual representations.&lt;/li&gt;
+&lt;li aria-checked=&#34;false&#34; aria-level=&#34;1&#34;&gt;&lt;b&gt;Develop best practices for creating clear, honest, and effective data visualizations,&lt;/b&gt; ensuring accuracy and ethical integrity.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr/&gt;
+&lt;h2&gt;&lt;b&gt;Photography and Visual Rhetoric&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;To truly grasp the fundamental principles and perils of data visualization, we must journey back to the birth of photography and photojournalism. When photography was first employed in news reporting, it carried an inherent demand for credibility. Unlike paintings or sketches, photographs were perceived as unfiltered, unmediated representations of reality. Ironically, as our discussion will reveal, even from its inception, &lt;a href=&#34;https://en.wikipedia.org/wiki/Photograph_manipulation&#34;&gt;photojournalism was subject to rhetorical manipulation&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

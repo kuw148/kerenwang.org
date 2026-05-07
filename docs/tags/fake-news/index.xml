@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Fake News on Keren Wang</title>
+    <link>http://localhost:1313/tags/fake-news/</link>
+    <description>Recent content in Fake News on Keren Wang</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Oct 2025 00:26:53 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/fake-news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fake News: Concepts, Rhetorical Disruptions, and Policy Implications</title>
+      <link>http://localhost:1313/teaching/2025/10/fake-news-concepts-rhetorical-disruptions-and-policy-implications/</link>
+      <pubDate>Mon, 27 Oct 2025 00:26:53 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/2025/10/fake-news-concepts-rhetorical-disruptions-and-policy-implications/</guid>
+      <description>&lt;div class=&#34;scom2050-lesson&#34; style=&#34;font-family: system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif; line-height: 1.55; max-width: 880px; margin: 0 auto;&#34;&gt;
+&lt;header style=&#34;margin: 1.2rem 0 .75rem;&#34;&gt;
+&lt;p class=&#34;muted&#34; style=&#34;margin: .25rem 0 0;&#34;&gt;&lt;em&gt;&lt;strong&gt;Media, Society, and Culture&lt;/strong&gt; Lesson Module&lt;/em&gt;&lt;/p&gt;
+&lt;img alt=&#34;&#34; class=&#34;aligncenter size-full wp-image-1172&#34; height=&#34;688&#34; src=&#34;http://localhost:1313/images/uploads/2025/10/Fake-News-Header.gif&#34; width=&#34;1280&#34;/&gt;
+&lt;/header&gt;&lt;section style=&#34;margin: 1.2rem 0 1.75rem;&#34;&gt;
+&lt;h2 id=&#34;hook&#34; style=&#34;font-size: 2rem; margin-bottom: .4rem;&#34;&gt;&lt;span style=&#34;color: #ff99cc;&#34;&gt;Seeing Isn’t Believing&lt;/span&gt;&lt;/h2&gt;
+&lt;pre style=&#34;margin: 0 0 .75rem;&#34;&gt;&lt;iframe allowfullscreen=&#34;allowfullscreen&#34; frameborder=&#34;0&#34; height=&#34;288&#34; src=&#34;https://commons.wikimedia.org/wiki/File:Dictators_-_Kim_Jong-Un_by_RepresentUs.webm?embedplayer=yes&#34; width=&#34;512&#34;&gt;&lt;/iframe&gt; &lt;span style=&#34;font-size: 10pt; color: #ff99cc;&#34;&gt;RepresentUs, CC BY 3.0 &amp;lt;https://creativecommons.org/licenses/by/3.0&amp;gt;, via Wikimedia Commons: A synthetic Kim Jong Un warns Americans—evidence that our eyes/ears are no longer reliable gatekeepers.&lt;/span&gt;&lt;/pre&gt;
+&lt;p data-end=&#34;1005&#34; data-start=&#34;263&#34;&gt;This video clip is a &#34;&lt;a href=&#34;https://en.wikipedia.org/wiki/Deepfake&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;deepfake&lt;/a&gt;&#34; of Kim Jong Un created in 2020 by &lt;a href=&#34;https://represent.us/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;RepresentUs&lt;/a&gt;, a non-partisan non-profit organization that produced it to raise public awareness about fake news in the emerging age of generative AI. The footage itself is fully synthetic, yet it’s an amalgamation from genuine video footage and voice samples of the North Korean leader drawn from publicly available news archives. It was intentionally designed to look real enough to unsettle us, but still recognizable as “fake” for educational purposes. Since 2020, of course, deepfake technology has advanced by orders of magnitude, in terms of realism, accessibility, and speed of production.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Evaluating Online Sources</title>
+      <link>http://localhost:1313/teaching/2025/03/evaluating-online-sources/</link>
+      <pubDate>Wed, 26 Mar 2025 20:28:08 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/2025/03/evaluating-online-sources/</guid>
+      <description>&lt;!-- FullPage.js CSS --&gt; &lt;!-- Your font link --&gt;
+&lt;div id=&#34;fullpage&#34;&gt;
+&lt;div class=&#34;section&#34; id=&#34;section0&#34;&gt;&lt;/div&gt;
+&lt;!-- Section 1: Overview --&gt;
+&lt;div class=&#34;section&#34; id=&#34;overview&#34;&gt;
+&lt;hr/&gt;
+&lt;h2 style=&#34;font-size: 32px;&#34;&gt;&lt;span style=&#34;color: #ffff99;&#34;&gt;1. OVERVIEW&lt;/span&gt;&lt;/h2&gt;
+This lesson will be focusing on understanding and evaluating evidence and information sources, a crucial aspect of constructing persuasive arguments. It explains how evidence interacts with values, and presents general tests for assessing the quality of evidence. We will also be learning how to locate and evaluate various sources of evidence, guiding you on choosing reliable information from books, periodicals, websites, and more. The chapter emphasizes the importance of digital literacy and critical evaluation of different types of sources.
+&lt;figure&gt;&lt;img alt=&#34;Ad Fontes Media Bias Chart 6.0&#34; src=&#34;http://localhost:1313/images/external/upload-wikimedia-org/wikipedia/commons/thumb/e/ef/Adfontesmedia.jpg/1024px-Adfontesmedia.jpg&#34; width=&#34;1024&#34;/&gt;&lt;figcaption&gt;&lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Adfontesmedia.jpg&#34;&gt;Media Bias Chart published by Ad Fontes Media, 2020. Fact-checking always lags behind the emergence of new biased sources of information.&lt;/a&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/div&gt;
+&lt;!-- Section 2: Understanding Evidence --&gt;
+&lt;div class=&#34;section&#34; id=&#34;understanding-evidence&#34;&gt;
+&lt;hr/&gt;
+&lt;h1 style=&#34;font-size: 32px;&#34;&gt;&lt;span style=&#34;color: #ffff99;&#34;&gt;2. UNDERSTANDING EVIDENCE&lt;/span&gt;&lt;/h1&gt;
+&lt;h3&gt;Evidence and Values&lt;/h3&gt;
+In public discourse, evidence is invariably filtered through the &#34;terminal screens&#34; of societal norms and cultural values, leading to divergent interpretations even when presented with the same set of facts. Consider, for instance, debates surrounding Artificial Intelligence (AI) and employment. For techno-optimists, as represented by some &lt;a href=&#34;https://www.jstor.org/stable/27283815&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Silicon Valley entrepreneurs&lt;/a&gt;, rapid technological advancements are seen as essential for societal evolution. They may interpret the emergence of &lt;a href=&#34;https://arxiv.org/html/2502.07050v1&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Artificial General Intelligence (AGI) labor&lt;/a&gt; as an auspice for accelerated economic growth, productivity, and innovation, contending that AI liberates human workers from repetitive labor and allows greater engagement in creative, strategic, or emotionally rewarding tasks. Conversely, many labor advocates and trade unionists may interpret the prospect of an AGI workforce &lt;a href=&#34;https://www.nber.org/papers/w32980&#34;&gt;less positively&lt;/a&gt;. As critics of unchecked technological disruption, they might perceive this development as a harbinger of livelihood displacement, expressing concerns that automation could trigger widespread unemployment, diminish workers&#39; bargaining power, and deepen existing economic inequalities. Such &lt;strong&gt;rhetorical divergence&lt;/strong&gt; highlights how interpretations of evidence surrounding AI&#39;s impact are strategically framed to reinforce broader narratives of either progress or caution.
+&lt;p&gt;This example illustrates that the interpretation of evidence is not merely a neutral or objective process but is deeply intertwined with rhetorical constructions that reflect and reinforce specific value systems. Recognizing this interplay is crucial for understanding the dynamics of public debates and the ways in which information is presented and perceived.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

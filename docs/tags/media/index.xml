@@ -1,0 +1,740 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media on Keren Wang</title>
+    <link>http://localhost:1313/tags/media/</link>
+    <description>Recent content in Media on Keren Wang</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Nov 2025 04:41:42 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/media/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Free Speech and Communication Rights</title>
+      <link>http://localhost:1313/blog/2025/11/free-speech-and-communication-rights/</link>
+      <pubDate>Mon, 03 Nov 2025 04:41:42 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2025/11/free-speech-and-communication-rights/</guid>
+      <description>&lt;div class=&#34;scom2050-lesson&#34; style=&#34;font-family: system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif; line-height: 1.55; max-width: 880px; margin: 0 auto;&#34;&gt;
+&lt;header class=&#34;hero&#34;&gt;
+&lt;div class=&#34;hero-inner&#34;&gt;
+&lt;p class=&#34;sub&#34;&gt;Online lesson module - A practical walk through First Amendment foundations, controversial but protected expressions, categories of unprotected speech, and contemporary questions of platform power, VPNs, and the Tor network. This lesson follows our in‑class slide deck and uses the same conceptual scaffolding for continuity.&lt;/p&gt;
+&lt;table border=&#34;1&#34; style=&#34;width: 91.7614%; border-collapse: collapse; margin-left: 40px; border-color: #ffffff; border-style: solid; background-color: #1f2f36;&#34;&gt;
+&lt;tbody style=&#34;padding-left: 40px;&#34;&gt;
+&lt;tr style=&#34;padding-left: 40px;&#34;&gt;
+&lt;td style=&#34;width: 100%; padding-left: 40px;&#34;&gt;
+&lt;h3 style=&#34;line-height: 1.24138; font-family: system-ui, -apple-system, &#39;Segoe UI&#39;, Roboto, Helvetica, Arial, sans-serif; padding-left: 40px;&#34;&gt;&lt;span style=&#34;color: #00ccff;&#34;&gt;Table of Contents&lt;/span&gt;&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li style=&#34;list-style-type: none;&#34;&gt;
+&lt;ol&gt;
+&lt;li style=&#34;list-style-type: none;&#34;&gt;
+&lt;ol style=&#34;font-family: system-ui, -apple-system, &#39;Segoe UI&#39;, Roboto, Helvetica, Arial, sans-serif;&#34;&gt;
+&lt;li&gt;&lt;span style=&#34;color: #99ccff;&#34;&gt;&lt;a href=&#34;#foundations&#34; style=&#34;color: #99ccff;&#34;&gt;Free Expression: Constitutional and Global Frames&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;color: #99ccff;&#34;&gt;&lt;a href=&#34;#history&#34; style=&#34;color: #99ccff;&#34;&gt;Free Expression in American History&lt;/a&gt;&lt;/span&gt;
+&lt;ul style=&#34;font-family: system-ui, -apple-system, &#39;Segoe UI&#39;, Roboto, Helvetica, Arial, sans-serif;&#34;&gt;
+&lt;li&gt;&lt;span style=&#34;color: #99ccff;&#34;&gt;&lt;a href=&#34;#prior-restraint&#34; style=&#34;color: #99ccff;&#34;&gt;Prior Restraint and its Discontents&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;color: #99ccff;&#34;&gt;&lt;a href=&#34;#protected&#34; style=&#34;color: #99ccff;&#34;&gt;One Man&#39;s Vulgarity is Another&#39;s Lyric&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;color: #99ccff;&#34;&gt;&lt;a href=&#34;#unprotected&#34; style=&#34;color: #99ccff;&#34;&gt;Unprotected Speech&lt;/a&gt;&lt;/span&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style=&#34;color: #99ccff;&#34;&gt;&lt;a href=&#34;#defamation&#34; style=&#34;color: #99ccff;&#34;&gt;Defamation&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;color: #99ccff;&#34;&gt;&lt;a href=&#34;#fighting&#34; style=&#34;color: #99ccff;&#34;&gt;Fighting Words&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;color: #99ccff;&#34;&gt;&lt;a href=&#34;#obscenity&#34; style=&#34;color: #99ccff;&#34;&gt;Obscenity&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;color: #99ccff;&#34;&gt;&lt;a href=&#34;#ip&#34; style=&#34;color: #99ccff;&#34;&gt;Intellectual Property Violations&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;color: #99ccff;&#34;&gt;&lt;a href=&#34;#criminal&#34; style=&#34;color: #99ccff;&#34;&gt;Speech Integral to Criminal Conduct&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;color: #99ccff;&#34;&gt;&lt;a href=&#34;#censorship&#34; style=&#34;color: #99ccff;&#34;&gt;Internet Censorship &amp;amp; Communication Rights&lt;/a&gt;&lt;/span&gt;
+&lt;ul style=&#34;font-family: system-ui, -apple-system, &#39;Segoe UI&#39;, Roboto, Helvetica, Arial, sans-serif;&#34;&gt;
+&lt;li&gt;&lt;span style=&#34;color: #99ccff;&#34;&gt;&lt;a href=&#34;#vpn&#34; style=&#34;color: #99ccff;&#34;&gt;VPNs: Benefits and Constraints&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;color: #99ccff;&#34;&gt;&lt;a href=&#34;#tor&#34; style=&#34;color: #99ccff;&#34;&gt;The Tor Network and the “Dark Web”&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;color: #99ccff;&#34;&gt;&lt;a href=&#34;#references&#34; style=&#34;color: #99ccff;&#34;&gt;References&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;div class=&#34;grid&#34;&gt;
+&lt;div class=&#34;toc&#34;&gt;&lt;/div&gt;
+&lt;img alt=&#34;&#34; class=&#34;aligncenter size-full wp-image-1188&#34; height=&#34;376&#34; src=&#34;http://localhost:1313/images/uploads/2025/11/Free-Expression-header.gif&#34; width=&#34;680&#34;/&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/header&gt;&lt;main class=&#34;wrap&#34;&gt;&lt;!-- Foundations --&gt;&lt;/main&gt;&lt;section id=&#34;foundations&#34;&gt;
+&lt;div class=&#34;section-&#34;&gt;
+&lt;h2&gt;&lt;span style=&#34;color: #00ccff;&#34;&gt;1) Free Expression: Constitutional and Global Frames&lt;/span&gt;&lt;/h2&gt;
+&lt;div class=&#34;cols&#34;&gt;
+&lt;div&gt;
+&lt;span style=&#34;font-weight: 400;&#34;&gt;The framers of the US Constitution felt a strong need to safeguard the freedom of speech and the press (as well as religion and the right to assemble).&lt;/span&gt;
+&lt;p&gt;The &lt;span style=&#34;color: #ffff99;&#34;&gt;&lt;strong&gt;First Amendment&lt;/strong&gt;&lt;/span&gt; of the Constitution articulates a bright‑line commitment: “Congress shall make no law … abridging the freedom of speech, or of the press.” [1]&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;callout&#34;&gt;
+&lt;pre&gt;&lt;span style=&#34;color: #ccffcc;&#34;&gt;&lt;strong&gt;Interpretive anchor:&lt;/strong&gt; Political and religious speech receive the highest protection under the US constitutional framework. Restrictions must satisfy content‑neutral “time, place, and manner” standards and leave open alternative channels of communication. [2]
+&lt;/span&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;div class=&#34;box&#34;&gt;
+&lt;span style=&#34;color: #ccffcc;&#34;&gt;&lt;span style=&#34;color: #ffffff;&#34;&gt;The term “&lt;span style=&#34;color: #ffff99;&#34;&gt;&lt;strong&gt;press&lt;/strong&gt;&lt;/span&gt;” in the First Amendment is NOT meant to be narrowly understood as newspapers or printed matter. The Supreme Court of the US (SCOTUS) has consistency interpreted the &#34;press&#34; as an umbrella encompassing any medium used to disseminate information and opinions to the public. &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;The &#34;press&#34; includes, but not limited to: print publications, broadcast media, digital platforms, blogs, podcasts, streaming contents, social media, and &lt;/span&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Junger_v._Daley&#34;&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;software source codes&lt;/span&gt;&lt;/a&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;. [3]&lt;/span&gt;
+&lt;blockquote&gt;
+&lt;h3 style=&#34;text-align: center;&#34;&gt;&lt;span style=&#34;font-family: &#39;book antiqua&#39;, palatino, serif; color: #ffcc99;&#34;&gt;Universal Declaration of Human Rights, Art. 19&lt;/span&gt;&lt;/h3&gt;
+&lt;p class=&#34;muted&#34; style=&#34;text-align: center;&#34;&gt;&lt;span style=&#34;font-family: &#39;book antiqua&#39;, palatino, serif; color: #ffcc99;&#34;&gt;Everyone has the right to seek, receive, and impart information and ideas through any media and regardless of frontiers. This is the global lingua franca of communication rights.[4]&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;article class=&#34;text-token-text-primary w-full focus:outline-none [--shadow-height:45px] has-data-writing-block:pointer-events-none has-data-writing-block:-mt-(--shadow-height) has-data-writing-block:pt-(--shadow-height) [&amp;amp;:has([data-writing-block])&amp;gt;*]:pointer-events-auto [content-visibility:auto] supports-[content-visibility:auto]:[contain-intrinsic-size:auto_100lvh] scroll-mt-[calc(var(--header-height)+min(200px,max(70px,20svh)))]&#34; data-scroll-anchor=&#34;true&#34; data-testid=&#34;conversation-turn-14&#34; data-turn=&#34;assistant&#34; data-turn-id=&#34;request-WEB:1b7eb0e4-70fc-4417-b516-9fafb91b0d4c-12&#34; dir=&#34;auto&#34; tabindex=&#34;-1&#34;&gt;
+&lt;div class=&#34;text-base my-auto mx-auto pb-10 [--thread-content-margin:--spacing(4)] thread-sm:[--thread-content-margin:--spacing(6)] thread-lg:[--thread-content-margin:--spacing(16)] px-(--thread-content-margin)&#34;&gt;
+&lt;div class=&#34;[--thread-content-max-width:40rem] thread-lg:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col agent-turn&#34; tabindex=&#34;-1&#34;&gt;
+&lt;div class=&#34;flex max-w-full flex-col grow&#34;&gt;
+&lt;div class=&#34;min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal [.text-message+&amp;amp;]:mt-1&#34; data-message-author-role=&#34;assistant&#34; data-message-id=&#34;5216d5c1-6b15-452a-aa0f-006a6d45f883&#34; data-message-model-slug=&#34;gpt-5&#34; dir=&#34;auto&#34;&gt;
+&lt;div class=&#34;flex w-full flex-col gap-1 empty:hidden first:pt-[1px]&#34;&gt;
+&lt;div class=&#34;markdown prose dark:prose-invert w-full break-words light markdown-new-styling&#34;&gt;
+&lt;p data-end=&#34;925&#34; data-is-last-node=&#34;&#34; data-is-only-node=&#34;&#34; data-start=&#34;105&#34;&gt;While the U.S. Constitution enshrines free expression through the First Amendment, its spirit resonates in international human rights law. &lt;strong data-end=&#34;311&#34; data-start=&#34;245&#34;&gt;&lt;span style=&#34;color: #ffff99;&#34;&gt;Article 19 of the Universal Declaration of Human Rights&lt;/span&gt; (1948)&lt;/strong&gt; extends the same principle beyond national boundaries, affirming that &lt;em data-end=&#34;613&#34; data-start=&#34;382&#34;&gt;“everyone has the right to freedom of opinion and expression; this right includes freedom to hold opinions without interference and to seek, receive and impart information and ideas through any media and regardless of frontiers.” [5]&lt;/em&gt;&lt;/p&gt;
+&lt;p data-end=&#34;925&#34; data-is-last-node=&#34;&#34; data-is-only-node=&#34;&#34; data-start=&#34;105&#34;&gt;In this sense, the American jurisprudence on press freedom contributes to a broader global discourse on &lt;strong data-end=&#34;743&#34; data-start=&#34;719&#34;&gt;communication rights&lt;/strong&gt;—the notion that access to information and the ability to share ideas are not privileges granted by the state, but intrinsic conditions of human dignity and democratic participation. [6]&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mt-3 w-full empty:hidden&#34;&gt;
+&lt;div class=&#34;text-center&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/article&gt;&lt;/div&gt;
+&lt;div class=&#34;box&#34; style=&#34;margin-top: 12px;&#34;&gt;
+&lt;div class=&#34;key-terms&#34;&gt;
+&lt;hr/&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;&lt;!-- History --&gt;
+&lt;section id=&#34;history&#34;&gt;
+&lt;div class=&#34;section-&#34;&gt;
+&lt;h2&gt;&lt;span style=&#34;color: #00ccff;&#34;&gt;2) Free Expression in American History
+&lt;/span&gt;&lt;/h2&gt;
+The First Amendment’s promise of free expression has never fully insulated the United States from attempts to silence dissenting voices or control the press. A vivid early example came in 1798, when the Federalist-controlled Congress enacted the &lt;strong data-end=&#34;404&#34; data-start=&#34;377&#34;&gt;Alien and Sedition Acts&lt;/strong&gt;, a series of laws designed to suppress opposition during a time of political and international tension. The Sedition Act, in particular, made it a crime to “write, publish, or print any false, scandalous, and malicious writing” against the president, Congress, or the federal government.[7]
+&lt;p&gt;In practice, these laws targeted journalists, editors, and immigrant supporters of the Democratic-Republican Party, whose criticism of Federalist policies was reframed as a threat to national security. The Acts proved deeply unpopular, provoking a national backlash over what many viewed as an assault on constitutional liberties. When the Federalists were voted out of power in 1800, the new administration swiftly allowed the legislation to expire, marking an early and decisive reaffirmation that &lt;strong data-end=&#34;1305&#34; data-start=&#34;1196&#34;&gt;political dissent and criticism of public officials lie at the core of the American free speech tradition&lt;/strong&gt;. [8]&lt;/p&gt;
+&lt;div class=&#34;callout warn&#34;&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;&lt;section id=&#34;prior-restraint&#34;&gt;
+&lt;div class=&#34;section-&#34;&gt;
+&lt;h3&gt;&lt;span style=&#34;color: #99ccff;&#34;&gt;2.1 Prior Restraint and its Discontents&lt;/span&gt;&lt;/h3&gt;
+&lt;span style=&#34;color: #ffff99;&#34;&gt;&lt;strong data-end=&#34;254&#34; data-start=&#34;235&#34;&gt;Prior restraint&lt;/strong&gt;&lt;/span&gt; refers to government actions that prevent speech or publication before it occurs, typically through injunctions, licensing, or other forms of preemptive censorship. &lt;strong data-end=&#34;254&#34; data-start=&#34;235&#34;&gt;Prior restraint&lt;/strong&gt; has deep roots in &lt;strong data-end=&#34;461&#34; data-start=&#34;439&#34;&gt;English common law&lt;/strong&gt;, where monarchs required the press to obtain royal licenses, in effect silencing political or religious dissent. [9]
+&lt;p data-end=&#34;1386&#34; data-start=&#34;265&#34;&gt;The struggle over prior restraint became especially visible in &lt;strong data-end=&#34;363&#34; data-start=&#34;328&#34;&gt;twentieth-century American jurisprudence&lt;/strong&gt;, as courts were forced to define the limits of government control over publication. In 1931, the Supreme Court’s decision in &lt;strong&gt;&lt;em data-end=&#34;512&#34; data-start=&#34;493&#34;&gt;Near v. Minnesota&lt;/em&gt;&lt;/strong&gt; marked the first major ruling to strike down a state’s attempt to suppress a newspaper before distribution. The case arose when Minnesota officials tried to shut down &lt;em data-end=&#34;700&#34; data-start=&#34;680&#34;&gt;The Saturday Press&lt;/em&gt; for accusing local politicians of corruption. The Court ruled that such pre-publication censorship violated the First Amendment, establishing that punishment for libel or incitement must come &lt;em data-end=&#34;900&#34; data-start=&#34;893&#34;&gt;after&lt;/em&gt; publication through due process, not before. [10]&lt;/p&gt;
+&lt;table style=&#34;width: 100%; border-collapse: collapse; background-color: #b6c7de;&#34;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;width: 100%;&#34;&gt; 
+&lt;figure&gt;
+  &lt;img alt=&#34;&#34; class=&#34;size-full wp-image-1189&#34; height=&#34;1211&#34; src=&#34;http://localhost:1313/images/uploads/2025/11/Free-Expression-A-November-1950-Central-Intelligence-Agency-map-of-dissident-activities-in-Indochina_the-Pentagon-Papers.png&#34; width=&#34;800&#34;/&gt;
+  &lt;figcaption&gt;&lt;span style=&#34;color: #993300;&#34;&gt;A declassified Central Intelligence Agency map from November 1950 depicting dissident activity in Indochina, later published by The New York Times as part of the Pentagon Papers series. &lt;span style=&#34;font-size: 10pt;&#34;&gt;Source: Central Intelligence Agency, Public domain, via Wikimedia Commons &amp;lt;https://commons.wikimedia.org/wiki/File:Dissident_Activities_in_Indochina.svg&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p data-end=&#34;1386&#34; data-start=&#34;265&#34;&gt;Four decades later, in 1971, &lt;strong&gt;&lt;em data-end=&#34;1015&#34; data-start=&#34;978&#34;&gt;New York Times Co. v. United States&lt;/em&gt;&lt;/strong&gt;—the &lt;strong data-end=&#34;1041&#34; data-start=&#34;1020&#34;&gt;“Pentagon Papers”&lt;/strong&gt; case—reaffirmed that even claims of national security rarely justify silencing the press in advance. The Nixon administration’s effort to block the &lt;em data-end=&#34;1197&#34; data-start=&#34;1190&#34;&gt;Times&lt;/em&gt; and &lt;em data-end=&#34;1219&#34; data-start=&#34;1202&#34;&gt;Washington Post&lt;/em&gt; from publishing leaked documents on the Vietnam War was rejected, with Justice Black famously writing that “the press was to serve the governed, not the governors.” [11]&lt;/p&gt;
+&lt;p data-end=&#34;1386&#34; data-start=&#34;265&#34;&gt;The issue of &lt;strong&gt;prior restraint&lt;/strong&gt; resurfaced in 1979 with &lt;strong&gt;&lt;em data-end=&#34;1581&#34; data-start=&#34;1547&#34;&gt;United States v. The Progressive&lt;/em&gt;&lt;/strong&gt;, when the &lt;strong data-end=&#34;1622&#34; data-start=&#34;1592&#34;&gt;Department of Energy (DOE)&lt;/strong&gt; sought to prevent &lt;em data-end=&#34;1658&#34; data-start=&#34;1641&#34;&gt;The Progressive&lt;/em&gt; magazine from publishing an article titled &lt;em data-end=&#34;1761&#34; data-start=&#34;1702&#34;&gt;“The H-Bomb Secret: How We Got It, Why We’re Telling It.”&lt;/em&gt; Written by freelance journalist &lt;strong data-end=&#34;1812&#34; data-start=&#34;1794&#34;&gt;Howard Morland&lt;/strong&gt;, the piece compiled publicly available scientific information to explain the general principles of hydrogen bomb design.&lt;/p&gt;
+&lt;p data-end=&#34;1386&#34; data-start=&#34;265&#34;&gt;The US government argued that even though the H-bomb data was unclassified, the article could help hostile nations develop nuclear weapons and therefore threatened US national security. A federal judge initially granted an injunction, marking one of the rare instances in U.S. history where prior restraint was temporarily upheld. However, the case was dropped before reaching the Supreme Court after similar information appeared in other publications, rendering the injunction moot. [12]&lt;/p&gt;
+&lt;div class=&#34;cols&#34;&gt;
+&lt;div class=&#34;box&#34;&gt;
+&lt;hr/&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;&lt;!-- Protected but controversial --&gt;
+&lt;section id=&#34;protected&#34;&gt;
+&lt;div class=&#34;section-&#34;&gt;
+&lt;h2&gt;&lt;span style=&#34;color: #00ccff;&#34;&gt;3) &lt;em&gt;One Man’s Vulgarity is Another’s Lyric&lt;/em&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;div class=&#34;cols&#34;&gt;
+&lt;strong&gt;&lt;span style=&#34;color: #ffff99;&#34;&gt;The First Amendment protects not only agreeable or accurate speech but also expression that is false, unsettling, or offensive&lt;/span&gt;,&lt;/strong&gt; so long as it does not cross into one of the legally defined unprotected categories.
+&lt;p&gt;For instance, most &lt;strong data-end=&#34;441&#34; data-start=&#34;421&#34;&gt;&lt;span style=&#34;color: #ffff99;&#34;&gt;false statements&lt;/span&gt; &lt;/strong&gt;(or the &amp;ldquo;right to lie&amp;rdquo;) are &lt;strong&gt;protected&lt;/strong&gt; as long as they do not amount to defamation, perjury, or professional malpractice. The Supreme Court made this point explicit in &lt;em data-end=&#34;624&#34; data-start=&#34;598&#34;&gt;United States v. Alvarez&lt;/em&gt; (2012), when it struck down the Stolen Valor Act, which had criminalized falsely claiming military honors. The Court reasoned that the government cannot impose blanket bans on lies without threatening the broader freedom to engage in activities intrinsic to public discourse and self-expression. [13]&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img alt=&#34;&#34; class=&#34;size-full wp-image-1190&#34; height=&#34;361&#34; src=&#34;http://localhost:1313/images/uploads/2025/11/The_Progressive_H-bomb_cover.jpg&#34; width=&#34;275&#34;/&gt;
+  &lt;figcaption&gt;&lt;span style=&#34;color: #ffcc99;&#34;&gt;C&lt;span style=&#34;color: #ffcc00;&#34;&gt;over of the November 1979 issue of The Progressive, displaying a simplified diagram of the Teller–Ulam hydrogen bomb design— an issue the U.S. Department of Energy sought to censor on national security grounds.&lt;/span&gt;&lt;/span&gt;&lt;br/&gt;&lt;span style=&#34;color: #ffcc00; font-size: 8pt;&#34;&gt;Source: By The Progressive magazine, Fair use, https://en.wikipedia.org/w/index.php?curid=20156806&lt;/span&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;Another recurring controversy involves the &lt;span style=&#34;color: #ffffff;&#34;&gt;publication of &lt;/span&gt;&lt;span style=&#34;color: #ffff99;&#34;&gt;&lt;strong data-end=&#34;1048&#34; data-start=&#34;983&#34;&gt;classified or sensitive government information&lt;/strong&gt;&lt;/span&gt; by journalists or private citizens. In most circumstances, the First Amendment prohibits the government from punishing the press for publishing lawfully obtained materials, even if those materials expose state secrets or political wrongdoing.&lt;/p&gt;
+&lt;p&gt;The &lt;em data-end=&#34;1313&#34; data-start=&#34;1296&#34;&gt;Pentagon Papers&lt;/em&gt; case (1971) and the &lt;em&gt;United States v. Progressive&lt;/em&gt; &amp;ldquo;H-bomb&amp;rdquo; case (1979) we&amp;rsquo;ve discussed earlier reaffirmed this principle, holding that the risk of embarrassment or diplomatic tension generally does not outweigh the public’s right to know.&lt;/p&gt;
+&lt;article class=&#34;text-token-text-primary w-full focus:outline-none [--shadow-height:45px] has-data-writing-block:pointer-events-none has-data-writing-block:-mt-(--shadow-height) has-data-writing-block:pt-(--shadow-height) [&amp;amp;:has([data-writing-block])&amp;gt;*]:pointer-events-auto [content-visibility:auto] supports-[content-visibility:auto]:[contain-intrinsic-size:auto_100lvh] scroll-mt-[calc(var(--header-height)+min(200px,max(70px,20svh)))]&#34; data-scroll-anchor=&#34;true&#34; data-testid=&#34;conversation-turn-30&#34; data-turn=&#34;assistant&#34; data-turn-id=&#34;request-WEB:1b7eb0e4-70fc-4417-b516-9fafb91b0d4c-20&#34; dir=&#34;auto&#34; tabindex=&#34;-1&#34;&gt;
+&lt;div class=&#34;text-base my-auto mx-auto pb-10 [--thread-content-margin:--spacing(4)] thread-sm:[--thread-content-margin:--spacing(6)] thread-lg:[--thread-content-margin:--spacing(16)] px-(--thread-content-margin)&#34;&gt;
+&lt;div class=&#34;[--thread-content-max-width:40rem] thread-lg:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col agent-turn&#34; tabindex=&#34;-1&#34;&gt;
+&lt;div class=&#34;flex max-w-full flex-col grow&#34;&gt;
+&lt;div class=&#34;min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal [.text-message+&amp;amp;]:mt-1&#34; data-message-author-role=&#34;assistant&#34; data-message-id=&#34;f5995701-fd8e-4a96-a720-416e86fadea2&#34; data-message-model-slug=&#34;gpt-5&#34; dir=&#34;auto&#34;&gt;
+&lt;div class=&#34;flex w-full flex-col gap-1 empty:hidden first:pt-[1px]&#34;&gt;
+&lt;div class=&#34;markdown prose dark:prose-invert w-full break-words light markdown-new-styling&#34;&gt;
+&lt;p data-end=&#34;2549&#34; data-is-last-node=&#34;&#34; data-is-only-node=&#34;&#34; data-start=&#34;1648&#34;&gt;Finally, unpopular or &lt;span style=&#34;color: #ffff99;&#34;&gt;&lt;strong data-end=&#34;1694&#34; data-start=&#34;1657&#34;&gt;offensive expressions,&lt;/strong&gt;&lt;/span&gt; for the most part, remains constitutionally &lt;strong&gt;protected&lt;/strong&gt; unless it directly incites violence or falls within another unprotected category such as fighting words (more on this later). This includes speech that most find morally objectionable or politically extreme. The protection of offensive speech ensures that public authorities cannot easily redefine the boundaries of &#34;acceptable opinion.&#34; As Justice Harlan observed in &lt;strong&gt;&lt;em data-end=&#34;2190&#34; data-start=&#34;2169&#34;&gt;Cohen v. California&lt;/em&gt;&lt;/strong&gt; (1971), when a man wore a jacket emblazoned with “F*** the Draft” in a courthouse:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p data-end=&#34;2549&#34; data-is-last-node=&#34;&#34; data-is-only-node=&#34;&#34; data-start=&#34;1648&#34; style=&#34;text-align: center;&#34;&gt;&lt;span style=&#34;color: #ffcc99; font-family: georgia, palatino, serif;&#34;&gt;&lt;strong&gt;“One man’s vulgarity is another’s lyric.”&lt;/strong&gt; &lt;/span&gt;[14]&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/article&gt;
+&lt;hr/&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;&lt;!-- Unprotected categories overview --&gt;
+&lt;section id=&#34;unprotected&#34;&gt;
+&lt;div class=&#34;section-&#34;&gt;
+&lt;h2&gt;&lt;span style=&#34;color: #00ccff;&#34;&gt;4) Unprotected Speech&lt;/span&gt;&lt;/h2&gt;
+While the First Amendment offers broad protection for expression, it is not absolute. Over time, the US Supreme Court has defined a narrow set of unprotected categories of speech—forms of expression that are considered so harmful, fraudulent, or devoid of public value that they do not merit constitutional protection. Each category has been shaped by specific historical cases, reflecting the tension between liberty and harm prevention in a democratic society.
+&lt;div class=&#34;cols&#34;&gt;
+&lt;div class=&#34;box&#34; id=&#34;defamation&#34;&gt;
+&lt;h3&gt;&lt;span style=&#34;color: #99ccff;&#34;&gt;4.1 Defamation (libel &amp;amp; slander)&lt;/span&gt;&lt;/h3&gt;
+&lt;span style=&#34;color: #ffff99;&#34;&gt;&lt;strong data-end=&#34;699&#34; data-start=&#34;685&#34;&gt;Defamation&lt;/strong&gt;&lt;/span&gt; refers to false statements of fact that unjustly harm another person’s reputation. For speech to qualify as defamation, it must meet ALL four criteria: it must be:
+&lt;p style=&#34;padding-left: 40px;&#34;&gt;&lt;span style=&#34;font-size: 14pt;&#34;&gt;&lt;strong&gt;(1) Untrue - &lt;/strong&gt;verified to be factually false &lt;span style=&#34;font-weight: 400;&#34;&gt;or misleading.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&#34;padding-left: 40px;&#34;&gt;&lt;span style=&#34;font-size: 14pt;&#34;&gt;&lt;strong&gt;(2) Public &lt;/strong&gt;- &lt;span style=&#34;font-weight: 400;&#34;&gt;cannot be an one-on-one private conversation, must be at minimum &lt;span style=&#34;text-decoration: underline;&#34;&gt;communicated to a third party individual.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&#34;padding-left: 40px;&#34;&gt;&lt;span style=&#34;font-size: 14pt;&#34;&gt;&lt;strong&gt;(3). Actual Malice&lt;/strong&gt; - made &lt;span style=&#34;font-weight: 400;&#34;&gt;with reckless disregard for truth AND the intent to cause harm.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&#34;padding-left: 40px;&#34;&gt;&lt;span style=&#34;font-size: 14pt;&#34;&gt;&lt;strong&gt;(4)&lt;/strong&gt;&lt;strong&gt;Actual Injury&lt;/strong&gt; - &lt;span style=&#34;font-weight: 400;&#34;&gt;must result in verifiable monetary or reputational damages&lt;/span&gt; [15]&lt;/span&gt;&lt;/p&gt;
+&lt;table style=&#34;width: 128.403%; border-collapse: collapse; background-color: #361d0b;&#34;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;width: 100%;&#34;&gt;
+&lt;figure&gt;
+  &lt;img alt=&#34;&#34; class=&#34;wp-image-1192 size-full&#34; height=&#34;626&#34; src=&#34;http://localhost:1313/images/uploads/2025/11/Free-Expression_IRS-Allows-Taxpayers-To-Deposit-Payments-Directly-Into-Elon-Musks-Bank-Account_Onion-June-6-2025-e1762154065529.png&#34; width=&#34;533&#34;/&gt;
+  &lt;figcaption&gt;&lt;span style=&#34;color: #ffcc00; font-size: 0.7rem;&#34;&gt;The Onion. “IRS Allows Taxpayers to Deposit Payments Directly into Elon Musk’s Bank Account.” The Onion, June 6, 2025. https://www.theonion.com/irs-allows-taxpayers-to-deposit-payments-directly-into-elon-musks-bank-account&lt;/span&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p data-end=&#34;513&#34; data-start=&#34;73&#34;&gt;&lt;span style=&#34;color: #ccffff;&#34;&gt;&lt;span style=&#34;font-family: arial, helvetica, sans-serif;&#34;&gt;&lt;span style=&#34;font-size: 12pt;&#34;&gt;Although &lt;em data-end=&#34;327&#34; data-start=&#34;316&#34;&gt;The Onion&lt;/em&gt;’s June 6, 2025 article, “IRS Allows Taxpayers To Deposit Payments Directly Into Elon Musk’s Bank Account,” makes numerous false claims about the U.S. government and Elon Musk, it is a &lt;strong data-end=&#34;538&#34; data-start=&#34;510&#34;&gt;work of satire&lt;/strong&gt; and &lt;strong&gt;does not meet the legal criteria for defamation&lt;/strong&gt;. &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;font-family: arial, helvetica, sans-serif;&#34;&gt;&lt;span style=&#34;font-size: 12pt;&#34;&gt;Satirical and parodic works like &lt;em data-end=&#34;1141&#34; data-start=&#34;1130&#34;&gt;The Onion&lt;/em&gt;’s are protected precisely because they cannot reasonably be understood as stating actual facts. The publication made clear signals to its readers that the piece is humorous commentary on systemic wealth inequality, not actual news report. [16]&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li style=&#34;list-style-type: none;&#34;&gt;
+&lt;ol&gt;
+&lt;li data-end=&#34;664&#34; data-start=&#34;621&#34;&gt;&lt;span style=&#34;font-family: arial, helvetica, sans-serif; font-size: 12pt; color: #ccffff;&#34;&gt;&lt;strong data-end=&#34;632&#34; data-start=&#34;621&#34;&gt;Untrue:&lt;/strong&gt; The claim is factually false.&lt;/span&gt;&lt;/li&gt;
+&lt;li data-end=&#34;723&#34; data-start=&#34;668&#34;&gt;&lt;span style=&#34;font-family: arial, helvetica, sans-serif; font-size: 12pt; color: #ccffff;&#34;&gt;&lt;strong data-end=&#34;679&#34; data-start=&#34;668&#34;&gt;Communicated to at least one third party:&lt;/strong&gt; It was shared to a large online audience.&lt;/span&gt;&lt;/li&gt;
+&lt;li data-end=&#34;842&#34; data-start=&#34;727&#34;&gt;&lt;span style=&#34;font-family: arial, helvetica, sans-serif; font-size: 12pt; color: #ccffff;&#34;&gt;&lt;strong data-end=&#34;745&#34; data-start=&#34;727&#34;&gt;Actual malice:&lt;/strong&gt; The celebrity chef acted with reckless disregard for the truth by publishing without verification.&lt;/span&gt;&lt;/li&gt;
+&lt;li data-end=&#34;934&#34; data-start=&#34;846&#34;&gt;&lt;span style=&#34;font-family: arial, helvetica, sans-serif; font-size: 12pt; color: #ccffff;&#34;&gt;&lt;strong data-end=&#34;864&#34; data-start=&#34;846&#34;&gt;Actual injury:&lt;/strong&gt; The restaurant suffered measurable financial and reputational harm.&lt;/span&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;div class=&#34;box&#34; id=&#34;fighting&#34;&gt;
+&lt;h3&gt;&lt;span style=&#34;color: #99ccff;&#34;&gt;4.2 Fighting Words (rarely applicable today)&lt;/span&gt;&lt;/h3&gt;
+The category of &lt;span style=&#34;color: #ffff99;&#34;&gt;&lt;strong&gt;&lt;em data-end=&#34;284&#34; data-start=&#34;268&#34;&gt;fighting words &lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;refers to a&lt;strong&gt; very narrow&lt;/strong&gt; class of speech acts so personally abusive and confrontational that they are likely to provoke an immediate violent response from the person addressed. The doctrine was first articulated in the controversial case &lt;em data-end=&#34;365&#34; data-start=&#34;336&#34;&gt;Chaplinsky v. New Hampshire&lt;/em&gt; (1942). Since then, &lt;strong&gt;courts have dramatically narrowed the &lt;em data-end=&#34;440&#34; data-start=&#34;424&#34;&gt;fighting words&lt;/em&gt; doctrine, and it is almost never applied today&lt;/strong&gt;—surviving more as a historical artifact. [17]
+&lt;p data-end=&#34;1400&#34; data-start=&#34;1312&#34;&gt;To qualify as &lt;em data-end=&#34;1342&#34; data-start=&#34;1326&#34;&gt;fighting words&lt;/em&gt;, speech must satisfy &lt;strong&gt;ALL &lt;/strong&gt;of the following elements:&lt;/p&gt;
+&lt;p data-end=&#34;1591&#34; data-start=&#34;1405&#34; style=&#34;padding-left: 40px;&#34;&gt;&lt;span style=&#34;font-size: 14pt;&#34;&gt;&lt;strong data-end=&#34;1427&#34; data-start=&#34;1405&#34;&gt;(1) Personally Abusive&lt;/strong&gt; — must be directed at a specific individual in a way that is extremely insulting or demeaning;&lt;/span&gt;&lt;/p&gt;
+&lt;p data-end=&#34;1764&#34; data-start=&#34;1595&#34; style=&#34;padding-left: 40px;&#34;&gt;&lt;span style=&#34;font-size: 14pt;&#34;&gt;&lt;strong data-end=&#34;1625&#34; data-start=&#34;1595&#34;&gt;(2) Face-to-Face &lt;/strong&gt; — must occur&lt;span style=&#34;font-weight: 400;&#34;&gt; in a close, personal encounter where physical confrontation between involved parties &lt;/span&gt;is possible;&lt;/span&gt;&lt;/p&gt;
+&lt;p data-end=&#34;1912&#34; data-start=&#34;1768&#34; style=&#34;padding-left: 40px;&#34;&gt;&lt;span style=&#34;font-size: 14pt;&#34;&gt;&lt;strong data-end=&#34;1797&#34; data-start=&#34;1768&#34;&gt;(3) Incite Immediate Physical Violence&lt;/strong&gt; — the speech must be so severe where an reasonable be provoked into &lt;span style=&#34;text-decoration: underline;&#34;&gt;immediate physical retaliation&lt;/span&gt; (not merely offend, disturb, or anger).&lt;/span&gt;&lt;/p&gt;
+&lt;p data-end=&#34;2105&#34; data-start=&#34;1916&#34; style=&#34;padding-left: 40px;&#34;&gt;&lt;span style=&#34;font-size: 14pt;&#34;&gt;&lt;strong data-end=&#34;1979&#34; data-start=&#34;1916&#34;&gt;(4) Lack of Broader Value&lt;/strong&gt; — must exist purely as a personal insult and cannot be reasonably interpreted as having serious literary, artistic, political, or scientific value (“SLAPS” value)&lt;/span&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li style=&#34;list-style-type: none;&#34;&gt;&lt;article class=&#34;text-token-text-primary w-full focus:outline-none [--shadow-height:45px] has-data-writing-block:pointer-events-none has-data-writing-block:-mt-(--shadow-height) has-data-writing-block:pt-(--shadow-height) [&amp;amp;:has([data-writing-block])&amp;gt;*]:pointer-events-auto [content-visibility:auto] supports-[content-visibility:auto]:[contain-intrinsic-size:auto_100lvh] scroll-mt-[calc(var(--header-height)+min(200px,max(70px,20svh)))]&#34; data-scroll-anchor=&#34;true&#34; data-testid=&#34;conversation-turn-50&#34; data-turn=&#34;assistant&#34; data-turn-id=&#34;request-WEB:1b7eb0e4-70fc-4417-b516-9fafb91b0d4c-30&#34; dir=&#34;auto&#34; tabindex=&#34;-1&#34;&gt;
+&lt;div class=&#34;text-base my-auto mx-auto pb-10 [--thread-content-margin:--spacing(4)] thread-sm:[--thread-content-margin:--spacing(6)] thread-lg:[--thread-content-margin:--spacing(16)] px-(--thread-content-margin)&#34;&gt;
+&lt;div class=&#34;[--thread-content-max-width:40rem] thread-lg:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col agent-turn&#34; tabindex=&#34;-1&#34;&gt;
+&lt;div class=&#34;flex max-w-full flex-col grow&#34;&gt;
+&lt;div class=&#34;min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal [.text-message+&amp;amp;]:mt-1&#34; data-message-author-role=&#34;assistant&#34; data-message-id=&#34;d60f999b-2323-4294-b7c4-5075b509a734&#34; data-message-model-slug=&#34;gpt-5&#34; dir=&#34;auto&#34;&gt;
+&lt;div class=&#34;flex w-full flex-col gap-1 empty:hidden first:pt-[1px]&#34;&gt;
+&lt;div class=&#34;markdown prose dark:prose-invert w-full break-words light markdown-new-styling&#34;&gt;
+&lt;p data-end=&#34;2539&#34; data-is-last-node=&#34;&#34; data-is-only-node=&#34;&#34; data-start=&#34;2107&#34;&gt;Once again, &lt;strong&gt;fighting words are an exceedingly narrow exception to free expression&lt;/strong&gt;, representing the constitutional system’s effort to balance the right to speak with the need to prevent immediate, face-to-face violence. Because these conditions are so strict, very few cases meet all four elements—even when the speech in question is highly offensive or hateful.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/article&gt;&lt;span style=&#34;color: #99ccff; font-size: 29px; font-variant-ligatures: common-ligatures; font-weight: bold;&#34;&gt;4.3 Obscenity (Miller&#39;s test)&lt;/span&gt;&lt;/li&gt;
+&lt;/ol&gt;
+The Supreme Court’s decision in &lt;strong&gt;&lt;em data-end=&#34;2256&#34; data-start=&#34;2234&#34;&gt;Miller v. California&lt;/em&gt;&lt;/strong&gt;(1973) established the three-part test for determining &lt;span style=&#34;color: #ffff99;&#34;&gt;&lt;strong data-end=&#34;2325&#34; data-start=&#34;2312&#34;&gt;obscenity&lt;/strong&gt;&lt;/span&gt;. [18]
+&lt;p&gt;A work is considered obscene only if it satisfies &lt;strong&gt;ALL &lt;/strong&gt;of the following elements (also known as the&lt;strong&gt;&lt;span style=&#34;color: #ffff99;&#34;&gt; Miller&amp;rsquo;s test&lt;/span&gt;&lt;/strong&gt;):&lt;/p&gt;
+&lt;p data-end=&#34;430&#34; data-start=&#34;184&#34; style=&#34;padding-left: 40px;&#34;&gt;&lt;span style=&#34;font-size: 14pt;&#34;&gt;&lt;strong&gt;(1) Appeals to the Prurient Interest&lt;/strong&gt; - That &lt;em data-end=&#34;286&#34; data-start=&#34;220&#34;&gt;“the average person, applying &lt;span style=&#34;text-decoration: underline;&#34;&gt;contemporary community standards&lt;/span&gt;,”&lt;/em&gt; would find that the work, taken as a whole, appeals to an excessive or unhealthy interest in sexual matters. [19]&lt;/span&gt;&lt;/p&gt;
+&lt;p data-end=&#34;600&#34; data-start=&#34;435&#34; style=&#34;padding-left: 40px;&#34;&gt;&lt;span style=&#34;font-size: 14pt;&#34;&gt;&lt;strong&gt;(2) Patently Offensive &lt;/strong&gt;- Whether the work depicts or describes patently offensive &#34;&lt;em&gt;&#39;&lt;span style=&#34;text-decoration: underline;&#34;&gt;hard core&lt;/span&gt;&#39; sexual conduct specifically defined by the &lt;span style=&#34;text-decoration: underline;&#34;&gt;regulating state law&lt;/span&gt;, as written or construed.&#34; &lt;/em&gt;[20]&lt;/span&gt;&lt;/p&gt;
+&lt;p data-end=&#34;785&#34; data-start=&#34;605&#34; style=&#34;padding-left: 40px;&#34;&gt;&lt;span style=&#34;font-size: 14pt;&#34;&gt;&lt;strong&gt;(3) &lt;/strong&gt;&lt;strong&gt;No &#34;SLAPS&#34; Value&lt;/strong&gt; - the work, taken as a whole, does not have &lt;span style=&#34;text-decoration: underline;&#34;&gt;serious literary&lt;/span&gt;, &lt;span style=&#34;text-decoration: underline;&#34;&gt;artistic&lt;/span&gt;, &lt;span style=&#34;text-decoration: underline;&#34;&gt;political,&lt;/span&gt; or &lt;span style=&#34;text-decoration: underline;&#34;&gt;scientific value&lt;/span&gt; (“&lt;strong&gt;SLAPS&lt;/strong&gt;” value). [21]&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;table style=&#34;width: 125.57%; border-collapse: collapse; background-color: #1c001b;&#34;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;width: 100%; text-align: justify;&#34;&gt;
+&lt;figure&gt;
+  &lt;img alt=&#34;&#34; class=&#34;wp-image-1196 size-full&#34; height=&#34;703&#34; src=&#34;http://localhost:1313/images/uploads/2025/11/Free-Expression_Pornhub-Notice-to-Users-Page_Screen_Nov-1-2025-e1762154138925.png&#34; width=&#34;500&#34;/&gt;
+  &lt;figcaption&gt;&lt;span style=&#34;color: #ffcc99; font-size: 0.8rem; font-family: terminal, monaco, monospace;&#34;&gt;Screenshot of adult video-sharing website Pornhub’s “Notice to User” page, captured on November 1, 2025. The page automatically appears when users attempt to access the site from regions subject to state-level age-verification laws. At the top of the notice, a video message features Dr. Cherie DeVille, an American licensed physician, adult film performer, and free speech advocate. In the clip, Dr. DeVille explains that recently enacted state statutes require age and identity verification before granting access to adult content. Her statement frames the measure as both a legal compliance notice and a policy commentary on the right to free expression in digital environments.&lt;/span&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p data-end=&#34;793&#34; data-start=&#34;129&#34;&gt;&lt;span style=&#34;color: #000000; background-color: #ffff99;&#34;&gt;&lt;strong&gt;Age Verification Laws and Digital Rights&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p data-end=&#34;793&#34; data-start=&#34;129&#34; style=&#34;text-align: left;&#34;&gt;&lt;span style=&#34;color: #fcdcec; font-size: 12pt; font-family: arial, helvetica, sans-serif;&#34;&gt;Under the &lt;strong&gt;Miller&#39;s test&lt;/strong&gt;, most mainstream online pornography platforms are &lt;strong data-end=&#34;323&#34; data-start=&#34;267&#34;&gt;not likely to meet the legal definition of obscenity&lt;/strong&gt;. The &lt;em data-end=&#34;337&#34; data-start=&#34;329&#34;&gt;Miller&lt;/em&gt; framework narrowly defines obscenity as expression that appeals to prurient interests, depicts sexual conduct in a patently offensive way, and lacks serious literary, artistic, political, or scientific value. By contrast, U.S. courts have repeatedly held that consensual adult pornography constitutes protected speech (so long as it does not involve minors or non-consensual acts), as they may reasonably be understood as having some expressive or artistic value. [22]&lt;/span&gt;&lt;/p&gt;
+&lt;p data-end=&#34;1468&#34; data-start=&#34;795&#34; style=&#34;text-align: left;&#34;&gt;&lt;span style=&#34;color: #fcdcec; font-size: 12pt; font-family: arial, helvetica, sans-serif;&#34;&gt;However, beginning around &lt;strong data-end=&#34;829&#34; data-start=&#34;821&#34;&gt;2021&lt;/strong&gt;, a global wave of adult-content removals and site-access restrictions emerged—not through direct governmental censorship, but via indirect enforcement mechanisms.&lt;/span&gt;&lt;/p&gt;
+&lt;p data-end=&#34;1468&#34; data-start=&#34;795&#34; style=&#34;text-align: left;&#34;&gt;&lt;span style=&#34;color: #fcdcec; font-size: 12pt; font-family: arial, helvetica, sans-serif;&#34;&gt; Rather than invoking obscenity law, public authorities and private intermediaries have increasingly relied on &lt;strong data-end=&#34;1160&#34; data-start=&#34;1111&#34;&gt;trafficking and age-verification statutes&lt;/strong&gt; to limit access to online adult material. These include &lt;strong data-end=&#34;1248&#34; data-start=&#34;1217&#34;&gt;18 U.S.C. §§ 2257 and 2257A&lt;/strong&gt;, which mandate age and identity verification for all performers in sexually explicit content, and the &lt;strong data-end=&#34;1366&#34; data-start=&#34;1351&#34;&gt;FOSTA–SESTA&lt;/strong&gt; package (2018), which expanded platform liability for facilitating sex trafficking or prostitution. [23]&lt;/span&gt;&lt;/p&gt;
+&lt;p data-end=&#34;1937&#34; data-start=&#34;1470&#34; style=&#34;text-align: left;&#34;&gt;&lt;span style=&#34;color: #fcdcec; font-size: 12pt; font-family: arial, helvetica, sans-serif;&#34;&gt;Under the threat of severe financial and legal penalties, credit card companies and&lt;strong data-end=&#34;1595&#34; data-start=&#34;1528&#34;&gt; payment processors suspended services&lt;/strong&gt; to adult-content platforms such as Pornhub until they implemented stricter &lt;strong&gt;user identity and age verification systems&lt;/strong&gt; that satisfied government and corporate compliance standards. This strategy effectively &lt;strong data-end=&#34;1827&#34; data-start=&#34;1789&#34;&gt;bypasses traditional obscenity law&lt;/strong&gt;, achieving &lt;em&gt;de facto&lt;/em&gt; regulation through economic pressure and private enforcement rather than court rulings.&lt;/span&gt;&lt;/p&gt;
+&lt;p data-end=&#34;2630&#34; data-is-last-node=&#34;&#34; data-is-only-node=&#34;&#34; data-start=&#34;1939&#34; style=&#34;text-align: left;&#34;&gt;&lt;span style=&#34;color: #fcdcec; font-size: 12pt; font-family: arial, helvetica, sans-serif;&#34;&gt;Many &lt;strong data-end=&#34;1992&#34; data-start=&#34;1944&#34;&gt;digital rights and free expression advocates&lt;/strong&gt; have voiced concern that such measures, while intended to prevent exploitation, &lt;strong data-end=&#34;2124&#34; data-start=&#34;2073&#34;&gt;expand the infrastructure for online censorship&lt;/strong&gt; and &lt;strong data-end=&#34;2151&#34; data-start=&#34;2129&#34;&gt;erode user privacy&lt;/strong&gt;. Mandatory age-verification systems require users to upload sensitive identification documents, increasing the risk of data breaches, identity theft, and potential state surveillance. In this way, the contemporary regulation of adult content reflects a shift from moral censorship under obscenity doctrine to a new regime of &lt;strong data-end=&#34;2519&#34; data-start=&#34;2477&#34;&gt;bureaucratic and corporate gatekeeping&lt;/strong&gt;, where privacy and free expression are increasingly contingent on compliance with opaque verification systems. [24]&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;&lt;section id=&#34;unprotected&#34;&gt;
+&lt;div class=&#34;section-&#34;&gt;
+&lt;div class=&#34;cols&#34;&gt;
+&lt;div class=&#34;box&#34; id=&#34;ip&#34;&gt;
+&lt;h3&gt;&lt;span style=&#34;color: #99ccff;&#34;&gt;4.4 Intellectual Property Violations&lt;/span&gt;&lt;/h3&gt;
+&lt;p data-end=&#34;673&#34; data-start=&#34;203&#34;&gt;While the First Amendment protects expression, it does &lt;strong data-end=&#34;265&#34; data-start=&#34;258&#34;&gt;not&lt;/strong&gt; protect the unauthorized use of another person’s creative work. &lt;strong data-end=&#34;356&#34; data-start=&#34;330&#34;&gt;&lt;span style=&#34;color: #ffff99;&#34;&gt;Copyright infringement&lt;/span&gt; &lt;/strong&gt;is one of the most common forms of restricted speech in the digital age. In fact, the vast majority of online takedown and censorship cases involve intellectual property violations, not hate speech or political dissent.&lt;/p&gt;
+&lt;p data-end=&#34;1325&#34; data-start=&#34;675&#34;&gt;Under U.S. law, copyright protection extends &lt;strong data-end=&#34;791&#34; data-start=&#34;720&#34;&gt;for the lifetime of the author plus 70 years after their death&lt;/strong&gt;, a duration considerably longer than in most other countries. Once that period expires, the work enters the &lt;strong data-end=&#34;917&#34; data-start=&#34;900&#34;&gt;public domain&lt;/strong&gt;, where it may be freely used, adapted, or redistributed.&lt;/p&gt;
+&lt;p data-end=&#34;1325&#34; data-start=&#34;675&#34;&gt;However, a significant &lt;strong&gt;loophole&lt;/strong&gt; allows corporations to preserve their intellectual monopolies: by continually &lt;strong&gt;producing “new” versions or derivative works based on existing characters and franchises&lt;/strong&gt;. Each new iteration—whether a sequel, prequel, or cinematic remake—resets the clock on copyright protection for that specific creative expression. This system contributes to the recent wave of live-action remakes, reboots, and remasters of older works in film and television. [25]&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;box&#34; id=&#34;criminal&#34; style=&#34;margin-top: 16px;&#34;&gt;
+&lt;h3&gt;&lt;span style=&#34;color: #99ccff;&#34;&gt;4.5 Speech Integral to Criminal Conduct&lt;/span&gt;&lt;/h3&gt;
+&lt;p data-end=&#34;619&#34; data-start=&#34;213&#34;&gt;The final major category of unprotected speech encompasses expressions that are themselves integral to&lt;span style=&#34;color: #ffff99;&#34;&gt; &lt;strong data-end=&#34;337&#34; data-start=&#34;272&#34;&gt;criminal activity&lt;/strong&gt;&lt;/span&gt;. Unlike controversial or offensive ideas—which remain protected under the First Amendment—these forms of communication are inseparable from the commission of a crime. The law draws a firm line between speech that &lt;em data-end=&#34;562&#34; data-start=&#34;551&#34;&gt;expresses&lt;/em&gt; an idea and speech that &lt;em data-end=&#34;593&#34; data-start=&#34;587&#34;&gt;acts&lt;/em&gt; as a mechanism of harm.&lt;/p&gt;
+&lt;p data-end=&#34;1184&#34; data-start=&#34;621&#34;&gt;Examples include &lt;strong data-end=&#34;657&#34; data-start=&#34;638&#34;&gt;fraud &lt;/strong&gt;and&lt;strong data-end=&#34;657&#34; data-start=&#34;638&#34;&gt; scams&lt;/strong&gt;, where deceptive speech is used to obtain money or property through misrepresentation; the &lt;strong data-end=&#34;811&#34; data-start=&#34;749&#34;&gt;possession and distribution of child abuse material&lt;/strong&gt;, which is categorically excluded from protection because it involves the documentation of real criminal abuse; &lt;strong data-end=&#34;962&#34; data-start=&#34;923&#34;&gt;criminal solicitation or conspiracy&lt;/strong&gt;, in which language functions as the coordination or encouragement of illegal acts; and &lt;strong data-end=&#34;1111&#34; data-start=&#34;1050&#34;&gt;targeted harassment or threats of specific, imminent harm&lt;/strong&gt;, where speech directly endangers the safety of an identifiable person.&lt;/p&gt;
+&lt;p data-end=&#34;1184&#34; data-start=&#34;621&#34;&gt;In the digital age, many of these offenses increasingly manifest as forms of &lt;span style=&#34;color: #ffff99;&#34;&gt;&lt;strong&gt;cybercrime&lt;/strong&gt;&lt;/span&gt;—where speech itself becomes both the medium and mechanism of violence. [26]&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img alt=&#34;&#34; class=&#34;size-full wp-image-1199&#34; height=&#34;400&#34; src=&#34;http://localhost:1313/images/uploads/2025/11/2017_Petya_cyberattack_screenshot.png&#34; width=&#34;720&#34;/&gt;
+  &lt;figcaption&gt;&lt;span style=&#34;font-size: 0.85rem; color: #ffcc00;&#34;&gt;Screenshot of the splash screen of the payload of the original version of&lt;strong&gt; Petya&lt;/strong&gt; – a family of ransomware that encrypts its victims&#39; hard drive and prevents their PC computers from booting. It subsequently demands that its victims to make a payment in cryptocurrency (typically Bitcoin) in order to regain access to their PCs.&lt;/span&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p data-end=&#34;1184&#34; data-start=&#34;621&#34;&gt;An example illustrating this boundary is the case of &lt;strong data-end=&#34;1260&#34; data-start=&#34;1251&#34;&gt;Petya&lt;/strong&gt;, a family of &lt;strong&gt;ransomware&lt;/strong&gt; first identified in 2016. Petya malware encrypts the victim’s hard drive and prevents their computer from booting, displaying a ransom note demanding payment in &lt;strong&gt;cryptocurrency&lt;/strong&gt; (such as Bitcoin) to restore access. [27]&lt;/p&gt;
+&lt;hr/&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;&lt;!-- Internet censorship &amp; rights --&gt;
+&lt;section id=&#34;censorship&#34;&gt;
+&lt;div class=&#34;section-&#34;&gt;
+&lt;h2&gt;&lt;span style=&#34;color: #00ffff;&#34;&gt;5) Internet Censorship &amp;amp; Communication Rights&lt;/span&gt;&lt;/h2&gt;
+&lt;div class=&#34;cols&#34;&gt;
+&lt;div&gt;
+&lt;p&gt;As discussed in our &lt;a href=&#34;http://localhost:1313/teaching/2025/10/teaching-the-internet-the-internet-from-nuclear-hardened-networks-to-algorithmic-governmentality/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;previous lesson, the internet remains an enduring paradox&lt;/strong&gt;&lt;/a&gt;: it is both an infrastructure of free expression and a technology of control. On one level, it has democratized access to speech and empowered individuals to publish, organize, and collaborate across geographic and political boundaries. Yet the same architecture that enables open exchange also provides governments and corporations with unparalleled capacities for &lt;strong data-end=&#34;834&#34; data-start=&#34;764&#34;&gt;surveillance, behavioral manipulation, and information restriction&lt;/strong&gt;. In this way, the internet operates simultaneously as a public sphere and a system of governance—a space where freedom and regulation constantly collide.&lt;/p&gt;
+&lt;table style=&#34;border-collapse: collapse; width: 109.941%;&#34;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;width: 100%;&#34;&gt;
+&lt;h4&gt;&lt;span style=&#34;color: #333333; background-color: #ffff99;&#34;&gt;&lt;strong&gt;Forms of Internet Censorship:&lt;/strong&gt;&lt;/span&gt;&lt;/h4&gt;
+&lt;p style=&#34;padding-left: 40px;&#34;&gt;&lt;span style=&#34;color: #ccffff; font-family: terminal, monaco, monospace; font-size: 14pt;&#34;&gt;&lt;b&gt;&lt;span style=&#34;color: #ffff99;&#34;&gt;Content Blocking&lt;/span&gt;:&lt;/b&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt; when Internet Service Providers (ISPs) or regulatory agencies restrict access to certain websites, social media platforms, or news outlets—often justified in the name of national security or “public morality.” [28]&lt;/span&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&#34;padding-left: 40px;&#34;&gt;&lt;span style=&#34;color: #ccffff; font-family: terminal, monaco, monospace; font-size: 14pt;&#34;&gt;&lt;b&gt;&lt;span style=&#34;color: #ffff99;&#34;&gt;Surveillance &amp;amp; Data Harvesting&lt;/span&gt;:&lt;/b&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt; allow both states and private firms to monitor user activity, constructing detailed behavioral profiles that can be used to shape, predict, remove, or &#34;shadow ban&#34; speech.&lt;a href=&#34;https://www.jstor.org/stable/48788933&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;&lt;span style=&#34;color: #ffff99;&#34;&gt;[29]&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&#34;padding-left: 40px;&#34;&gt;&lt;span style=&#34;color: #ccffff; font-family: terminal, monaco, monospace; font-size: 14pt;&#34;&gt;&lt;b&gt;&lt;span style=&#34;color: #ffff99;&#34;&gt;Algorithmic Filtering&lt;/span&gt;:&lt;/b&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt; Platforms algorithmically curate or suppress visibility of particular content, can be driven by the economic logic of engagement or government pressure.[30]&lt;/span&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&#34;padding-left: 40px;&#34;&gt;&lt;span style=&#34;color: #ccffff; font-family: terminal, monaco, monospace; font-size: 14pt;&#34;&gt;&lt;b&gt;&lt;span style=&#34;color: #ffff99;&#34;&gt;Legal/Administrative Pressure&lt;/span&gt;:&lt;/b&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt; Arrests, fines, or online takedown orders targeting journalists, activists, users, ISPs, sites and payment processors.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;span style=&#34;color: #ccffff; font-size: 29px; font-variant-ligatures: common-ligatures; font-weight: bold;&#34;&gt;5.1 Communication Rights&lt;/span&gt;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;div class=&#34;box&#34;&gt;
+&lt;p&gt;In response to these pressures, scholars and civil society groups have advanced the framework of &lt;span style=&#34;color: #ffff99;&#34;&gt;&lt;strong data-end=&#34;2063&#34; data-start=&#34;2039&#34;&gt;communication rights&lt;/strong&gt;&lt;/span&gt;, extending the logic of free speech into the digital age. These rights include:&lt;/p&gt;
+&lt;table style=&#34;width: 100%; border-collapse: collapse; background-color: #021a38;&#34;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;width: 100%;&#34;&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;&lt;strong data-end=&#34;2217&#34; data-start=&#34;2147&#34;&gt;&lt;span style=&#34;color: #ffff99;&#34;&gt;The right to information&lt;/span&gt; - f&lt;/strong&gt;reedom to seek, receive, and impart information&lt;strong data-end=&#34;2217&#34; data-start=&#34;2147&#34;&gt; &lt;/strong&gt;through any media (UN Declaration of Human Rights, Art. 19).&lt;/span&gt;
+&lt;strong&gt;&lt;span style=&#34;color: #ffff99;&#34;&gt;The right to equitable digital access&lt;/span&gt; -&lt;/strong&gt; free from discriminatory throttling or commercial gatekeeping.
+&lt;p&gt;&lt;span style=&#34;color: #ffff99;&#34;&gt;&lt;strong&gt;Freedom from surveillance &lt;/strong&gt;&lt;/span&gt;- protection from arbitrary surveillance and content restriction.&lt;/p&gt;
+&lt;p&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;&lt;span style=&#34;color: #ffff99;&#34;&gt;&lt;strong&gt;Data privacy&lt;/strong&gt; &lt;/span&gt;- protection of personal data from being collected and used without user&amp;rsquo;s authorization.&lt;/span&gt;&lt;/td&gt;&lt;/p&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+Together, these principles reflect the spirit of &lt;em data-end=&#34;2618&#34; data-start=&#34;2561&#34;&gt;Article 19 of the Universal Declaration of Human Rights&lt;/em&gt; (1948), which recognizes that the ability to communicate “through any media and regardless of frontiers” is essential to both human dignity and democratic governance.
+&lt;p&gt;Together, these principles reflect the spirit of &lt;em data-end=&#34;2618&#34; data-start=&#34;2561&#34;&gt;Article 19 of the Universal Declaration of Human Rights&lt;/em&gt; (1948), which recognizes that the ability to communicate “through any media and regardless of frontiers” is essential to both human dignity and democratic governance. [31]&lt;/p&gt;
+&lt;p&gt;The persistent &lt;span style=&#34;color: #ffff99;&#34;&gt;&lt;strong data-end=&#34;2825&#34; data-start=&#34;2804&#34;&gt;balancing problem&lt;/strong&gt;&lt;/span&gt; for communication rights lies in reconciling &lt;strong&gt;legitimate security concerns&lt;/strong&gt; with the preservation of &lt;strong&gt;user rights protections&lt;/strong&gt;. Measures enacted under the guise of protecting citizens (e.g. to combat terrorism, misinformation, or cybercrime) can easily evolve into permanent instruments of control. &lt;strong&gt;&lt;span style=&#34;color: #ff00ff;&#34;&gt;Once extraordinary powers are normalized, they seldom retreat&lt;/span&gt;.&lt;/strong&gt; Thus, maintaining an open and pluralistic internet requires institutional &lt;strong data-end=&#34;3318&#34; data-start=&#34;3250&#34;&gt;transparency, &lt;/strong&gt;public &lt;strong&gt;oversight&lt;/strong&gt;, and &lt;strong data-end=&#34;3318&#34; data-start=&#34;3250&#34;&gt;digital literacy&lt;/strong&gt; to ensure that digital protections do not quietly become digital censorship. [32]&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;&lt;!-- VPNs --&gt;
+&lt;section id=&#34;vpn&#34;&gt;
+&lt;div class=&#34;section-&#34;&gt;
+&lt;h3&gt;&lt;span style=&#34;color: #99ccff;&#34;&gt;5.1 VPNs: Benefits and Constraints&lt;/span&gt;&lt;/h3&gt;
+&lt;div class=&#34;cols&#34;&gt;
+&lt;div&gt;
+&lt;p&gt;A &lt;strong data-end=&#34;291&#34; data-start=&#34;258&#34;&gt;Virtual Private Network (VPN)&lt;/strong&gt; is a tool that encrypts a user’s internet traffic and routes it through a remote server, effectively masking the user’s IP address and geographic location. In doing so, VPNs provide a degree of privacy and autonomy in digital communication, which can be vital for journalists, activists, or citizens in countries with heavy online surveillance.&lt;/p&gt;
+&lt;p&gt;From a free speech perspective, VPNs extend the practical reach of expression by allowing individuals to &lt;strong data-end=&#34;763&#34; data-start=&#34;742&#34;&gt;bypass censorship&lt;/strong&gt;, &lt;strong data-end=&#34;798&#34; data-start=&#34;765&#34;&gt;access restricted information&lt;/strong&gt;, and &lt;strong data-end=&#34;831&#34; data-start=&#34;804&#34;&gt;protect their anonymity&lt;/strong&gt; while engaging in political or social discourse. However, while VPNs are often marketed as instruments of digital freedom, they also introduce new ethical, legal, and trust-based dilemmas.&lt;/p&gt;
+&lt;table style=&#34;width: 112.784%; border-collapse: collapse; background-color: #140101;&#34;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;width: 100%;&#34;&gt;
+&lt;h4&gt;&lt;span style=&#34;background-color: #ccffcc; color: #000000;&#34;&gt;&lt;strong&gt;Why users adopt VPNs&lt;/strong&gt;&lt;/span&gt;&lt;/h4&gt;
+&lt;p data-end=&#34;1156&#34; data-start=&#34;1053&#34; style=&#34;padding-left: 40px;&#34;&gt;&lt;span style=&#34;font-size: 14pt;&#34;&gt;&lt;strong data-end=&#34;1073&#34; data-start=&#34;1053&#34;&gt;Mask IP location&lt;/strong&gt; to reduce tracking and profiling by advertisers, governments, or hostile actors.&lt;/span&gt;&lt;/p&gt;
+&lt;p data-end=&#34;1263&#34; data-start=&#34;1159&#34; style=&#34;padding-left: 40px;&#34;&gt;&lt;span style=&#34;font-size: 14pt;&#34;&gt;&lt;strong data-end=&#34;1206&#34; data-start=&#34;1159&#34;&gt;Limit ISP and search engine data collection&lt;/strong&gt;, preventing providers from logging browsing histories.&lt;/span&gt;&lt;/p&gt;
+&lt;p data-end=&#34;1367&#34; data-start=&#34;1266&#34; style=&#34;padding-left: 40px;&#34;&gt;&lt;span style=&#34;font-size: 14pt;&#34;&gt;&lt;strong data-end=&#34;1314&#34; data-start=&#34;1266&#34;&gt;Bypass censorship and geo-restricted content&lt;/strong&gt;, such as blocked news sites or streaming services.&lt;/span&gt;&lt;/p&gt;
+&lt;p data-end=&#34;1457&#34; data-start=&#34;1370&#34; style=&#34;padding-left: 40px;&#34;&gt;&lt;span style=&#34;font-size: 14pt;&#34;&gt;&lt;strong data-end=&#34;1398&#34; data-start=&#34;1370&#34;&gt;Mitigate dynamic pricing&lt;/strong&gt; based on a user’s location, device, or browsing history.&lt;/span&gt;&lt;/p&gt;
+&lt;h4&gt;&lt;span style=&#34;color: #000000; background-color: #ccffcc;&#34;&gt;&lt;strong&gt;Secure, nonprofit options&lt;/strong&gt;&lt;/span&gt;&lt;/h4&gt;
+&lt;span style=&#34;font-size: 14pt;&#34;&gt;Most commercial VPNs operate under opaque ownership structures, and many “free” VPNs monetize user data through surveillance advertising or analytics resale. By contrast, a small number of nonprofit projects are designed explicitly to serve privacy and anti-censorship goals:&lt;/span&gt;
+&lt;ul&gt;
+&lt;li style=&#34;list-style-type: none;&#34;&gt;
+&lt;ul&gt;
+&lt;li style=&#34;list-style-type: none;&#34;&gt;
+&lt;ul&gt;
+&lt;li data-end=&#34;1985&#34; data-start=&#34;1769&#34;&gt;
+&lt;p data-end=&#34;1985&#34; data-start=&#34;1771&#34;&gt;&lt;span style=&#34;font-size: 14pt;&#34;&gt;&lt;strong data-end=&#34;1785&#34; data-start=&#34;1771&#34;&gt;Riseup VPN&lt;/strong&gt; — One of the few legitimate free and open VPN services, supported entirely by charitable donations from privacy and anti-censorship advocates. &lt;a class=&#34;decorated-link&#34; data-end=&#34;1983&#34; data-start=&#34;1929&#34; href=&#34;https://riseup.net/en/vpn&#34; rel=&#34;noopener&#34; target=&#34;_new&#34;&gt;https://riseup.net/en/vpn&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li data-end=&#34;2223&#34; data-start=&#34;1986&#34;&gt;
+&lt;p data-end=&#34;2223&#34; data-start=&#34;1988&#34;&gt;&lt;span style=&#34;font-size: 14pt;&#34;&gt;&lt;strong data-end=&#34;2001&#34; data-start=&#34;1988&#34;&gt;ProtonVPN&lt;/strong&gt; — Founded by scientists at CERN and initially financed through a community crowdfunding campaign; now operated by the Swiss-based nonprofit Proton Foundation. &lt;a class=&#34;decorated-link&#34; data-end=&#34;2221&#34; data-start=&#34;2161&#34; href=&#34;https://github.com/ProtonVPN&#34; rel=&#34;noopener&#34; target=&#34;_new&#34;&gt;https://github.com/ProtonVPN&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;&lt;span style=&#34;background-color: #ffff99; color: #000000;&#34;&gt;Constraints and Ethical Implications&lt;/span&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li style=&#34;list-style-type: none;&#34;&gt;
+&lt;ul&gt;
+&lt;li style=&#34;list-style-type: none;&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style=&#34;font-weight: 400; font-size: 14pt;&#34;&gt;A VPN doesn’t make you completely immune to all tracking: Websites can still identify users via cookies, browser fingerprinting, or account logins. &lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;font-weight: 400; font-size: 14pt;&#34;&gt;A VPN hides user data from the ISP, but the VPN provider can see user traffic. &lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;font-weight: 400; font-size: 14pt;&#34;&gt;Cybercriminals, (e.g.,  ransomware authors) also use VPNs to conceal their identities&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;font-weight: 400; font-size: 14pt;&#34;&gt;In some countries (e.g., Belarus, Egypt, Iran, Pakistan, PRC, Russia, Turkey, Turkmenistan, UAE), using a VPN is restricted or banned.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;&lt;!-- Tor --&gt;
+&lt;section id=&#34;tor&#34;&gt;
+&lt;div class=&#34;section-&#34;&gt;
+&lt;h3&gt;&lt;span style=&#34;color: #99ccff;&#34;&gt;5.2 The Tor Network and the “Dark Web”&lt;/span&gt;&lt;/h3&gt;
+&lt;table style=&#34;border-collapse: collapse; width: 128.409%;&#34;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;width: 100%;&#34;&gt;
+&lt;figure&gt;
+  &lt;img alt=&#34;&#34; class=&#34;size-full wp-image-1202&#34; height=&#34;1024&#34; src=&#34;http://localhost:1313/images/uploads/2025/11/Free-Expression_Tor-Project-android-security-settings.gif&#34; width=&#34;512&#34;/&gt;
+  &lt;figcaption&gt;&lt;span style=&#34;color: #ffff99;&#34;&gt;Tor Browser is available in two versions for Android—standard and alpha. Non-technical users are advised to install the standard release, which is more stable and less prone to errors. The official Tor Browser for Android can be safely downloaded from the Google Play Store, F-Droid, or the Tor Project’s official website; obtaining it from any other source poses significant security risks.&lt;/span&gt;&lt;br/&gt;&lt;span style=&#34;color: #ff9900;&#34;&gt;Source: Tor Project. Mobile Tor Manual. Last modified 2024. https://iacobus.pages.torproject.net/manual/ca/mobile-tor/&lt;/span&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p data-end=&#34;3922&#34; data-start=&#34;3383&#34;&gt;Whereas a VPN relies on a single provider to encrypt and reroute traffic, &lt;strong data-end=&#34;3483&#34; data-start=&#34;3457&#34;&gt;&lt;span style=&#34;color: #ffff99;&#34;&gt;Tor&lt;/span&gt; &lt;/strong&gt;(also known as the Onion Router)&lt;strong data-end=&#34;3483&#34; data-start=&#34;3457&#34;&gt; -- &lt;/strong&gt;an &lt;span style=&#34;color: #ffff99;&#34;&gt;&lt;strong data-end=&#34;3483&#34; data-start=&#34;3457&#34;&gt;open source, open access &lt;/strong&gt;&lt;/span&gt;&lt;strong&gt;project&lt;/strong&gt; &lt;strong data-end=&#34;3483&#34; data-start=&#34;3457&#34;&gt;--&lt;/strong&gt; distributes this process across a &lt;strong&gt;decentralized network&lt;/strong&gt; of volunteer-run servers, or “relays.”&lt;/p&gt;
+&lt;p data-end=&#34;3922&#34; data-start=&#34;3383&#34;&gt;As data travels through multiple nodes, each layer of encryption is peeled away like an onion, ensuring that &lt;span style=&#34;background-color: #ccffcc; color: #000000;&#34;&gt;&lt;strong data-end=&#34;3769&#34; data-start=&#34;3687&#34;&gt;no single relay knows both who the user is and what content they are accessing&lt;/strong&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p data-end=&#34;3922&#34; data-start=&#34;3383&#34;&gt;This structure minimizes centralized control and makes it exceptionally difficult for surveillance systems to trace communication back to its origin. [33]&lt;/p&gt;
+&lt;p data-end=&#34;4542&#34; data-start=&#34;3924&#34;&gt;Tor serves as both a technical safeguard for privacy and a philosophical statement about informational freedom. For users in heavily censored environments, Tor can mean the difference between silence and participation.&lt;/p&gt;
+&lt;p data-end=&#34;4542&#34; data-start=&#34;3924&#34;&gt;Yet Tor’s very strength—its multilayered anonymity—also fuels public suspicion. The same system that protects dissidents and reporters can be used by criminals to conduct illicit trade, distribute malware, or traffic in stolen data.&lt;/p&gt;
+&lt;p data-end=&#34;5074&#34; data-start=&#34;4544&#34;&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;div class=&#34;cols&#34;&gt;
+&lt;div&gt;
+&lt;table style=&#34;width: 129.972%; border-collapse: collapse;&#34;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;h4&gt;&lt;span style=&#34;color: #000000; background-color: #ccffcc; font-family: terminal, monaco, monospace;&#34;&gt;&lt;strong&gt;Advantages of using Tor&lt;/strong&gt;&lt;/span&gt;&lt;/h4&gt;
+&lt;p style=&#34;padding-left: 40px;&#34;&gt;&lt;span style=&#34;font-family: terminal, monaco, monospace; font-size: 14pt;&#34;&gt;&lt;b&gt;Circumvent Censorship: &lt;/b&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;Enables users in restrictive regimes to access blocked sites and communication tools. &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&#34;padding-left: 40px;&#34;&gt;&lt;span style=&#34;font-family: terminal, monaco, monospace; font-size: 14pt;&#34;&gt;&lt;b&gt;Protect Privacy: &lt;/b&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;conceals both user identity &amp;amp; browsing activity from ISPs, governments, and advertisers.&lt;/span&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&#34;padding-left: 40px;&#34;&gt;&lt;span style=&#34;font-family: terminal, monaco, monospace; font-size: 14pt;&#34;&gt;&lt;b&gt;Digital Democracy: &lt;/b&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;Tor Project is open-source and community-run. Journalists, activists, and whistleblowers use it to safely  share information without fear of retaliation.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;h4&gt;&lt;span style=&#34;color: #000000; background-color: #ffff99; font-family: terminal, monaco, monospace;&#34;&gt;&lt;strong&gt;Constraints &amp;amp; Ethical Concerns&lt;/strong&gt;&lt;/span&gt;&lt;/h4&gt;
+&lt;p style=&#34;padding-left: 40px;&#34;&gt;&lt;span style=&#34;font-family: terminal, monaco, monospace;&#34;&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;Tor can be &lt;/span&gt;&lt;b&gt;slow &lt;/b&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;due to multiple encryption layers and limited volunteer bandwidth.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&#34;padding-left: 40px;&#34;&gt;&lt;span style=&#34;font-family: terminal, monaco, monospace;&#34;&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;While Tor safeguards legitimate users, it is also exploited for &lt;/span&gt;&lt;b&gt;cybercrimes &lt;/b&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;such as illegal marketplaces &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&#34;padding-left: 40px;&#34;&gt;&lt;span style=&#34;font-family: terminal, monaco, monospace;&#34;&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;Just like the VPNs, access to Tor is also heavily restricted in &lt;/span&gt;&lt;a href=&#34;https://forum.torproject.org/t/tor-project-re-are-there-countries-where-using-tor-is-illegal/18862&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;many countries&lt;/span&gt;&lt;/a&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;&lt;!-- Reflection --&gt;
+&lt;section id=&#34;reflect&#34;&gt;
+&lt;div class=&#34;section-&#34;&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;hr/&gt;
+&lt;/div&gt;
+&lt;/section&gt;&lt;!-- References --&gt;
+&lt;section id=&#34;references&#34;&gt;
+&lt;div class=&#34;section-&#34;&gt;
+&lt;h2&gt;&lt;span style=&#34;color: #ffcc99; font-family: terminal, monaco, monospace;&#34;&gt;References&lt;/span&gt;&lt;/h2&gt;
+&lt;table style=&#34;width: 139.771%; border-collapse: collapse; background-color: #290d28;&#34;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;width: 100%;&#34;&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span style=&#34;color: #ffcc99; font-family: terminal, monaco, monospace; font-size: 12pt;&#34;&gt;Cohen-Almagor, Raphael. &lt;i&gt;The scope of tolerance: Studies on the costs of free expression and freedom of the press&lt;/i&gt;. Routledge, 2005.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;color: #ffcc99; font-family: terminal, monaco, monospace; font-size: 12pt;&#34;&gt;Brownstein, Alan E. &#34;Harmonizing the Heavenly and Earthly Spheres: The Fragmentation and Synthesis of Religion, Equality, and Speech in the Constitution.&#34; &lt;i&gt;Ohio St. LJ&lt;/i&gt; 51 (1990): 89.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;color: #ffcc99; font-family: terminal, monaco, monospace; font-size: 12pt;&#34;&gt;Balkin, Jack M. &#34;Digital speech and democratic culture: A theory of freedom of expression for the information society.&#34; In &lt;i&gt;Law and Society approaches to cyberspace&lt;/i&gt;, pp. 325-382. Routledge, 2017.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;color: #ffcc99; font-family: terminal, monaco, monospace; font-size: 12pt;&#34;&gt;United Nations. General Assembly. &lt;i&gt;Universal declaration of human rights&lt;/i&gt;. Vol. 3381. Department of State, United States of America, 1949.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;color: #ffcc99; font-family: terminal, monaco, monospace; font-size: 12pt;&#34;&gt;McLeod, Sharynne. &#34;Communication rights: Fundamental human rights for all.&#34; &lt;i&gt;International journal of speech-language pathology&lt;/i&gt; 20, no. 1 (2018): 3-11.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;color: #ffcc99; font-family: terminal, monaco, monospace; font-size: 12pt;&#34;&gt;Mallén, Ignacio Bel. &#34;Freedom as the Essential Basis for Communication Rights.&#34; &lt;i&gt;The Handbook of Communication Rights, Law, and Ethics: Seeking Universality, Equality, Freedom and Dignity&lt;/i&gt; (2021): 7-19.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;color: #ffcc99; font-family: terminal, monaco, monospace; font-size: 12pt;&#34;&gt;Bradburn, Douglas. &#34;A clamor in the public mind: Opposition to the Alien and Sedition Acts.&#34; &lt;i&gt;The William and Mary Quarterly&lt;/i&gt; 65, no. 3 (2008): 565-600.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;color: #ffcc99; font-family: terminal, monaco, monospace; font-size: 12pt;&#34;&gt;Levy, Leonard W. &#34;Liberty and the First Amendment: 1790-1800.&#34; &lt;i&gt;The American Historical Review&lt;/i&gt; 68, no. 1 (1962): 22-37.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;color: #ffcc99; font-family: terminal, monaco, monospace; font-size: 12pt;&#34;&gt;Jeffries Jr, John Calvin. &#34;Rethinking Prior Restraint.&#34; &lt;i&gt;Yale LJ&lt;/i&gt; 92 (1982): 409.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;color: #ffcc99; font-family: terminal, monaco, monospace; font-size: 12pt;&#34;&gt;Meyerson, Michael I. &#34;Rewriting Near v. Minnesota: Creating a Complete Definition of Prior Restraint.&#34; &lt;i&gt;Mercer L. Rev.&lt;/i&gt; 52 (2000): 1087.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;color: #ffcc99; font-family: terminal, monaco, monospace; font-size: 12pt;&#34;&gt;Godofsky, Stanley, and Howard M. Rogatnick. &#34;Prior Restraints: The Pentagon Papers Case Revisited.&#34; &lt;i&gt;Cumb. L. Rev.&lt;/i&gt; 18 (1987): 527.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;color: #ffcc99; font-family: terminal, monaco, monospace; font-size: 12pt;&#34;&gt;Dumain, Ian M. &#34;No secret, no defense: United States v. progressive.&#34; &lt;i&gt;Cardozo L. Rev.&lt;/i&gt; 26 (2004): 1323.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;color: #ffcc99; font-family: terminal, monaco, monospace; font-size: 12pt;&#34;&gt;Lieffring, Staci. &#34;First Amendment and the right to lie: Regulating knowingly false campaign speech after United States v. Alvarez.&#34; &lt;i&gt;Minn. L. Rev.&lt;/i&gt; 97 (2012): 1047.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;color: #ffcc99; font-family: terminal, monaco, monospace; font-size: 12pt;&#34;&gt;Farber, Daniel A. &#34;Civilizing public discourse: An essay on Professor Bickel, Justice Harlan, and the enduring significance of Cohen v. California.&#34; &lt;i&gt;Duke LJ&lt;/i&gt; (1980): 283.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;color: #ffcc99; font-family: terminal, monaco, monospace; font-size: 12pt;&#34;&gt;Dienes, C. Thomas, and Lee Levine. &#34;Implied Libel, Defamatory Meaning, and State of Mind: The Promise of New York Times Co. v. Sullivan.&#34; &lt;i&gt;Iowa L. Rev.&lt;/i&gt; 78 (1992): 237.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;color: #ffcc99; font-family: terminal, monaco, monospace; font-size: 12pt;&#34;&gt;This protection was firmly established in &lt;strong data-end=&#34;1658&#34; data-start=&#34;1618&#34;&gt;&lt;em data-end=&#34;1649&#34; data-start=&#34;1620&#34;&gt;Hustler Magazine v. Falwell&lt;/em&gt; (1988)&lt;/strong&gt;, where the Supreme Court held that even offensive parodies of public figures are constitutionally protected so long as they cannot reasonably be interpreted as factual claims.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;color: #ffcc99; font-family: terminal, monaco, monospace; font-size: 12pt;&#34;&gt;Wright, R. George. &#34;Fighting Words Today.&#34; &lt;i&gt;Pepp. L. Rev.&lt;/i&gt; 49 (2022): 805.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;color: #ffcc99; font-family: terminal, monaco, monospace; font-size: 12pt;&#34;&gt;&lt;em&gt;Miller v. California,&lt;/em&gt; 413 U.S. 15 (1973).&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;color: #ffcc99; font-family: terminal, monaco, monospace; font-size: 12pt;&#34;&gt;&lt;em&gt;Miller v. California,&lt;/em&gt; 413 U.S. 15, 15 (1973). &lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;color: #ffcc99; font-family: terminal, monaco, monospace; font-size: 12pt;&#34;&gt;&lt;em&gt;Ibid., &lt;/em&gt;at 27. &lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;color: #ffcc99; font-family: terminal, monaco, monospace; font-size: 12pt;&#34;&gt;&lt;em&gt;Ibid., &lt;/em&gt;at 15, 23.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;color: #ffcc99; font-family: terminal, monaco, monospace; font-size: 12pt;&#34;&gt;Karniel, Yuval, and Haim Wismonsky. &#34;Pornography, Community and the Internet-Freedom of Speech and Obscenity on the Internet.&#34; &lt;i&gt;Rutgers Computer &amp;amp; Tech. LJ&lt;/i&gt; 30 (2004): 105.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;color: #ffcc99; font-family: terminal, monaco, monospace; font-size: 12pt;&#34;&gt;Marsden, Christine. &#34;Age-verification laws in the era of digital privacy.&#34; &lt;i&gt;Nat&#39;l Sec. LJ&lt;/i&gt; 10 (2023): 210.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;color: #ffcc99; font-family: terminal, monaco, monospace; font-size: 12pt;&#34;&gt;Murray, Alana, Huma Chhipa, and Johnathan Yerby. &#34;Cyber risk, privacy, and the legal complexities of age verification for adult content platforms.&#34; &lt;i&gt;Issues in Information Systems&lt;/i&gt; 26, no. 4 (2025): 332-347.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;color: #ffcc99; font-family: terminal, monaco, monospace; font-size: 12pt;&#34;&gt;Bowrey, Kathy, and Michael Handler, eds. &lt;i&gt;Law and Creativity in the Age of the Entertainment Franchise&lt;/i&gt;. No. 27. Cambridge University Press, 2014.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;color: #ffcc99; font-family: terminal, monaco, monospace; font-size: 12pt;&#34;&gt;Holt, Thomas, and Adam Bossler. &lt;i&gt;Cybercrime in progress: Theory and prevention of technology-enabled offenses&lt;/i&gt;. Routledge, 2015.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;color: #ffcc99; font-family: terminal, monaco, monospace; font-size: 12pt;&#34;&gt;Fayi, Sharifah Yaqoub A. &#34;What Petya/NotPetya ransomware is and what its remidiations are.&#34; In &lt;i&gt;Information technology-new generations: 15th international conference on information technology&lt;/i&gt;, pp. 93-100. Cham: Springer International Publishing, 2018.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;color: #ffcc99; font-family: terminal, monaco, monospace; font-size: 12pt;&#34;&gt;Ververis, Vasilis, Sophia Marguel, and Benjamin Fabian. &#34;Cross‐Country comparison of Internet censorship: A literature review.&#34; &lt;i&gt;Policy &amp;amp; Internet&lt;/i&gt; 12, no. 4 (2020): 450-473.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;color: #ffcc99; font-family: terminal, monaco, monospace; font-size: 12pt;&#34;&gt;&lt;a href=&#34;https://www.jstor.org/stable/48788933&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Wang, Keren. &#34;Legal and Ritological Dynamics of Personalized “Pillars of Shame” in Chinese Social Credit System Construction.&#34; &lt;i&gt;China review&lt;/i&gt; 24, no. 3 (2024): 179-206. https://www.jstor.org/stable/48788933&lt;/a&gt;
+&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;color: #ffcc99; font-family: terminal, monaco, monospace; font-size: 16px;&#34;&gt;Cobbe, Jennifer. &#34;Algorithmic censorship by social platforms: Power and resistance.&#34; &lt;/span&gt;&lt;i style=&#34;color: #ffcc99; font-family: terminal, monaco, monospace; font-size: 16px;&#34;&gt;Philosophy &amp;amp; Technology&lt;/i&gt;&lt;span style=&#34;color: #ffcc99; font-family: terminal, monaco, monospace; font-size: 16px;&#34;&gt; 34, no. 4 (2021): 739-766.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;color: #ffcc99; font-family: terminal, monaco, monospace; font-size: 16px;&#34;&gt;McLeod, Sharynne. &#34;Communication rights: Fundamental human rights for all.&#34; &lt;/span&gt;&lt;i style=&#34;color: #ffcc99; font-family: terminal, monaco, monospace; font-size: 16px;&#34;&gt;International journal of speech-language pathology&lt;/i&gt;&lt;span style=&#34;color: #ffcc99; font-family: terminal, monaco, monospace; font-size: 16px;&#34;&gt; 20, no. 1 (2018): 3-11.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;color: #ffcc99; font-family: terminal, monaco, monospace; font-size: 16px;&#34;&gt;Bennett, W. Lance, and Barbara Pfetsch. &#34;Rethinking political communication in a time of disrupted public spheres.&#34; &lt;i&gt;Journal of communication&lt;/i&gt; 68, no. 2 (2018): 243-253. &lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;color: #ffcc99; font-family: terminal, monaco, monospace; font-size: 16px;&#34;&gt;AlSabah, Mashael, and Ian Goldberg. &#34;Performance and security improvements for tor: A survey.&#34; &lt;i&gt;ACM Computing Surveys (CSUR)&lt;/i&gt; 49, no. 2 (2016): 1-36.&lt;/span&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/section&gt; 
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Fake News: Concepts, Rhetorical Disruptions, and Policy Implications</title>
+      <link>http://localhost:1313/teaching/2025/10/fake-news-concepts-rhetorical-disruptions-and-policy-implications/</link>
+      <pubDate>Mon, 27 Oct 2025 00:26:53 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/2025/10/fake-news-concepts-rhetorical-disruptions-and-policy-implications/</guid>
+      <description>&lt;div class=&#34;scom2050-lesson&#34; style=&#34;font-family: system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif; line-height: 1.55; max-width: 880px; margin: 0 auto;&#34;&gt;
+&lt;header style=&#34;margin: 1.2rem 0 .75rem;&#34;&gt;
+&lt;p class=&#34;muted&#34; style=&#34;margin: .25rem 0 0;&#34;&gt;&lt;em&gt;&lt;strong&gt;Media, Society, and Culture&lt;/strong&gt; Lesson Module&lt;/em&gt;&lt;/p&gt;
+&lt;img alt=&#34;&#34; class=&#34;aligncenter size-full wp-image-1172&#34; height=&#34;688&#34; src=&#34;http://localhost:1313/images/uploads/2025/10/Fake-News-Header.gif&#34; width=&#34;1280&#34;/&gt;
+&lt;/header&gt;&lt;section style=&#34;margin: 1.2rem 0 1.75rem;&#34;&gt;
+&lt;h2 id=&#34;hook&#34; style=&#34;font-size: 2rem; margin-bottom: .4rem;&#34;&gt;&lt;span style=&#34;color: #ff99cc;&#34;&gt;Seeing Isn’t Believing&lt;/span&gt;&lt;/h2&gt;
+&lt;pre style=&#34;margin: 0 0 .75rem;&#34;&gt;&lt;iframe allowfullscreen=&#34;allowfullscreen&#34; frameborder=&#34;0&#34; height=&#34;288&#34; src=&#34;https://commons.wikimedia.org/wiki/File:Dictators_-_Kim_Jong-Un_by_RepresentUs.webm?embedplayer=yes&#34; width=&#34;512&#34;&gt;&lt;/iframe&gt; &lt;span style=&#34;font-size: 10pt; color: #ff99cc;&#34;&gt;RepresentUs, CC BY 3.0 &amp;lt;https://creativecommons.org/licenses/by/3.0&amp;gt;, via Wikimedia Commons: A synthetic Kim Jong Un warns Americans—evidence that our eyes/ears are no longer reliable gatekeepers.&lt;/span&gt;&lt;/pre&gt;
+&lt;p data-end=&#34;1005&#34; data-start=&#34;263&#34;&gt;This video clip is a &#34;&lt;a href=&#34;https://en.wikipedia.org/wiki/Deepfake&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;deepfake&lt;/a&gt;&#34; of Kim Jong Un created in 2020 by &lt;a href=&#34;https://represent.us/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;RepresentUs&lt;/a&gt;, a non-partisan non-profit organization that produced it to raise public awareness about fake news in the emerging age of generative AI. The footage itself is fully synthetic, yet it’s an amalgamation from genuine video footage and voice samples of the North Korean leader drawn from publicly available news archives. It was intentionally designed to look real enough to unsettle us, but still recognizable as “fake” for educational purposes. Since 2020, of course, deepfake technology has advanced by orders of magnitude, in terms of realism, accessibility, and speed of production.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Public Relations: Industry, Practices, and Democratic Implications</title>
+      <link>http://localhost:1313/teaching/2025/10/teaching-public-relations-industry-practices-and-democratic-implications/</link>
+      <pubDate>Mon, 20 Oct 2025 16:35:06 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/2025/10/teaching-public-relations-industry-practices-and-democratic-implications/</guid>
+      <description>&lt;p&gt;&lt;b style=&#34;color: #99ccff; font-size: 24px; font-variant-ligatures: common-ligatures; letter-spacing: 0.13333em;&#34;&gt;Posted by Keren Wang, FA 2025&lt;/b&gt;&lt;/p&gt;
+&lt;div class=&#34;wrap&#34;&gt;&lt;header&gt;
+&lt;div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;img alt=&#34;&#34; class=&#34;aligncenter size-full wp-image-1130&#34; height=&#34;332&#34; src=&#34;http://localhost:1313/images/uploads/2025/10/Propaganda-and-Public-Relations-header.gif&#34; width=&#34;760&#34;/&gt;&lt;/p&gt;
+&lt;/header&gt;
+&lt;section class=&#34;stack&#34; id=&#34;sec-pr-vs-prop&#34;&gt;
+&lt;div class=&#34;card&#34;&gt;
+&lt;table style=&#34;border-collapse: collapse; width: 100%;&#34;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;width: 100%;&#34;&gt;&lt;span style=&#34;color: #ccffff;&#34;&gt;&lt;!-- Table of Contents Navigation Box --&gt;&lt;/span&gt;&lt;nav aria-label=&#34;Lesson sections&#34; class=&#34;navbox&#34;&gt;
+&lt;h3&gt;&lt;span style=&#34;color: #99ccff;&#34;&gt;Table of Content&lt;/span&gt;&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span style=&#34;color: #ccffff;&#34;&gt;&lt;a href=&#34;#sec-pr-vs-prop&#34; style=&#34;color: #ccffff;&#34;&gt;Public Relations and Propaganda&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;color: #ccffff;&#34;&gt;&lt;a href=&#34;#sec-industry&#34; style=&#34;color: #ccffff;&#34;&gt;Inside the PR Industry&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;color: #ccffff;&#34;&gt;&lt;a href=&#34;#sec-activities&#34; style=&#34;color: #ccffff;&#34;&gt;Common PR Activities&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;color: #ccffff;&#34;&gt;&lt;a href=&#34;#sec-disinfo&#34; style=&#34;color: #ccffff;&#34;&gt;PR and Disinformation&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;color: #ccffff;&#34;&gt;&lt;a href=&#34;#sec-democratize&#34; style=&#34;color: #ccffff;&#34;&gt;Democratizing PR?&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/nav&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;&lt;span style=&#34;color: #99ccff;&#34;&gt;1) Public Relations and Propaganda&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;Let’s start today’s discussion with one of the most famous political ads in American history: Lyndon B. Johnson’s 1964 “Daisy” ad. It’s only about a minute long, but it changed the entire landscape of political persuasion. Go ahead and give it a watch: &lt;span style=&#34;color: #ccffff;&#34;&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=riDypP1KfOU&#34; rel=&#34;noopener&#34; style=&#34;color: #ccffff;&#34; target=&#34;_blank&#34;&gt;LBJ campaign’s “Daisy” ad (1964)&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Internet - from &#34;Nuclear Hardened&#34;  Networks to Algorithmic Governmentality</title>
+      <link>http://localhost:1313/teaching/2025/10/teaching-the-internet-the-internet-from-nuclear-hardened-networks-to-algorithmic-governmentality/</link>
+      <pubDate>Sun, 12 Oct 2025 17:15:36 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/2025/10/teaching-the-internet-the-internet-from-nuclear-hardened-networks-to-algorithmic-governmentality/</guid>
+      <description>&lt;section id=&#34;references&#34;&gt;
+&lt;h2&gt;References&lt;/h2&gt;
+Beck, Estee. &#34;Who Is Tracking You?: A Rhetorical Framework for Evaluating Surveillance and Privacy Practices.&#34; In &lt;i&gt;Cyber Law, Privacy, and Security: Concepts, Methodologies, Tools, and Applications&lt;/i&gt;, pp. 121-138. IGI Global, 2019.
+&lt;p&gt;Belk, Russell. &amp;ldquo;Extended self and the digital world.&amp;rdquo; &lt;i&gt;Current Opinion in Psychology&lt;/i&gt; 10 (2016): 50-54.&lt;/p&gt;
+&lt;p&gt;Chen, Ning, and Yu Chen. &amp;ldquo;Smart city surveillance at the network edge in the era of iot: opportunities and challenges.&amp;rdquo; &lt;i&gt;Smart cities: development and governance frameworks&lt;/i&gt; (2018): 153-176.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Understanding Advertising through Consumer Psychology and Computational Rhetoric</title>
+      <link>http://localhost:1313/teaching/2025/09/understanding-advertising-through-consumer-psychology-computational-rhetoric/</link>
+      <pubDate>Mon, 29 Sep 2025 03:44:29 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/2025/09/understanding-advertising-through-consumer-psychology-computational-rhetoric/</guid>
+      <description>&lt;div&gt; &lt;/div&gt;
+&lt;!-- wp:html --&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;div&gt;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;table style=&#34;border-collapse: collapse; width: 100%;&#34;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;width: 100%;&#34;&gt;
+&lt;h2&gt;&lt;span style=&#34;font-size: 24pt;&#34;&gt;&lt;strong&gt;&lt;span style=&#34;font-style: italic;&#34;&gt;Table of Contents&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;div&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#h.26n593d62ttq&#34;&gt;&lt;span style=&#34;font-size: 18pt;&#34;&gt;What Do You See?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;font-size: 18pt;&#34;&gt;&lt;a href=&#34;#h.wyeqkw7puh5d&#34;&gt;Historical &#34;Thickness&#34; of Advertising&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;font-size: 18pt;&#34;&gt;&lt;a href=&#34;#h.4d5153j28kaw&#34;&gt;Demonstrative and Associative Ads&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;font-size: 18pt;&#34;&gt;&lt;a href=&#34;#h.uh0fxgv2a95c&#34;&gt;Advertising &amp;amp; Consumer Psychology&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;font-size: 18pt;&#34;&gt;&lt;a href=&#34;#h.qsu3bpa0yb2l&#34;&gt;Bandwagon &amp;amp; Anti-Bandwagon Effects&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;font-size: 18pt;&#34;&gt;&lt;a href=&#34;#h.vi7g0j3q3k9t&#34;&gt;Social Marketing &amp;amp; Exploitation&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;font-size: 18pt;&#34;&gt;&lt;a href=&#34;#h.iidw96apa7dh&#34;&gt;Computational Rhetoric of Hyper-Personalization&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;h2&gt;&lt;img alt=&#34;&#34; class=&#34;aligncenter size-full wp-image-1065&#34; height=&#34;719&#34; src=&#34;http://localhost:1313/images/uploads/2025/09/Advertising-header.gif&#34; width=&#34;1280&#34;/&gt;&lt;/h2&gt;
+&lt;h2 class=&#34;c17&#34; id=&#34;h.26n593d62ttq&#34;&gt;&lt;span class=&#34;c8 c29 c16&#34; style=&#34;color: #ccffff;&#34;&gt;What Do You See?&lt;/span&gt;&lt;/h2&gt;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;p class=&#34;c3&#34;&gt;&lt;span class=&#34;c8 c4&#34;&gt;Let’s begin today’s lesson with a quick glance at these sets of images. What do they remind you of?&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lesson 7: Rhetorical Artifacts</title>
+      <link>http://localhost:1313/teaching/2025/09/teaching-lesson-7-rhetorical-artifacts/</link>
+      <pubDate>Sun, 14 Sep 2025 21:00:04 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/2025/09/teaching-lesson-7-rhetorical-artifacts/</guid>
+      <description>&lt;header&gt;
+&lt;p class=&#34;byline&#34;&gt;Posted by: Keren Wang&lt;/p&gt;
+&lt;p class=&#34;intro&#34;&gt;&lt;strong&gt;Before you start this lesson, please READ:&lt;/strong&gt; Berger, Arthur Asa. 2024. &lt;em data-end=&#34;247&#34; data-start=&#34;145&#34;&gt;Media and Communication Research Methods: An Introduction to Qualitative and Quantitative Approaches&lt;/em&gt;. 3rd ed. Chapter 4, “Rhetorical Analysis.” Thousand Oaks, CA: SAGE. &lt;a class=&#34;decorated-link&#34; data-end=&#34;353&#34; data-start=&#34;316&#34; href=&#34;https://doi.org/10.4135/9781071939017&#34; rel=&#34;noopener&#34; target=&#34;_new&#34;&gt;https://doi.org/10.4135/9781071939017&lt;/a&gt;.&lt;/p&gt;
+&lt;/header&gt;
+&lt;section id=&#34;overview&#34;&gt;
+&lt;h2&gt;1. Overview&lt;/h2&gt;
+What do you think of when you hear the word “&lt;strong&gt;artifact&lt;/strong&gt;”? In rhetorical scholarship, the term “artifact” is not limited to historical objects or museum pieces. Instead, it encompasses various texts, speeches, symbolic objects, and events produced by humans.
+&lt;p&gt;In communication research, one key difference between rhetorical and critical methods and other qualitative research methods is that, while qualitative methods such as interviews, observations, and focus group studies revolve around studying human subjects, rhetorical scholars analyze rhetorical artifacts, or “texts” that have already been produced.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Introduction to a Brief History of Media</title>
+      <link>http://localhost:1313/teaching/2025/08/teaching-introduction-to-a-brief-history-of-media/</link>
+      <pubDate>Mon, 25 Aug 2025 02:34:28 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/2025/08/teaching-introduction-to-a-brief-history-of-media/</guid>
+      <description>&lt;div style=&#34;margin: 1em auto; max-width: 760px; background: #fff3cd; color: #856404; border: 1px solid #ffeeba; border-radius: 4px; padding: 0.6em 1em; font-size: 0.85em; line-height: 1.35; text-align: center;&#34;&gt;
+&lt;/div&gt;
+&lt;div class=&#34;wp-block-image&#34;&gt;&lt;img alt=&#34;&#34; class=&#34;wpa-warning wpa-image-missing-alt alignright size-full wp-image-1004&#34; data-warning=&#34;Missing alt text&#34; height=&#34;844&#34; src=&#34;http://localhost:1313/images/uploads/2025/08/SCOM2050-week-1-History-of-Media_page-0001.jpg&#34; width=&#34;1500&#34;/&gt;&lt;/div&gt;
+&lt;p&gt;We begin by asking a deceptively simple question: &lt;strong&gt;What is media?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;At its core, media is any&lt;strong&gt; technology that enables the storage, organization, transmission, and dissemination of information&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;When we hear the word today, we tend to think of “mass media” — newspapers, television, the internet — technologies that spread information rapidly across wide distances. &lt;span style=&#34;font-weight: 400;&#34;&gt;Commonly, people imagine the story of media beginning with the invention of the&lt;a href=&#34;https://en.wikipedia.org/wiki/Electrical_telegraph&#34;&gt; &lt;strong&gt;electric telegraph&lt;/strong&gt;&lt;/a&gt; in the early 19th century. But is that really where media begins?&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MEDIA &amp; VIOLENCE - A Transnational Perspective</title>
+      <link>http://localhost:1313/blog/2025/04/media-violence-a-transnational-perspective/</link>
+      <pubDate>Mon, 14 Apr 2025 18:23:19 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2025/04/media-violence-a-transnational-perspective/</guid>
+      <description>&lt;p&gt;Lesson Module by Keren Wang, updated 4 Nov 2025.&lt;/p&gt;
+&lt;div class=&#34;scom2050-lesson&#34; style=&#34;font-family: system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif; line-height: 1.55; max-width: 880px; margin: 0 auto;&#34;&gt;
+&lt;p&gt;This lesson module examines the contested and ambivalent relationship between media and violence from historical and transnational perspectives.&lt;/p&gt;
+&lt;img alt=&#34;&#34; class=&#34;aligncenter size-full wp-image-927&#34; height=&#34;718&#34; src=&#34;http://localhost:1313/images/uploads/2025/04/MEDIA-VIOLENCE-a-transnational-perspective-heading.gif&#34; width=&#34;1280&#34;/&gt;
+&lt;/div&gt;
+&lt;div class=&#34;scom2050-lesson&#34; style=&#34;font-family: system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif; line-height: 1.55; max-width: 880px; margin: 0 auto;&#34;&gt;
+&lt;h2&gt;&lt;span style=&#34;color: #00ccff;&#34;&gt;1. Violence as Ritual &amp;amp; Power: Historical and Global Perspectives&lt;/span&gt;&lt;/h2&gt;
+Let&#39;s open this session with a reference from Greek mythology: consider the telltale of Prometheus, whose theft of fire from the Olympian gods for humanity’s benefit inadvertently brought both civilization and destruction. Like Prometheus’s fire, the development of media technology simultaneously brings enlightenment and cataclysm.
+&lt;h4&gt;&lt;span style=&#34;color: #99ccff;&#34;&gt;1.1 Rhetorical Artifacts and Human Sacrifice&lt;/span&gt;&lt;/h4&gt;
+The history of the development of writing technology overlaps with the history of war propaganda and &lt;a href=&#34;http://localhost:1313/blog/2020/10/nca-2020-virtual-convention-presentation-logographic-inventions-of-violent-rituals/&#34;&gt;human sacrifice&lt;/a&gt;.&lt;sup&gt;&lt;a href=&#34;#fn1&#34;&gt;[1]&lt;/a&gt;&lt;/sup&gt; As early as the Narmer Palette, one of the earliest hieroglyphic artifacts ever found from circa 3200 BCE depicting scenes of conquest and violence:
+&lt;div class=&#34;wp-block-image&#34;&gt;&lt;img alt=&#34;&#34; class=&#34;wpa-warning wpa-image-missing-alt alignright size-large wp-image-881&#34; data-warning=&#34;Missing alt text&#34; height=&#34;537&#34; src=&#34;http://localhost:1313/images/uploads/2025/04/slide-2-1024x573.jpg&#34; width=&#34;960&#34;/&gt;&lt;/div&gt;
+&lt;article class=&#34;text-token-text-primary w-full&#34; data-scroll-anchor=&#34;true&#34; data-testid=&#34;conversation-turn-18&#34; dir=&#34;auto&#34;&gt;
+&lt;div class=&#34;text-base my-auto mx-auto py-5 [--thread-content-margin:--spacing(4)] @[37rem]:[--thread-content-margin:--spacing(6)] @[70rem]:[--thread-content-margin:--spacing(12)] px-(--thread-content-margin)&#34;&gt;
+&lt;div class=&#34;[--thread-content-max-width:32rem] @[34rem]:[--thread-content-max-width:40rem] @[64rem]:[--thread-content-max-width:48rem] mx-auto flex max-w-(--thread-content-max-width) flex-1 text-base gap-4 md:gap-5 lg:gap-6 group/turn-messages focus-visible:outline-hidden&#34; tabindex=&#34;-1&#34;&gt;
+&lt;div class=&#34;group/conversation-turn relative flex w-full min-w-0 flex-col agent-turn&#34;&gt;
+&lt;div class=&#34;relative flex-col gap-1 md:gap-3&#34;&gt;
+&lt;div class=&#34;flex max-w-full flex-col grow&#34;&gt;
+&lt;div class=&#34;min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal [.text-message+&amp;amp;]:mt-5&#34; data-message-author-role=&#34;assistant&#34; data-message-id=&#34;ef8e3b62-0ef3-4df3-ae84-07980e2cc1a4&#34; data-message-model-slug=&#34;o3-mini-high&#34; dir=&#34;auto&#34;&gt;
+&lt;div class=&#34;flex w-full flex-col gap-1 empty:hidden first:pt-[3px]&#34;&gt;
+&lt;div class=&#34;markdown prose dark:prose-invert w-full break-words light&#34;&gt;
+&lt;p class=&#34;&#34; data-end=&#34;495&#34; data-start=&#34;0&#34;&gt;Similarly, during the height of the Chinese Bronze Age, also known as the Shang dynasty (c. 1250–1046 BC) produced ritual bronze artifacts at monumental proportions -- such as the 833 kg (1,836 lbs) Houmuwu Ding -- &lt;strong&gt;one of the heaviest bronze vessel from the ancient world &lt;/strong&gt;-- and the 13-foot (3.96 m) tall Sanxingdui bronze tree (c. 1200 BC):&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Rhetorical Methods - Ideological and Psychoanalytic Criticism</title>
+      <link>http://localhost:1313/teaching/2025/04/research-methods-lesson-notes-psychoanalytic-criticism/</link>
+      <pubDate>Wed, 02 Apr 2025 12:40:01 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/2025/04/research-methods-lesson-notes-psychoanalytic-criticism/</guid>
+      <description>&lt;h1&gt;&lt;/h1&gt;&lt;strong&gt;Originally posted by:&lt;/strong&gt; Keren Wang, Fall 2024
+&lt;div class=&#34;toc&#34;&gt;
+&lt;h2&gt;Table of Contents&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li style=&#34;list-style-type: none;&#34;&gt;
+&lt;ul&gt;
+&lt;li style=&#34;list-style-type: none;&#34;&gt;
+&lt;ul&gt;
+&lt;li style=&#34;list-style-type: none;&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#overview&#34;&gt;Ideological Criticism - Overview&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#key-perspectives&#34;&gt;Key Perspectives from Ideological Criticism&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#base-superstructure&#34;&gt;Economic Inequality and False Consciousness&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#hegemony-mythologies&#34;&gt;Hegemony and Mythologies&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#psychoanalytic criticism overview&#34;&gt;Psychoanalytic Criticism - Overview&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#unconscious&#34;&gt;The Unconscious&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#Id, Ego, and Superego&#34;&gt;Id, Ego, and Superego&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#Defense Mechanisms and Complexes&#34;&gt;Defense Mechanisms and Complexes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#References&#34;&gt;References&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;hr/&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Ideological Criticism - Overview&lt;/h2&gt;
+&lt;p&gt;Ideological criticism is a method of analyzing texts and other rhetorical artifacts to uncover the underlying ideologies that shape and are reflected in them. This type of criticism is often used to explore how media, literature, and other forms of communication reinforce or challenge dominant social, political, and economic power structures.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Evaluating Online Sources</title>
+      <link>http://localhost:1313/teaching/2025/03/evaluating-online-sources/</link>
+      <pubDate>Wed, 26 Mar 2025 20:28:08 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/2025/03/evaluating-online-sources/</guid>
+      <description>&lt;!-- FullPage.js CSS --&gt; &lt;!-- Your font link --&gt;
+&lt;div id=&#34;fullpage&#34;&gt;
+&lt;div class=&#34;section&#34; id=&#34;section0&#34;&gt;&lt;/div&gt;
+&lt;!-- Section 1: Overview --&gt;
+&lt;div class=&#34;section&#34; id=&#34;overview&#34;&gt;
+&lt;hr/&gt;
+&lt;h2 style=&#34;font-size: 32px;&#34;&gt;&lt;span style=&#34;color: #ffff99;&#34;&gt;1. OVERVIEW&lt;/span&gt;&lt;/h2&gt;
+This lesson will be focusing on understanding and evaluating evidence and information sources, a crucial aspect of constructing persuasive arguments. It explains how evidence interacts with values, and presents general tests for assessing the quality of evidence. We will also be learning how to locate and evaluate various sources of evidence, guiding you on choosing reliable information from books, periodicals, websites, and more. The chapter emphasizes the importance of digital literacy and critical evaluation of different types of sources.
+&lt;figure&gt;&lt;img alt=&#34;Ad Fontes Media Bias Chart 6.0&#34; src=&#34;http://localhost:1313/images/external/upload-wikimedia-org/wikipedia/commons/thumb/e/ef/Adfontesmedia.jpg/1024px-Adfontesmedia.jpg&#34; width=&#34;1024&#34;/&gt;&lt;figcaption&gt;&lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Adfontesmedia.jpg&#34;&gt;Media Bias Chart published by Ad Fontes Media, 2020. Fact-checking always lags behind the emergence of new biased sources of information.&lt;/a&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/div&gt;
+&lt;!-- Section 2: Understanding Evidence --&gt;
+&lt;div class=&#34;section&#34; id=&#34;understanding-evidence&#34;&gt;
+&lt;hr/&gt;
+&lt;h1 style=&#34;font-size: 32px;&#34;&gt;&lt;span style=&#34;color: #ffff99;&#34;&gt;2. UNDERSTANDING EVIDENCE&lt;/span&gt;&lt;/h1&gt;
+&lt;h3&gt;Evidence and Values&lt;/h3&gt;
+In public discourse, evidence is invariably filtered through the &#34;terminal screens&#34; of societal norms and cultural values, leading to divergent interpretations even when presented with the same set of facts. Consider, for instance, debates surrounding Artificial Intelligence (AI) and employment. For techno-optimists, as represented by some &lt;a href=&#34;https://www.jstor.org/stable/27283815&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Silicon Valley entrepreneurs&lt;/a&gt;, rapid technological advancements are seen as essential for societal evolution. They may interpret the emergence of &lt;a href=&#34;https://arxiv.org/html/2502.07050v1&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Artificial General Intelligence (AGI) labor&lt;/a&gt; as an auspice for accelerated economic growth, productivity, and innovation, contending that AI liberates human workers from repetitive labor and allows greater engagement in creative, strategic, or emotionally rewarding tasks. Conversely, many labor advocates and trade unionists may interpret the prospect of an AGI workforce &lt;a href=&#34;https://www.nber.org/papers/w32980&#34;&gt;less positively&lt;/a&gt;. As critics of unchecked technological disruption, they might perceive this development as a harbinger of livelihood displacement, expressing concerns that automation could trigger widespread unemployment, diminish workers&#39; bargaining power, and deepen existing economic inequalities. Such &lt;strong&gt;rhetorical divergence&lt;/strong&gt; highlights how interpretations of evidence surrounding AI&#39;s impact are strategically framed to reinforce broader narratives of either progress or caution.
+&lt;p&gt;This example illustrates that the interpretation of evidence is not merely a neutral or objective process but is deeply intertwined with rhetorical constructions that reflect and reinforce specific value systems. Recognizing this interplay is crucial for understanding the dynamics of public debates and the ways in which information is presented and perceived.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dasein, ChatGPT, and the Ritology of AI: Special lecture at East China University of Political Science and Law, Shanghai, June 18 2023 (updated_</title>
+      <link>http://localhost:1313/blog/2023/12/dasein-chatgpt-and-the-ritology-of-ai-special-lecture-at-east-china-university-of-political-science-and-law-shanghai-june-18-2023/</link>
+      <pubDate>Mon, 04 Dec 2023 12:55:09 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2023/12/dasein-chatgpt-and-the-ritology-of-ai-special-lecture-at-east-china-university-of-political-science-and-law-shanghai-june-18-2023/</guid>
+      <description>&lt;h2&gt;&lt;span style=&#34;color: #800000;&#34;&gt;&lt;strong&gt;Dasein, ChatGPT, and the Ritology of AI:&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;h3&gt;&lt;i&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;Special lecture &lt;/span&gt;&lt;/i&gt;&lt;i&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;at East China University of Political Science and Law, June 18, 2023&lt;/span&gt;&lt;/i&gt;&lt;i&gt;&lt;/i&gt;&lt;/h3&gt;
+&lt;div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;b&gt; &lt;/b&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;&lt;i&gt;What philosophical mischief might we unleash if Plato’s Cave or Zhuangzi&#39;s Well suddenly became inundated by algorithms, with the sound and fury of GeForce RTX™ GPU fans, insisting they’ve seen the light?&lt;/i&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3&gt;&lt;b&gt;Extended Abstract:&lt;/b&gt;&lt;/h3&gt;
+This WIP paper builds off a guest lecture I have presented at the East China University of Political Science and Law (ECUPSL) in Shanghai, June 18, 2023. In this lecture, I had the privilege of sharing some of the preliminary research questions for my ongoing transdisciplinary survey, focusing on the intricate interplay between artificial intelligence and phenomenology. I will be highlighting the potentially profound implications of AI and its existential entanglements, particularly revolving around the context of Heidegger’s concept of &lt;i&gt;Dasein&lt;/i&gt;, and problematize some common ethical and ontological issues connected to &lt;i&gt;being-AI-in-our-world&lt;/i&gt;.
+&lt;p&gt;The relentless acceleration of innovation in large language models (LLMs) and artificial neural networks (ANNs), embodied by transformative technologies like ChatGPT, deepfakes, and AI-generated art, has ignited a dual fire of awe and trepidation among technologists, ethicists, policymakers, and the broader public. As a vast body of literature explores the societal, ethical, and epistemological ripples of this ongoing technological upheaval—particularly within the fields of Information, Science, and Technology (IST)—this project seeks to offer a novel contribution by bringing into focus the lens of phenomenology: an intricate branch of philosophical inquiry renowned for its profound and methodical examination of the fundamental structures of human consciousness. By advocating for a phenomenological perspective, the project aims to illuminate how AI&amp;rsquo;s disruptions reshape not only our daily lives but also our understanding of what it means to &lt;i&gt;be&lt;/i&gt;. In doing so, it offers critical insights into the interplay between human and supra-human consciousness, reframing our relationship with emerging technologies and their implications for the future of sentient existence.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>NCA 2020 Virtual Convention Presentation:  Logographic Inventions of Violent Rituals</title>
+      <link>http://localhost:1313/blog/2020/10/nca-2020-virtual-convention-presentation-logographic-inventions-of-violent-rituals/</link>
+      <pubDate>Sat, 31 Oct 2020 20:52:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2020/10/nca-2020-virtual-convention-presentation-logographic-inventions-of-violent-rituals/</guid>
+      <description>&lt;img alt=&#34;title slide&#34; class=&#34;aligncenter size-full wp-image-527&#34; height=&#34;540&#34; src=&#34;http://localhost:1313/images/uploads/2020/10/1.png&#34; width=&#34;960&#34;/&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p class=&#34;drop-cap&#34;&gt;The ritual taking of things that are of human value, including the ritual killing of humans, has been continuously practiced for as long as human civilization itself has existed. In my presentation for the upcoming virtual &lt;strong&gt;&lt;a href=&#34;https://www.natcom.org/convention-events/virtual-2020-convention&#34;&gt;2020 &lt;span class=&#34;il&#34;&gt;National Communication Association&#39;s &lt;/span&gt;Annual Convention&lt;/a&gt;&lt;/strong&gt;, I will highlight key findings from one of my ongoing historical archival projects, focusing on the rhetoric of human sacrifice as represented in Early Bronze Age China oracle bone scripts (c.1250 BC - 1046 BC). It will be delivered at the v&lt;a href=&#34;https://www.natcom.org/sites/default/files/annual-convention/Accessing%20Session%20Content%20%20FINAL.pdf&#34;&gt;irtual paper session&lt;/a&gt;, &#34;GPS: Changing Routes in Rhetoric&#39;s History&#34; sponsored by the &lt;a href=&#34;https://ww4.aievolution.com/nca2001/index.cfm?do=ev.viewEv&amp;amp;ev=10689&#34;&gt;American Society for the History of Rhetoric&lt;/a&gt; on November 1st, 2020.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Lessons on Keren Wang</title>
+    <link>http://localhost:1313/tags/lessons/</link>
+    <description>Recent content in Lessons on Keren Wang</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Mar 2025 20:28:08 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/lessons/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Evaluating Online Sources</title>
+      <link>http://localhost:1313/teaching/2025/03/evaluating-online-sources/</link>
+      <pubDate>Wed, 26 Mar 2025 20:28:08 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/2025/03/evaluating-online-sources/</guid>
+      <description>&lt;!-- FullPage.js CSS --&gt; &lt;!-- Your font link --&gt;
+&lt;div id=&#34;fullpage&#34;&gt;
+&lt;div class=&#34;section&#34; id=&#34;section0&#34;&gt;&lt;/div&gt;
+&lt;!-- Section 1: Overview --&gt;
+&lt;div class=&#34;section&#34; id=&#34;overview&#34;&gt;
+&lt;hr/&gt;
+&lt;h2 style=&#34;font-size: 32px;&#34;&gt;&lt;span style=&#34;color: #ffff99;&#34;&gt;1. OVERVIEW&lt;/span&gt;&lt;/h2&gt;
+This lesson will be focusing on understanding and evaluating evidence and information sources, a crucial aspect of constructing persuasive arguments. It explains how evidence interacts with values, and presents general tests for assessing the quality of evidence. We will also be learning how to locate and evaluate various sources of evidence, guiding you on choosing reliable information from books, periodicals, websites, and more. The chapter emphasizes the importance of digital literacy and critical evaluation of different types of sources.
+&lt;figure&gt;&lt;img alt=&#34;Ad Fontes Media Bias Chart 6.0&#34; src=&#34;http://localhost:1313/images/external/upload-wikimedia-org/wikipedia/commons/thumb/e/ef/Adfontesmedia.jpg/1024px-Adfontesmedia.jpg&#34; width=&#34;1024&#34;/&gt;&lt;figcaption&gt;&lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Adfontesmedia.jpg&#34;&gt;Media Bias Chart published by Ad Fontes Media, 2020. Fact-checking always lags behind the emergence of new biased sources of information.&lt;/a&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/div&gt;
+&lt;!-- Section 2: Understanding Evidence --&gt;
+&lt;div class=&#34;section&#34; id=&#34;understanding-evidence&#34;&gt;
+&lt;hr/&gt;
+&lt;h1 style=&#34;font-size: 32px;&#34;&gt;&lt;span style=&#34;color: #ffff99;&#34;&gt;2. UNDERSTANDING EVIDENCE&lt;/span&gt;&lt;/h1&gt;
+&lt;h3&gt;Evidence and Values&lt;/h3&gt;
+In public discourse, evidence is invariably filtered through the &#34;terminal screens&#34; of societal norms and cultural values, leading to divergent interpretations even when presented with the same set of facts. Consider, for instance, debates surrounding Artificial Intelligence (AI) and employment. For techno-optimists, as represented by some &lt;a href=&#34;https://www.jstor.org/stable/27283815&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Silicon Valley entrepreneurs&lt;/a&gt;, rapid technological advancements are seen as essential for societal evolution. They may interpret the emergence of &lt;a href=&#34;https://arxiv.org/html/2502.07050v1&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Artificial General Intelligence (AGI) labor&lt;/a&gt; as an auspice for accelerated economic growth, productivity, and innovation, contending that AI liberates human workers from repetitive labor and allows greater engagement in creative, strategic, or emotionally rewarding tasks. Conversely, many labor advocates and trade unionists may interpret the prospect of an AGI workforce &lt;a href=&#34;https://www.nber.org/papers/w32980&#34;&gt;less positively&lt;/a&gt;. As critics of unchecked technological disruption, they might perceive this development as a harbinger of livelihood displacement, expressing concerns that automation could trigger widespread unemployment, diminish workers&#39; bargaining power, and deepen existing economic inequalities. Such &lt;strong&gt;rhetorical divergence&lt;/strong&gt; highlights how interpretations of evidence surrounding AI&#39;s impact are strategically framed to reinforce broader narratives of either progress or caution.
+&lt;p&gt;This example illustrates that the interpretation of evidence is not merely a neutral or objective process but is deeply intertwined with rhetorical constructions that reflect and reinforce specific value systems. Recognizing this interplay is crucial for understanding the dynamics of public debates and the ways in which information is presented and perceived.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Trump on Keren Wang</title>
+    <link>http://localhost:1313/tags/trump/</link>
+    <description>Recent content in Trump on Keren Wang</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 27 Oct 2024 18:04:48 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/trump/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lesson on Statistical Evidence</title>
+      <link>http://localhost:1313/teaching/2024/10/communication-research-methods-survey-part-2-on-sampling-and-evaluating-survey-accuracy/</link>
+      <pubDate>Sun, 27 Oct 2024 18:04:48 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/2024/10/communication-research-methods-survey-part-2-on-sampling-and-evaluating-survey-accuracy/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

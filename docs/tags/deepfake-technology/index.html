@@ -1,0 +1,406 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto" data-theme="auto">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>Deepfake Technology | Keren Wang</title>
+<meta name="keywords" content="">
+<meta name="description" content="Research, teaching, and reflections by Keren Wang.">
+<meta name="author" content="Keren Wang">
+<link rel="canonical" href="http://localhost:1313/tags/deepfake-technology/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.54db77ad7b2326cd6e6ae7cfd5e5a96fc5f154ab5e78855a6098093beeb4ce8f.css" integrity="sha256-VNt3rXsjJs1uaufP1eWpb8XxVKteeIVaYJgJO&#43;60zo8=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png">
+<link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/tags/deepfake-technology/index.xml" title="rss">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/tags/deepfake-technology/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+                color-scheme: dark;
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .toc {
+                background: var(--entry);
+            }
+        }
+
+    </style>
+</noscript>
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else if (localStorage.getItem("pref-theme") === "light") {
+       document.querySelector("html").dataset.theme = 'light';
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else {
+        document.querySelector("html").dataset.theme = 'light';
+    }
+
+</script><meta property="og:url" content="http://localhost:1313/tags/deepfake-technology/">
+  <meta property="og:site_name" content="Keren Wang">
+  <meta property="og:title" content="Deepfake Technology">
+  <meta property="og:description" content="Research, teaching, and reflections by Keren Wang.">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="website">
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Deepfake Technology">
+  <meta name="twitter:description" content="Research, teaching, and reflections by Keren Wang.">
+
+</head>
+<body class="list" id="top">
+    <header class="header">
+    <nav class="header-nav">
+        <div class="logo">
+            <a href="http://localhost:1313/" accesskey="h" title="Keren Wang (Alt + H)">Keren Wang</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" class="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg class="moon" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg class="sun" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu" class="menu">
+            <li>
+                <a href="http://localhost:1313/about/" title="About">
+                    <span>About</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/cv/" title="CV">
+                    <span>CV</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/blog/" title="Blog">
+                    <span>Blog</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/teaching/" title="Teaching">
+                    <span>Teaching</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main"> 
+<header class="page-header"><nav class="breadcrumbs" role="navigation" aria-label="Breadcrumb">
+            <a href="/">Home</a>
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+                stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-right">
+                <polyline points="9 18 15 12 9 6"></polyline>
+            </svg>
+            <a href="/tags/">Tags</a>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+        stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-right">
+        <polyline points="9 18 15 12 9 6"></polyline>
+    </svg>
+</nav>
+  <h1>
+    Deepfake Technology
+    <a href="/tags/deepfake-technology/index.xml" title="RSS" aria-label="RSS">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+        stroke-linecap="round" stroke-linejoin="round" height="23">
+        <path d="M4 11a9 9 0 0 1 9 9" />
+        <path d="M4 4a16 16 0 0 1 16 16" />
+        <circle cx="5" cy="19" r="1" />
+      </svg>
+    </a>
+  </h1>
+</header>
+
+<article class="post-entry tag-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Fake News: Concepts, Rhetorical Disruptions, and Policy Implications
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p> Media, Society, and Culture Lesson Module
+Seeing Isn’t Believing RepresentUs, CC BY 3.0 &lt;https://creativecommons.org/licenses/by/3.0&gt;, via Wikimedia Commons: A synthetic Kim Jong Un warns Americans—evidence that our eyes/ears are no longer reliable gatekeepers. This video clip is a &#34;deepfake&#34; of Kim Jong Un created in 2020 by RepresentUs, a non-partisan non-profit organization that produced it to raise public awareness about fake news in the emerging age of generative AI. The footage itself is fully synthetic, yet it’s an amalgamation from genuine video footage and voice samples of the North Korean leader drawn from publicly available news archives. It was intentionally designed to look real enough to unsettle us, but still recognizable as “fake” for educational purposes. Since 2020, of course, deepfake technology has advanced by orders of magnitude, in terms of realism, accessibility, and speed of production.
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2025-10-27 00:26:53 +0000 UTC'>October 27, 2025</span>&nbsp;·&nbsp;<span>13 min</span>&nbsp;·&nbsp;<span>2647 words</span>&nbsp;·&nbsp;<span>Keren Wang</span></footer>
+  <a class="entry-link" aria-label="post link to Fake News: Concepts, Rhetorical Disruptions, and Policy Implications" href="http://localhost:1313/teaching/2025/10/fake-news-concepts-rhetorical-disruptions-and-policy-implications/"></a>
+</article>
+    </main>
+    
+<footer class="footer">
+        <span>&copy; 2026 <a href="http://localhost:1313/">Keren Wang</a></span> · 
+
+    
+    
+    <span>
+        Powered by
+        <a href="https://gohugo.io/?utm_source=papermod" rel="noopener" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" id="top-link" class="top-link hidden" aria-label="go to top" title="Go to Top (Alt + G)" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+        stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevrons-up">
+        <polyline points="17 11 12 6 7 11"></polyline>
+        <polyline points="17 18 12 13 7 18"></polyline>
+    </svg>
+</a>
+
+<script>
+(function() {
+    'use strict';
+
+    
+
+    function slugify(text) {
+        return text
+            .toLowerCase()
+            .replace(/[\u00A0\s]+/g, '-')
+            .replace(/[^\w\-]+/g, '')
+            .replace(/--+/g, '-')
+            .replace(/^-|-$/g, '');
+    }
+
+    
+
+    function backfillHeadingIds() {
+        var tocLinks = document.querySelectorAll(
+            'nav#TableOfContents a[href^="#"], ' +
+            '.toc a[href^="#"], ' +
+            'details.toc a[href^="#"]'
+        );
+        if (tocLinks.length === 0) return;
+
+        var headings = Array.prototype.slice.call(
+            document.querySelectorAll(
+                '.post-content h1, .post-content h2, .post-content h3, ' +
+                '.post-content h4, .post-content h5, .post-content h6'
+            )
+        );
+
+        tocLinks.forEach(function(link) {
+            var href = link.getAttribute('href');
+            if (!href || href === '#') return;
+            var targetId = decodeURIComponent(href.substring(1));
+            if (!targetId || document.getElementById(targetId)) return;
+
+            var linkText = link.textContent.trim();
+            for (var i = 0; i < headings.length; i++) {
+                if (headings[i].textContent.trim() === linkText && !headings[i].id) {
+                    headings[i].id = targetId;
+                    break;
+                }
+            }
+        });
+
+        
+        headings.forEach(function(h) {
+            if (!h.id) {
+                var id = slugify(h.textContent);
+                if (id) h.id = id;
+            }
+        });
+    }
+
+    
+
+    function attachAnchorScroll() {
+        var HEADER_OFFSET = 80;
+
+        document.addEventListener('click', function(e) {
+            var link = e.target.closest('a[href^="#"]');
+            if (!link) return;
+            var href = link.getAttribute('href');
+            if (!href || href === '#') return;
+
+            var targetId = decodeURIComponent(href.substring(1));
+            if (!targetId) return;
+
+            var target = document.getElementById(targetId);
+            if (!target) return;
+
+            
+            if (e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
+            if (link.target === '_blank') return;
+
+            e.preventDefault();
+
+            var rect = target.getBoundingClientRect();
+            var top = rect.top + window.pageYOffset - HEADER_OFFSET;
+
+            window.scrollTo({
+                top: top,
+                behavior: 'smooth'
+            });
+
+            
+            if (history.replaceState) {
+                history.replaceState(null, '', '#' + targetId);
+            }
+        });
+    }
+
+    
+
+    function applySmartDropCap() {
+        var posts = document.querySelectorAll('.post-single .post-content');
+        posts.forEach(function(post) {
+            
+            if (post.querySelector('p.has-drop-cap')) return;
+
+            
+            
+            var paragraphs = post.querySelectorAll('p');
+            for (var i = 0; i < paragraphs.length; i++) {
+                var p = paragraphs[i];
+                var text = p.textContent.trim();
+
+                
+                if (text.length < 80) continue;
+
+                
+                if (/^Posted by /i.test(text)) continue;
+                if (/^Lecture by /i.test(text)) continue;
+                if (/^Published in /i.test(text)) continue;
+
+                
+                
+                var firstChild = p.firstElementChild;
+                if (firstChild) {
+                    var style = firstChild.getAttribute('style') || '';
+                    if (/font-size:\s*(?:[2-9]\d|[0-9]+pt|[1-9]\.\d+em|[1-9]rem)/i.test(style)) {
+                        continue;
+                    }
+                }
+
+                
+                p.classList.add('has-drop-cap');
+                break;
+            }
+        });
+    }
+
+    
+
+    function init() {
+        backfillHeadingIds();
+        applySmartDropCap();
+        attachAnchorScroll();
+    }
+
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', init);
+    } else {
+        init();
+    }
+})();
+</script>
+
+
+<script>
+    let menu = document.getElementById('menu');
+    if (menu) {
+        
+        const scrollPosition = localStorage.getItem("menu-scroll-position");
+        if (scrollPosition) {
+            menu.scrollLeft = parseInt(scrollPosition, 10);
+        }
+        
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var toplink = document.getElementById("top-link");
+    window.onscroll = function () {
+        const scrollThreshold = window.innerHeight;
+        if (document.body.scrollTop > scrollThreshold || document.documentElement.scrollTop > scrollThreshold) {
+            toplink.classList.remove("hidden");
+        } else {
+            toplink.classList.add("hidden");
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        const html = document.querySelector("html");
+        if (html.dataset.theme === "dark") {
+            html.dataset.theme = 'light';
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            html.dataset.theme = 'dark';
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>

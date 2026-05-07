@@ -1,0 +1,595 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto" data-theme="auto">
+
+<head>
+	<meta name="generator" content="Hugo 0.161.1"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>Keren Wang</title>
+
+<meta name="description" content="Research, teaching, and reflections by Keren Wang.">
+<meta name="author" content="Keren Wang">
+<link rel="canonical" href="http://localhost:1313/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.54db77ad7b2326cd6e6ae7cfd5e5a96fc5f154ab5e78855a6098093beeb4ce8f.css" integrity="sha256-VNt3rXsjJs1uaufP1eWpb8XxVKteeIVaYJgJO&#43;60zo8=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png">
+<link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/index.xml" title="rss">
+<link rel="alternate" type="application/json" href="http://localhost:1313/index.json" title="json">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+                color-scheme: dark;
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .toc {
+                background: var(--entry);
+            }
+        }
+
+    </style>
+</noscript>
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else if (localStorage.getItem("pref-theme") === "light") {
+       document.querySelector("html").dataset.theme = 'light';
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else {
+        document.querySelector("html").dataset.theme = 'light';
+    }
+
+</script><meta property="og:url" content="http://localhost:1313/">
+  <meta property="og:site_name" content="Keren Wang">
+  <meta property="og:title" content="Keren Wang">
+  <meta property="og:description" content="Research, teaching, and reflections by Keren Wang.">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="website">
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Keren Wang">
+  <meta name="twitter:description" content="Research, teaching, and reflections by Keren Wang.">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Keren Wang",
+  "url": "http://localhost:1313/",
+  "description": "Research, teaching, and reflections by Keren Wang.",
+  "logo": "http://localhost:1313/favicon.ico",
+  "sameAs": [
+      
+  ]
+}
+</script>
+</head>
+<body class="list" id="top">
+    <header class="header">
+    <nav class="header-nav">
+        <div class="logo">
+            <a href="http://localhost:1313/" accesskey="h" title="Keren Wang (Alt + H)">Keren Wang</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" class="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg class="moon" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg class="sun" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu" class="menu">
+            <li>
+                <a href="http://localhost:1313/about/" title="About">
+                    <span>About</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/cv/" title="CV">
+                    <span>CV</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/blog/" title="Blog">
+                    <span>Blog</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/teaching/" title="Teaching">
+                    <span>Teaching</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main"> 
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Ritualism and the Ethos of Chinese Legal Order: presentation at Penn State Law
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>“Ritualism and the Ethos of Chinese Legal Order,” presented at International Conference: New International Trade and Investment Rules between Globalization and Anti-­Globalization, Penn State University, University Park, PA (April 22, 2017)
+倬彼雲漢 昭回于天 王曰於乎 何辜今之人
+天降喪亂 饑饉薦臻
+靡神不舉 靡愛斯牲
+圭璧既卒 寧莫我聽
+Majestic is that Milky Way, brightly afloat in the firmament of the heaven. The King said, O! What crime is chargeable on us now? That Heaven thus sends down death and disorder, unrelenting famine and hunger grapple us!
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2017-06-10 16:39:47 +0000 UTC'>June 10, 2017</span>&nbsp;·&nbsp;<span>7 min</span>&nbsp;·&nbsp;<span>1410 words</span>&nbsp;·&nbsp;<span>Keren Wang</span></footer>
+  <a class="entry-link" aria-label="post link to Ritualism and the Ethos of Chinese Legal Order: presentation at Penn State Law" href="http://localhost:1313/blog/2017/06/ritualism-and-the-ethos-of-chinese-legal-order-presentation-at-penn-state-law/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Harvard East Asia Society 2017 Conference presentation: Legitimation Crisis of the Japanese Constitution (presentation slides and abstract)
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>The Harvard East Asia Society (HEAS) recently concluded its 20th Annual Conference: Roads through Asia, held this year in Harvard Center for Government and International Studies, Cambridge, Massachusetts. The conference program may be accessed HERE.
+For the conference, I presented a paper, along with my co-author Tomonori Teraoka, titled: Legitimation Crisis of the Japanese Constitution: Reflections on Japan’s post-WWII Constitutionalization Process. Below are Powerpoint slides and working abstract for our HEAS presentation:
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2017-02-27 11:14:50 +0000 UTC'>February 27, 2017</span>&nbsp;·&nbsp;<span>2 min</span>&nbsp;·&nbsp;<span>395 words</span>&nbsp;·&nbsp;<span>Keren Wang</span></footer>
+  <a class="entry-link" aria-label="post link to Harvard East Asia Society 2017 Conference presentation: Legitimation Crisis of the Japanese Constitution (presentation slides and abstract)" href="http://localhost:1313/blog/2017/02/harvard-east-asia-society-2017-conference-presentation-legitimation-crisis-of-the-japanese-constitution-presentation-slides-and-abstract/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Postscript on the &#34;Elephant&#34; in &#34;Phenomenology&#34;
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>(Posted by Keren Wang | Feb. 3, 2017) Per Dr. Alan Sica’s request, this post is written as a follow-up to a peculiar topic brought up during our Social Thought seminar yesterday – it concerns the “Elephant (象)” glyph in the Chinese term for “Phenomenology (现象学)”. Long story short… During our regular seminar discussion on the writings of Maurice Merleau-Ponty (French phenomenologist) yesterday, Dr. Sica asked what is the Chinese term for “phenomenology”. Luckily, there is an official Chinese translation available for this particular philosophical term – 現象學 (pronounced “hsien-hsiang hsueh”). For easier viewing, please see the enlarged picture-file below, which also includes the standard phonetic notation for each character: The facile explanation of phrase “現象學” is that it combines 现象 (hsien-hsiang, lit. “phenomenon, materialization”) &#43; 學 (hsueh, lit. “study, learning”). By “facile explanation”, I am referring to the fact that the Chinese writing system doesn’t follow an alphabet-word system, so any direct “word-to-word” translation between Chinese and English would be at best a “metaphorical approximation”. Unwilling to settle for the easy explanation, Alan of course pressed for more precise meaning of each individual character in 現象學, and thus going further down the impossible linguistic rabbit hole… So here’s when the “elephant” came in… The Chinese term for phenomenology, 現象學, consists three characters (or more accurately, three logograms). Here is a detailed break-down of the characters in 現象學: Indeed, for a Chinese reader, the term 現象學 does not appear as a singular, self-contained “word” per se. Rather, like most Chinese vocabularies, the nomenclature would appear as a loosely-grouped logographic cluster that reads something like “(the) study (of) manifest shape(s) and symbol(s).” Those parenthetical parts are grammatical features absent in the Chinese writing system. Indeed, concepts such as definitive articles, plurals and grammatical tense may not apply to written Chinese…at all! Chinese characters group together in ways that’s very different from English vocabularies. When used together, they do not form a new “word” in ways English alphabets would. Thus, unlike English “words”, meanings are not “encoded” into Chinese phrases and characters. Each logograph in a phrase or sentence merely defers and refers its signification in terms of its relation with those other characters in the sentence, and the final “meaning” of a phrase or sentence is obtained as the sum aggregate of signification of all the characters in the phrase. This might sound confusing, but it is worthwhile to keep in mind that even the most basic grammatical and syntactical principles in English do not apply in written Chinese. And now I regress… Most notably, the second character of the phrase, 象 (pronounced “hsiang”) , indeed means “elephant” in Chinese. Yes, when used with other characters, 象 can be used broadly to signify ideas relating to “shape”, “symbol” and “representation”. However, those are derivatives or its “ordinary” meaning of “elephant” Indeed, when the character “象” is used alone, it almost always refers to non other than those massive land mammals with long trunk and pillar-like legs. In fact, the “elephant“ in 現象學 is among the oldest Chinese characters still in common use. As shown in the figure below, the glyph “象” first appeared in Oracle bone script (c. 1,200 BCE) as an elephant pictogram. The basic shape and composition of “象” remained surprisingly consistent across its three-thousand-plus years of continuous usage: So what does “elephant” has anything to do with symbol and elephant? While it is impossible to get into the heads of Shang dynasty kings (who first used this letter during sacrificial rites), I did found a compelling explanation by searching around Chinese Classical texts. Han Fei (韓非, c. 280 – 233 BC), an influential political philosopher from the Warring States period (475BC - 221BC), wrote the following in his Han Fei Tzu:
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2017-02-03 20:24:01 +0000 UTC'>February 3, 2017</span>&nbsp;·&nbsp;<span>4 min</span>&nbsp;·&nbsp;<span>773 words</span>&nbsp;·&nbsp;<span>Keren Wang</span></footer>
+  <a class="entry-link" aria-label="post link to Postscript on the &#34;Elephant&#34; in &#34;Phenomenology&#34;" href="http://localhost:1313/blog/2017/02/postscript-on-the-elephant-in-phenomenology/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">&#34;White/Older/Male&#34; voter groups may not be the ones to blame for electing Donald Trump...
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Posted by Keren Wang, 11/9/2016 at 19:00 ET
+When comparing current election results with how groups voted back in 2012, it appears that the “White/Older/Male” voter groups may not be the ones to blame for electing Donald Trump. Current data suggest that Trump did not receive significantly higher percentage of “White/Older/Male” votes than the previous GOP candidate.
+Of course it is still too early to see the finalized voting data, and early exit poll numbers are not the most accurate. However, it is always a good practice to check our political assumptions with facts on the ground. At minimum, the “White/Older/Male” voter narrative frequently cited by the media might be too easy of an explanation for the election result we’re seeing…
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2016-11-09 18:56:34 +0000 UTC'>November 9, 2016</span>&nbsp;·&nbsp;<span>1 min</span>&nbsp;·&nbsp;<span>144 words</span>&nbsp;·&nbsp;<span>Keren Wang</span></footer>
+  <a class="entry-link" aria-label="post link to &#34;White/Older/Male&#34; voter groups may not be the ones to blame for electing Donald Trump..." href="http://localhost:1313/blog/2016/11/data-suggest-trump-did-not-receive-higher-share-of-whiteoldermale-votes-than-romney/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Civic &amp; Community Engagement (CIVCM) Constitution Day 2016 | Written and Unwritten Constitutions
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>http://civcm.psu.edu/2016/09/06/written-and-unwritten-constitutions/
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2016-09-08 15:40:24 +0000 UTC'>September 8, 2016</span>&nbsp;·&nbsp;<span>1 min</span>&nbsp;·&nbsp;<span>word</span>&nbsp;·&nbsp;<span>Keren Wang</span></footer>
+  <a class="entry-link" aria-label="post link to Civic & Community Engagement (CIVCM) Constitution Day 2016 | Written and Unwritten Constitutions" href="http://localhost:1313/blog/2016/09/civic-community-engagement-civcm-constitution-day-2016-written-and-unwritten-constitutions/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">&#34;Participatory Global Citizenship&#34; Paper Featured on Yale Global
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>One of my recently published article, “Participatory Global Citizenship: Civic Education Beyond Territoriality”, co-authored with Nabih Haddad of Michigan State University, has been featured on Yale Global’s Academic Papers collection Yale Global is an online publication of Yale University’s MacMillan Center. According to its website, the “Academic Papers” series incorporates “analytical and reflective essays on various aspects of globalization from many sources.” (Available at: http://yaleglobal.yale.edu/academic/papers). The co-authored paper has been previously published on Journal of Self-Governance and Management Economics, 2015. Below is the abstract of the featured essay, the full version of the paper can be accessed here: http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2565483
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2016-03-13 18:49:25 +0000 UTC'>March 13, 2016</span>&nbsp;·&nbsp;<span>2 min</span>&nbsp;·&nbsp;<span>238 words</span>&nbsp;·&nbsp;<span>Keren Wang</span></footer>
+  <a class="entry-link" aria-label="post link to &#34;Participatory Global Citizenship&#34; Paper Featured on Yale Global" href="http://localhost:1313/blog/2016/03/participatory-global-citizenship-paper-featured-on-yale-global/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">A conversation with Flora Sapio on Chinese politics and the rhetoric of friend/enemy distinction
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>*Flora Sapio is a China legal scholar currently serving as research fellow at the Australian Centre on China in the World. Her research is focused on criminal justice and legal philosophy. She is the author of Sovereign Power and the Law in China (Brill, 2010); co-editor of The Politics of Law and Stability in China(Edward Elgar, 2014); and, Detention and its Reforms in China (forthcoming, Ashgate, 2016).
+The following is a transcription of my conversation with Flora Sapio on the problem of enemyship in contemporary Chinese politics and the rhetorical approach in the investigation of political rhetoric:
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2015-11-08 14:55:26 +0000 UTC'>November 8, 2015</span>&nbsp;·&nbsp;<span>13 min</span>&nbsp;·&nbsp;<span>2755 words</span>&nbsp;·&nbsp;<span>Keren Wang</span></footer>
+  <a class="entry-link" aria-label="post link to A conversation with Flora Sapio on Chinese politics and the rhetoric of friend/enemy distinction" href="http://localhost:1313/blog/2015/11/a-conversation-with-flora-sapio-on-chinese-politics-and-the-rhetoric-of-friendenemy-distinction/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Law at the End of the Day: Keren Wang on &#34;Religion in China: Historical and Legal Context&#34; and Chinese-Vatican Relations
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p> [embed]http://imgur.com/XhRs5nT[/embed]
+The study of the relationship between the state and religion—especially organized and institutional religion originating in the West and Middle East–is grounded in an important and often overlooked premise. That premise is based on a very specific view of religion and a very historically contextualized understanding of the relationship between the state and religious institutions. Both are grounded in the primacy of the model of religious organization and of state-religion relations developed in the Middle East and Europe (and later spread elsewhere in the globe) centering around Judaism, Jewish state organization and its important evolution under Christianity and Islam, the religions that emerged from it. Much of the national and international discussion of the last several centuries has effectively centered on the way in each of these variants of so-called “Abrahamic” religions (and thier contests for domination within social, cultural and economic space) be manifested, and their relations with states legitimated. Other religious traditions are then folded into the master narrative of law-religion discourse, or treated as exceptions or variations within it.
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2015-09-20 07:30:05 +0000 UTC'>September 20, 2015</span>&nbsp;·&nbsp;<span>7 min</span>&nbsp;·&nbsp;<span>1294 words</span>&nbsp;·&nbsp;<span>Keren Wang</span></footer>
+  <a class="entry-link" aria-label="post link to Law at the End of the Day: Keren Wang on &#34;Religion in China: Historical and Legal Context&#34; and Chinese-Vatican Relations" href="http://localhost:1313/blog/2015/09/law-at-the-end-of-the-day-keren-wang-on-religion-in-china-historical-and-legal-context-and-chinese-vatican-relations/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">‘Reading’ the Historical New York Cityscape, part 2: fire, ice, and tensions on the streets
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>The historic Laki (Lakagígar) eruption that took place in Iceland from June 1783 to February 1784 was so powerful, that the entire European continent plus many parts of North America were blanked with a great “haze” of volcanic gases and particles. The eight-month-long continuous release of toxic gas from Laki not only wiped out roughly one-quarter of Iceland’s population [1], the resulting volcanic haze also led to an exceptionally cool summer followed by a brutal, frigid winter in Europe and North America. The Laki eruption added another layer of frost on top of the frigid climate pattern of thus in turn led to acute food shortages in those regions. Present analysis estimated that the Laki eruption directly caused more than twenty-thousand human mortality in England alone during the “volcanic winter” from August 1783 to February 1784. [2]
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2015-09-10 21:19:44 +0000 UTC'>September 10, 2015</span>&nbsp;·&nbsp;<span>8 min</span>&nbsp;·&nbsp;<span>1664 words</span>&nbsp;·&nbsp;<span>Keren Wang</span></footer>
+  <a class="entry-link" aria-label="post link to ‘Reading’ the Historical New York Cityscape, part 2: fire, ice, and tensions on the streets" href="http://localhost:1313/blog/2015/09/reading-the-historical-new-york-cityscape-part-2-fire-ice-and-tensions-on-the-streets/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">‘Reading’ the Historical New York Cityscape, part 1: topography &amp; city-planning before and after the Revolutionary War
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>originally posted by Keren Wang, July 20th 2015
+For this research project, in collaboration with Professor Stephen Browne from Penn State University, we seek to investigate New York City, circa 1789 through the five senses: what did it look like, sound like, smell like, taste like, and feel like? I will be primarily focusing on looking directly into relevant sources from the early years of the Republic: newspapers clippings, personal diaries, musical scores, travelers’ accounts, correspondence, menu offerings, historical art, architecture, music, theater, food, etc. By the end of this project, hopefully we may find ourselves with a collection of blog posts, nicely crammed with contemporary accounts of life in the City as it was lived bodily, publicly, and culturally.
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2015-07-21 20:49:50 +0000 UTC'>July 21, 2015</span>&nbsp;·&nbsp;<span>7 min</span>&nbsp;·&nbsp;<span>1424 words</span>&nbsp;·&nbsp;<span>Keren Wang</span></footer>
+  <a class="entry-link" aria-label="post link to ‘Reading’ the Historical New York Cityscape, part 1: topography & city-planning before and after the Revolutionary War" href="http://localhost:1313/blog/2015/07/reading-the-post-revolutionary-war-new-york-cityscape-part-1-topography-and-city-planning/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">The History and Challenges of Theorizing Human Sacrifice
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p> Fig. 1: Floor mosaic in Beit Alfa Synagogue (c.5th century CE, Israel) depicting the Binding of Issac (public domain art available via Wikimedia Commons) Human sacrifice refers to the practice of ritual killing of human beings as offerings to divine patrons, ancestors, or other superhuman forces. Early comparative studies on human sacrifice were heavily influenced by theories of historical relativism and social evolutionism. [1] Such theory approach is exemplified by the works of nineteenth century cultural-anthropologists Edward Tylor and Marcel Mauss, both of whom framed practices of human sacrifice as specific iteration of a general social feature, developed relative to various stages of human historical development. [2]
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2015-06-11 17:08:00 +0000 UTC'>June 11, 2015</span>&nbsp;·&nbsp;<span>16 min</span>&nbsp;·&nbsp;<span>3272 words</span>&nbsp;·&nbsp;<span>Keren Wang</span></footer>
+  <a class="entry-link" aria-label="post link to The History and Challenges of Theorizing Human Sacrifice" href="http://localhost:1313/blog/2015/06/the-history-and-challenges-of-theorizing-human-sacrifice/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">A Brief Note on Human Sacrifice in Classical Mayan Culture
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p> Mayan Moon Goddess with rabbit, Museum of Fine Arts Boston MA In my previous post “Human Sacrifice during Shang Dynasty”, I examined the historical background of renji (人祭 / ritual human sacrifice) practiced during Shang dynasty China (c. 1600 BC to 1046 BC). It is important to note that the kind of large-scale human sacrifice practiced by Shang rulers, though extraordinary, is not historically idiosyncratic. Human sacrifice rituals similar to that of renji were also found pre-Colombian Mesoamerica, most notably in Mayan and Aztec societies. [1] As scholars have already performed excellent analyses on the political economy of ritual human killings in Aztec empire (see, The Accursed Share by Georges Bataille), this post will focus only on large-scale human sacrifices as practiced in pre-Colombian Mayan society.
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2015-06-02 22:27:59 +0000 UTC'>June 2, 2015</span>&nbsp;·&nbsp;<span>9 min</span>&nbsp;·&nbsp;<span>1867 words</span>&nbsp;·&nbsp;<span>Keren Wang</span></footer>
+  <a class="entry-link" aria-label="post link to A Brief Note on Human Sacrifice in Classical Mayan Culture" href="http://localhost:1313/blog/2015/06/a-brief-note-on-human-sacrifice-in-classical-mayan-culture/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Human Sacrifice during Shang Dynasty
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p> [box type=“note”]Fig.1, Bronze ceremonial axe (Yue / 钺) from middle to late Shang period, c. 1400 BCE ~ 1000 BCE, symbol of state power. Excavated from tomb M1 at the Sufutun site, currently part of the Shandong Museum collection. [/box]
+Human sacrifice refers to the practice of ritual killing of human beings as offerings to divine patrons, ancestors, or other superhuman forces. While the phenomenon of ritual human killings have been present in many societies throughout history [1], the types of human sacrifice that were practiced by ancient Chinese and pre-Colombian Mesoamerican cultures, which were exceptional in terms of the sheer number of people sacrificed, the frequency at which it was done, and the high degree of formalization of their sacrificial rituals. Large-scale, systematic human sacrifice functioned as important political and religious spectacles in Shang dynasty.[2]
+...</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2015-05-27 20:28:53 +0000 UTC'>May 27, 2015</span>&nbsp;·&nbsp;<span>9 min</span>&nbsp;·&nbsp;<span>1753 words</span>&nbsp;·&nbsp;<span>Keren Wang</span></footer>
+  <a class="entry-link" aria-label="post link to Human Sacrifice during Shang Dynasty" href="http://localhost:1313/blog/2015/05/historical-background-of-human-sacrifices-during-shang-dynasty/"></a>
+</article>
+<footer class="page-footer">
+  <nav class="pagination">
+    <a class="prev" href="http://localhost:1313/page/2/">
+      «&nbsp;Prev&nbsp;
+    </a>
+  </nav>
+</footer>
+    </main>
+    
+<footer class="footer">
+        <span>&copy; 2026 <a href="http://localhost:1313/">Keren Wang</a></span> · 
+
+    
+    
+    <span>
+        Powered by
+        <a href="https://gohugo.io/?utm_source=papermod" rel="noopener" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" id="top-link" class="top-link hidden" aria-label="go to top" title="Go to Top (Alt + G)" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+        stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevrons-up">
+        <polyline points="17 11 12 6 7 11"></polyline>
+        <polyline points="17 18 12 13 7 18"></polyline>
+    </svg>
+</a>
+
+<script>
+(function() {
+    'use strict';
+
+    
+
+    function slugify(text) {
+        return text
+            .toLowerCase()
+            .replace(/[\u00A0\s]+/g, '-')
+            .replace(/[^\w\-]+/g, '')
+            .replace(/--+/g, '-')
+            .replace(/^-|-$/g, '');
+    }
+
+    
+
+    function backfillHeadingIds() {
+        var tocLinks = document.querySelectorAll(
+            'nav#TableOfContents a[href^="#"], ' +
+            '.toc a[href^="#"], ' +
+            'details.toc a[href^="#"]'
+        );
+        if (tocLinks.length === 0) return;
+
+        var headings = Array.prototype.slice.call(
+            document.querySelectorAll(
+                '.post-content h1, .post-content h2, .post-content h3, ' +
+                '.post-content h4, .post-content h5, .post-content h6'
+            )
+        );
+
+        tocLinks.forEach(function(link) {
+            var href = link.getAttribute('href');
+            if (!href || href === '#') return;
+            var targetId = decodeURIComponent(href.substring(1));
+            if (!targetId || document.getElementById(targetId)) return;
+
+            var linkText = link.textContent.trim();
+            for (var i = 0; i < headings.length; i++) {
+                if (headings[i].textContent.trim() === linkText && !headings[i].id) {
+                    headings[i].id = targetId;
+                    break;
+                }
+            }
+        });
+
+        
+        headings.forEach(function(h) {
+            if (!h.id) {
+                var id = slugify(h.textContent);
+                if (id) h.id = id;
+            }
+        });
+    }
+
+    
+
+    function attachAnchorScroll() {
+        var HEADER_OFFSET = 80;
+
+        document.addEventListener('click', function(e) {
+            var link = e.target.closest('a[href^="#"]');
+            if (!link) return;
+            var href = link.getAttribute('href');
+            if (!href || href === '#') return;
+
+            var targetId = decodeURIComponent(href.substring(1));
+            if (!targetId) return;
+
+            var target = document.getElementById(targetId);
+            if (!target) return;
+
+            
+            if (e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
+            if (link.target === '_blank') return;
+
+            e.preventDefault();
+
+            var rect = target.getBoundingClientRect();
+            var top = rect.top + window.pageYOffset - HEADER_OFFSET;
+
+            window.scrollTo({
+                top: top,
+                behavior: 'smooth'
+            });
+
+            
+            if (history.replaceState) {
+                history.replaceState(null, '', '#' + targetId);
+            }
+        });
+    }
+
+    
+
+    function applySmartDropCap() {
+        var posts = document.querySelectorAll('.post-single .post-content');
+        posts.forEach(function(post) {
+            
+            if (post.querySelector('p.has-drop-cap')) return;
+
+            
+            
+            var paragraphs = post.querySelectorAll('p');
+            for (var i = 0; i < paragraphs.length; i++) {
+                var p = paragraphs[i];
+                var text = p.textContent.trim();
+
+                
+                if (text.length < 80) continue;
+
+                
+                if (/^Posted by /i.test(text)) continue;
+                if (/^Lecture by /i.test(text)) continue;
+                if (/^Published in /i.test(text)) continue;
+
+                
+                
+                var firstChild = p.firstElementChild;
+                if (firstChild) {
+                    var style = firstChild.getAttribute('style') || '';
+                    if (/font-size:\s*(?:[2-9]\d|[0-9]+pt|[1-9]\.\d+em|[1-9]rem)/i.test(style)) {
+                        continue;
+                    }
+                }
+
+                
+                p.classList.add('has-drop-cap');
+                break;
+            }
+        });
+    }
+
+    
+
+    function init() {
+        backfillHeadingIds();
+        applySmartDropCap();
+        attachAnchorScroll();
+    }
+
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', init);
+    } else {
+        init();
+    }
+})();
+</script>
+
+
+<script>
+    let menu = document.getElementById('menu');
+    if (menu) {
+        
+        const scrollPosition = localStorage.getItem("menu-scroll-position");
+        if (scrollPosition) {
+            menu.scrollLeft = parseInt(scrollPosition, 10);
+        }
+        
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var toplink = document.getElementById("top-link");
+    window.onscroll = function () {
+        const scrollThreshold = window.innerHeight;
+        if (document.body.scrollTop > scrollThreshold || document.documentElement.scrollTop > scrollThreshold) {
+            toplink.classList.remove("hidden");
+        } else {
+            toplink.classList.add("hidden");
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        const html = document.querySelector("html");
+        if (html.dataset.theme === "dark") {
+            html.dataset.theme = 'light';
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            html.dataset.theme = 'dark';
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>

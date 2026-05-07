@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Digital Humanities on Keren Wang</title>
+    <link>http://localhost:1313/tags/digital-humanities/</link>
+    <description>Recent content in Digital Humanities on Keren Wang</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Dec 2025 09:35:52 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/digital-humanities/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What Is AI? Part 2 – Demystifying AI Through Four Acts</title>
+      <link>http://localhost:1313/blog/2025/12/what-is-ai-part-2-demystifying-ai-through-four-acts/</link>
+      <pubDate>Mon, 01 Dec 2025 09:35:52 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2025/12/what-is-ai-part-2-demystifying-ai-through-four-acts/</guid>
+      <description>&lt;div id=&#34;layout&#34;&gt;&lt;nav aria-label=&#34;Table of contents&#34; id=&#34;toc-container&#34;&gt;
+&lt;h2&gt;&lt;span style=&#34;color: #00ccff;&#34;&gt;Table of Contents&lt;/span&gt;&lt;/h2&gt;
+&lt;ul id=&#34;toc&#34;&gt;
+&lt;li&gt;&lt;strong&gt;&lt;span style=&#34;color: #99ccff;&#34;&gt;&lt;a href=&#34;#introduction&#34; style=&#34;color: #99ccff;&#34;&gt;Introduction&lt;/a&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;span style=&#34;color: #99ccff;&#34;&gt;&lt;a href=&#34;#act-one&#34; style=&#34;color: #99ccff;&#34;&gt;Act One: AI as Metaphor and Speculative Frame for Procedural Automation (1980s–1990s)&lt;/a&gt;&lt;/span&gt;&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style=&#34;color: #99ccff; font-size: 14pt;&#34;&gt;&lt;a href=&#34;#from-labs-everyday&#34; style=&#34;color: #99ccff;&#34;&gt;From Laboratories to Everyday Life&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;color: #99ccff; font-size: 14pt;&#34;&gt;&lt;a href=&#34;#cultural-imagination&#34; style=&#34;color: #99ccff;&#34;&gt;Cultural Imagination: Between Utopian and Dystopian Frames&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;span style=&#34;color: #99ccff;&#34;&gt;&lt;a href=&#34;#act-two&#34; style=&#34;color: #99ccff;&#34;&gt;Act Two: The Machine Learning Turn (Mid 1990s–2000s)&lt;/a&gt;&lt;/span&gt;&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style=&#34;color: #99ccff; font-size: 14pt;&#34;&gt;&lt;a href=&#34;#agentic-shift&#34; style=&#34;color: #99ccff;&#34;&gt;Agentic Shift From Static Programs to Adaptive Algorithms&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;color: #99ccff; font-size: 14pt;&#34;&gt;&lt;a href=&#34;#wardrobe-recommender&#34; style=&#34;color: #99ccff;&#34;&gt;Illustrative Example: A Machine-Learning Wardrobe Recommender&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;color: #99ccff; font-size: 14pt;&#34;&gt;&lt;a href=&#34;#paradoxes-ml&#34; style=&#34;color: #99ccff;&#34;&gt;Paradoxes of Machine Learning&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;span style=&#34;color: #99ccff;&#34;&gt;&lt;a href=&#34;#footnotes&#34; style=&#34;color: #99ccff;&#34;&gt;Footnotes&lt;/a&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/nav&gt;
+&lt;figure&gt;
+  &lt;img alt=&#34;Scene from the 1983 sci-fi thriller WarGames, directed by John Badham.The film dramatizes a near-catastrophe triggered by a military decision to entrust U.S. nuclear deterrence to an autonomous AI system that treats thermonuclear war as a solvable optimization problem.&#34; class=&#34;size-full wp-image-1241&#34; height=&#34;388&#34; src=&#34;http://localhost:1313/images/uploads/2025/11/WarGames-1983.gif&#34; width=&#34;660&#34;/&gt;
+  &lt;figcaption&gt;&lt;span style=&#34;font-size: 12pt;&#34;&gt;&lt;strong&gt;&lt;span style=&#34;color: #ffcc99;&#34;&gt;Scene from the 1983 sci-fi thriller WarGames, directed by John Badham. &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;span style=&#34;font-size: 12pt;&#34;&gt;&lt;span style=&#34;color: #ffcc99;&#34;&gt;The film dramatizes a near-catastrophe triggered by a military decision to entrust U.S. nuclear deterrence to an autonomous AI system that treats thermonuclear war as a solvable optimization problem. &lt;/span&gt;&lt;span style=&#34;color: #999999;&#34;&gt;Source: DVDXtras, “WarGames (1983) | Behind the Scenes,” Internet Archive, June 2, 2022. &amp;lt;&lt;a href=&#34;https://archive.org/details/youtube-5g4EdnMcDzg&#34;&gt;LINK&lt;/a&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h2&gt;&lt;span style=&#34;font-size: 18pt;&#34;&gt;*Continuing from:&lt;/span&gt; &lt;span style=&#34;font-size: 18pt; color: #00ccff;&#34;&gt;&lt;em&gt;&lt;span style=&#34;color: #99ccff;&#34;&gt;&lt;a href=&#34;http://localhost:1313/blog/2025/11/a-survey-of-imaginaries-mythologies-and-rhetorical-structures-of-thinking-machines-part-1/&#34; style=&#34;color: #99ccff;&#34;&gt;“What Is AI?” Part 1: A Survey of Imaginaries, Mythologies, and Rhetorical Structures of Thinking Machines&lt;/a&gt;&lt;/span&gt;&lt;/em&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;a href=&#34;http://localhost:1313/blog/2025/11/a-survey-of-imaginaries-mythologies-and-rhetorical-structures-of-thinking-machines-part-1/&#34;&gt;&lt;strong&gt;In the previous segment of our genealogical survey,&lt;/strong&gt;&lt;/a&gt; we have traced ancient imaginaries that seeded today’s visions of machine intelligence. From &lt;span style=&#34;color: #ffff99;&#34;&gt;&lt;strong&gt;Yan Shi’s mechanical performers&lt;/strong&gt;&lt;/span&gt; to &lt;span style=&#34;color: #ffff99;&#34;&gt;&lt;strong&gt;&lt;em&gt;Talos&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;’ bronze vigilance and the ritual logic of &lt;strong&gt;golems&lt;/strong&gt; and Homunculi, we explored how mythic prototypes shaped the rhetorical terrain on which “AI” would later emerge as a technological category.
+&lt;p&gt;Whereas earlier societies used myth and ritual to make sense of uncanny forms of artificial agency and “thinking machines,” in this second part we turn from historical mythologies to present-day technological possibilities. The term “artificial intelligence” circulates in our cultural lifeworld with astonishing fluidity. It appears in commercials, policy reports, sci-fi movies, legal disputes, and everyday conversations. It is used to describe everything from basic computer programs to sophisticated generative models capable of complex knowledge-performance.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Internet - from &#34;Nuclear Hardened&#34;  Networks to Algorithmic Governmentality</title>
+      <link>http://localhost:1313/teaching/2025/10/teaching-the-internet-the-internet-from-nuclear-hardened-networks-to-algorithmic-governmentality/</link>
+      <pubDate>Sun, 12 Oct 2025 17:15:36 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/2025/10/teaching-the-internet-the-internet-from-nuclear-hardened-networks-to-algorithmic-governmentality/</guid>
+      <description>&lt;section id=&#34;references&#34;&gt;
+&lt;h2&gt;References&lt;/h2&gt;
+Beck, Estee. &#34;Who Is Tracking You?: A Rhetorical Framework for Evaluating Surveillance and Privacy Practices.&#34; In &lt;i&gt;Cyber Law, Privacy, and Security: Concepts, Methodologies, Tools, and Applications&lt;/i&gt;, pp. 121-138. IGI Global, 2019.
+&lt;p&gt;Belk, Russell. &amp;ldquo;Extended self and the digital world.&amp;rdquo; &lt;i&gt;Current Opinion in Psychology&lt;/i&gt; 10 (2016): 50-54.&lt;/p&gt;
+&lt;p&gt;Chen, Ning, and Yu Chen. &amp;ldquo;Smart city surveillance at the network edge in the era of iot: opportunities and challenges.&amp;rdquo; &lt;i&gt;Smart cities: development and governance frameworks&lt;/i&gt; (2018): 153-176.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Understanding Advertising through Consumer Psychology and Computational Rhetoric</title>
+      <link>http://localhost:1313/teaching/2025/09/understanding-advertising-through-consumer-psychology-computational-rhetoric/</link>
+      <pubDate>Mon, 29 Sep 2025 03:44:29 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/2025/09/understanding-advertising-through-consumer-psychology-computational-rhetoric/</guid>
+      <description>&lt;div&gt; &lt;/div&gt;
+&lt;!-- wp:html --&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;div&gt;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;table style=&#34;border-collapse: collapse; width: 100%;&#34;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;width: 100%;&#34;&gt;
+&lt;h2&gt;&lt;span style=&#34;font-size: 24pt;&#34;&gt;&lt;strong&gt;&lt;span style=&#34;font-style: italic;&#34;&gt;Table of Contents&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;div&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#h.26n593d62ttq&#34;&gt;&lt;span style=&#34;font-size: 18pt;&#34;&gt;What Do You See?&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;font-size: 18pt;&#34;&gt;&lt;a href=&#34;#h.wyeqkw7puh5d&#34;&gt;Historical &#34;Thickness&#34; of Advertising&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;font-size: 18pt;&#34;&gt;&lt;a href=&#34;#h.4d5153j28kaw&#34;&gt;Demonstrative and Associative Ads&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;font-size: 18pt;&#34;&gt;&lt;a href=&#34;#h.uh0fxgv2a95c&#34;&gt;Advertising &amp;amp; Consumer Psychology&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;font-size: 18pt;&#34;&gt;&lt;a href=&#34;#h.qsu3bpa0yb2l&#34;&gt;Bandwagon &amp;amp; Anti-Bandwagon Effects&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;font-size: 18pt;&#34;&gt;&lt;a href=&#34;#h.vi7g0j3q3k9t&#34;&gt;Social Marketing &amp;amp; Exploitation&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;font-size: 18pt;&#34;&gt;&lt;a href=&#34;#h.iidw96apa7dh&#34;&gt;Computational Rhetoric of Hyper-Personalization&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;h2&gt;&lt;img alt=&#34;&#34; class=&#34;aligncenter size-full wp-image-1065&#34; height=&#34;719&#34; src=&#34;http://localhost:1313/images/uploads/2025/09/Advertising-header.gif&#34; width=&#34;1280&#34;/&gt;&lt;/h2&gt;
+&lt;h2 class=&#34;c17&#34; id=&#34;h.26n593d62ttq&#34;&gt;&lt;span class=&#34;c8 c29 c16&#34; style=&#34;color: #ccffff;&#34;&gt;What Do You See?&lt;/span&gt;&lt;/h2&gt;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;p class=&#34;c3&#34;&gt;&lt;span class=&#34;c8 c4&#34;&gt;Let’s begin today’s lesson with a quick glance at these sets of images. What do they remind you of?&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lesson 7: Rhetorical Artifacts</title>
+      <link>http://localhost:1313/teaching/2025/09/teaching-lesson-7-rhetorical-artifacts/</link>
+      <pubDate>Sun, 14 Sep 2025 21:00:04 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/2025/09/teaching-lesson-7-rhetorical-artifacts/</guid>
+      <description>&lt;header&gt;
+&lt;p class=&#34;byline&#34;&gt;Posted by: Keren Wang&lt;/p&gt;
+&lt;p class=&#34;intro&#34;&gt;&lt;strong&gt;Before you start this lesson, please READ:&lt;/strong&gt; Berger, Arthur Asa. 2024. &lt;em data-end=&#34;247&#34; data-start=&#34;145&#34;&gt;Media and Communication Research Methods: An Introduction to Qualitative and Quantitative Approaches&lt;/em&gt;. 3rd ed. Chapter 4, “Rhetorical Analysis.” Thousand Oaks, CA: SAGE. &lt;a class=&#34;decorated-link&#34; data-end=&#34;353&#34; data-start=&#34;316&#34; href=&#34;https://doi.org/10.4135/9781071939017&#34; rel=&#34;noopener&#34; target=&#34;_new&#34;&gt;https://doi.org/10.4135/9781071939017&lt;/a&gt;.&lt;/p&gt;
+&lt;/header&gt;
+&lt;section id=&#34;overview&#34;&gt;
+&lt;h2&gt;1. Overview&lt;/h2&gt;
+What do you think of when you hear the word “&lt;strong&gt;artifact&lt;/strong&gt;”? In rhetorical scholarship, the term “artifact” is not limited to historical objects or museum pieces. Instead, it encompasses various texts, speeches, symbolic objects, and events produced by humans.
+&lt;p&gt;In communication research, one key difference between rhetorical and critical methods and other qualitative research methods is that, while qualitative methods such as interviews, observations, and focus group studies revolve around studying human subjects, rhetorical scholars analyze rhetorical artifacts, or “texts” that have already been produced.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>New Research Project: Artificial Intelligence and Human Sacrifice</title>
+      <link>http://localhost:1313/blog/2025/08/new-research-project-artificial-intelligence-and-human-sacrifice/</link>
+      <pubDate>Mon, 25 Aug 2025 02:36:41 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2025/08/new-research-project-artificial-intelligence-and-human-sacrifice/</guid>
+      <description>&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;&lt;!-- Copyright Banner --&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+&lt;!-- wp:tadv/classic-paragraph --&gt;
+&lt;div style=&#34;margin: 1em auto; max-width: 760px; background: #fff3cd; color: #856404; border: 1px solid #ffeeba; border-radius: 4px; padding: 0.6em 1em; font-size: 0.85em; line-height: 1.35; text-align: center;&#34;&gt;
+&lt;/div&gt;
+&lt;!-- /wp:tadv/classic-paragraph --&gt;
+&lt;!-- wp:paragraph {&#34;dropCap&#34;:true} --&gt;
+&lt;p class=&#34;has-drop-cap&#34;&gt;On December 4, 2024, news broke that a lone gunman had assassinated UnitedHealthcare’s chief executive officer, Brian Thompson, outside the company’s headquarters.&lt;sup&gt;&lt;a href=&#34;#fn1&#34; id=&#34;fnref1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; The killing itself was shocking, but what unsettled many observers was the wave of sympathy that quickly coalesced around the perpetrator—donations, online tributes, and statements of support that revealed a raw seam in America’s collective experience of health care.&lt;sup&gt;&lt;a href=&#34;#fn2&#34; id=&#34;fnref2&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; This dramatic act of killing is entangled with the dark trajectory in the devolution of the marketized healthcare industry in the United States: normalizing traumatic acts of takings, with increasingly unsustainable industry practices justifying the suspension of pre-existing taboos concerning the sanctity of life and the boundaries of wealth transfer.&lt;sup&gt;&lt;a href=&#34;#fn3&#34; id=&#34;fnref3&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MEDIA &amp; VIOLENCE - A Transnational Perspective</title>
+      <link>http://localhost:1313/blog/2025/04/media-violence-a-transnational-perspective/</link>
+      <pubDate>Mon, 14 Apr 2025 18:23:19 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2025/04/media-violence-a-transnational-perspective/</guid>
+      <description>&lt;p&gt;Lesson Module by Keren Wang, updated 4 Nov 2025.&lt;/p&gt;
+&lt;div class=&#34;scom2050-lesson&#34; style=&#34;font-family: system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif; line-height: 1.55; max-width: 880px; margin: 0 auto;&#34;&gt;
+&lt;p&gt;This lesson module examines the contested and ambivalent relationship between media and violence from historical and transnational perspectives.&lt;/p&gt;
+&lt;img alt=&#34;&#34; class=&#34;aligncenter size-full wp-image-927&#34; height=&#34;718&#34; src=&#34;http://localhost:1313/images/uploads/2025/04/MEDIA-VIOLENCE-a-transnational-perspective-heading.gif&#34; width=&#34;1280&#34;/&gt;
+&lt;/div&gt;
+&lt;div class=&#34;scom2050-lesson&#34; style=&#34;font-family: system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif; line-height: 1.55; max-width: 880px; margin: 0 auto;&#34;&gt;
+&lt;h2&gt;&lt;span style=&#34;color: #00ccff;&#34;&gt;1. Violence as Ritual &amp;amp; Power: Historical and Global Perspectives&lt;/span&gt;&lt;/h2&gt;
+Let&#39;s open this session with a reference from Greek mythology: consider the telltale of Prometheus, whose theft of fire from the Olympian gods for humanity’s benefit inadvertently brought both civilization and destruction. Like Prometheus’s fire, the development of media technology simultaneously brings enlightenment and cataclysm.
+&lt;h4&gt;&lt;span style=&#34;color: #99ccff;&#34;&gt;1.1 Rhetorical Artifacts and Human Sacrifice&lt;/span&gt;&lt;/h4&gt;
+The history of the development of writing technology overlaps with the history of war propaganda and &lt;a href=&#34;http://localhost:1313/blog/2020/10/nca-2020-virtual-convention-presentation-logographic-inventions-of-violent-rituals/&#34;&gt;human sacrifice&lt;/a&gt;.&lt;sup&gt;&lt;a href=&#34;#fn1&#34;&gt;[1]&lt;/a&gt;&lt;/sup&gt; As early as the Narmer Palette, one of the earliest hieroglyphic artifacts ever found from circa 3200 BCE depicting scenes of conquest and violence:
+&lt;div class=&#34;wp-block-image&#34;&gt;&lt;img alt=&#34;&#34; class=&#34;wpa-warning wpa-image-missing-alt alignright size-large wp-image-881&#34; data-warning=&#34;Missing alt text&#34; height=&#34;537&#34; src=&#34;http://localhost:1313/images/uploads/2025/04/slide-2-1024x573.jpg&#34; width=&#34;960&#34;/&gt;&lt;/div&gt;
+&lt;article class=&#34;text-token-text-primary w-full&#34; data-scroll-anchor=&#34;true&#34; data-testid=&#34;conversation-turn-18&#34; dir=&#34;auto&#34;&gt;
+&lt;div class=&#34;text-base my-auto mx-auto py-5 [--thread-content-margin:--spacing(4)] @[37rem]:[--thread-content-margin:--spacing(6)] @[70rem]:[--thread-content-margin:--spacing(12)] px-(--thread-content-margin)&#34;&gt;
+&lt;div class=&#34;[--thread-content-max-width:32rem] @[34rem]:[--thread-content-max-width:40rem] @[64rem]:[--thread-content-max-width:48rem] mx-auto flex max-w-(--thread-content-max-width) flex-1 text-base gap-4 md:gap-5 lg:gap-6 group/turn-messages focus-visible:outline-hidden&#34; tabindex=&#34;-1&#34;&gt;
+&lt;div class=&#34;group/conversation-turn relative flex w-full min-w-0 flex-col agent-turn&#34;&gt;
+&lt;div class=&#34;relative flex-col gap-1 md:gap-3&#34;&gt;
+&lt;div class=&#34;flex max-w-full flex-col grow&#34;&gt;
+&lt;div class=&#34;min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal [.text-message+&amp;amp;]:mt-5&#34; data-message-author-role=&#34;assistant&#34; data-message-id=&#34;ef8e3b62-0ef3-4df3-ae84-07980e2cc1a4&#34; data-message-model-slug=&#34;o3-mini-high&#34; dir=&#34;auto&#34;&gt;
+&lt;div class=&#34;flex w-full flex-col gap-1 empty:hidden first:pt-[3px]&#34;&gt;
+&lt;div class=&#34;markdown prose dark:prose-invert w-full break-words light&#34;&gt;
+&lt;p class=&#34;&#34; data-end=&#34;495&#34; data-start=&#34;0&#34;&gt;Similarly, during the height of the Chinese Bronze Age, also known as the Shang dynasty (c. 1250–1046 BC) produced ritual bronze artifacts at monumental proportions -- such as the 833 kg (1,836 lbs) Houmuwu Ding -- &lt;strong&gt;one of the heaviest bronze vessel from the ancient world &lt;/strong&gt;-- and the 13-foot (3.96 m) tall Sanxingdui bronze tree (c. 1200 BC):&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Argumentation - Digital Literacy in Argumentation</title>
+      <link>http://localhost:1313/teaching/2024/10/argumentation-lesson-evaluating-evidence-and-online-sources-scom-2710/</link>
+      <pubDate>Sun, 20 Oct 2024 17:59:23 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/2024/10/argumentation-lesson-evaluating-evidence-and-online-sources-scom-2710/</guid>
+      <description>&lt;header&gt;
+&lt;h1&gt;Digital Literacy in Argumentation&lt;/h1&gt;
+SCOM 2710 Argumentation Lesson, Posted by Keren Wang, updated 2024
+&lt;/header&gt;&lt;section id=&#34;overview&#34;&gt;
+&lt;h2&gt;Overview&lt;/h2&gt;
+This week we will be focusing on understanding and evaluating evidence, a crucial aspect of constructing persuasive arguments. It explains how evidence interacts with values, and presents general tests for assessing the quality of evidence. We will also be learning how to locate and evaluate various sources of evidence, guiding you on choosing reliable information from books, periodicals, websites, and more. The chapter emphasizes the importance of digital literacy and critical evaluation of different types of sources.
+&lt;figure&gt;&lt;img alt=&#34;Ad Fontes Media Bias Chart 6.0&#34; src=&#34;http://localhost:1313/images/external/upload-wikimedia-org/wikipedia/commons/thumb/e/ef/Adfontesmedia.jpg/1024px-Adfontesmedia.jpg&#34; width=&#34;1024&#34;/&gt;&lt;figcaption&gt;&lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Adfontesmedia.jpg&#34;&gt;Media Bias Chart published by Ad Fontes Media, 2020. Fact-checking always lags behind the emergence of new biased sources of information.&lt;/a&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/section&gt;
+&lt;section id=&#34;understanding-evidence&#34;&gt;
+&lt;h2&gt;Understanding Evidence&lt;/h2&gt;
+&lt;h3&gt;Evidence and Values&lt;/h3&gt;
+Evidence is always interpreted through personal and cultural values. Here are some examples of how values shape our interpretation of evidence:
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Artificial Intelligence in Employment:&lt;/strong&gt; Evidence showing that AI can improve productivity and efficiency is interpreted by some as a positive development for economic growth, whereas others see it as a threat to jobs, fearing mass unemployment and widening economic inequality.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Genetic Editing (CRISPR):&lt;/strong&gt; Evidence about the successful application of CRISPR to edit genes in humans can be seen as a revolutionary medical advancement that will eliminate hereditary diseases, or as a dangerous intervention with unknown ethical and social consequences.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Universal Basic Income (UBI):&lt;/strong&gt; Evidence from trials of Universal Basic Income might show improvements in mental health and poverty reduction, which is interpreted positively by proponents as proof of the policy’s benefits. However, others might see it as fostering a culture of dependency or as economically unviable, depending on their economic values.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Police Surveillance Technology:&lt;/strong&gt; Evidence supporting the use of facial recognition and other surveillance technology to improve public safety can be seen as a way to effectively reduce crime. On the other hand, it is interpreted by others as a serious threat to privacy and civil liberties, especially in communities that may be disproportionately targeted.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Vaccination and Public Health:&lt;/strong&gt; Evidence showing the efficacy of mandatory vaccination for school children may be interpreted as essential for public safety by some individuals, while others may view it as intrusive government overreach or distrust the pharmaceutical industry.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure&gt;&lt;img alt=&#34;Robotic Sculpture at MIT Media Lab (photo by Keren Wang 2015)&#34; src=&#34;http://localhost:1313/images/uploads/2024/10/Robotic-Sculpture-at-MIT-Media-Lab-photo-by-Keren-Wang-2015.jpg&#34;/&gt;&lt;figcaption&gt;Evidence that suggests a major breakthrough in general artificial intelligence may be seen either as a major technological advancement or as ethically problematic depending on the individual&#39;s values.&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/section&gt;
+&lt;section id=&#34;general-tests&#34;&gt;
+&lt;h2&gt;General Tests of Evidence&lt;/h2&gt;
+Herrick introduces seven general tests of evidence that can help evaluate whether evidence used in an argument is reliable, credible, and sufficient to support a conclusion. These tests provide a comprehensive approach to assessing the quality of evidence. Here’s a detailed breakdown:
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Accessibility: Is the Evidence Available?&lt;/strong&gt;Evidence that is accessible and open to scrutiny is generally considered more reliable.&lt;strong&gt;Example:&lt;/strong&gt; A public health official cites the number of COVID-19 cases reported by the Centers for Disease Control and Prevention (CDC). This evidence is accessible because the CDC publishes its data on a website that anyone can visit and verify.&lt;strong&gt;Counterexample:&lt;/strong&gt; Someone claims that the government has &#34;secret documents&#34; showing proof of extraterrestrial contact. Since these alleged documents are not accessible for review, the claim fails the test of accessibility.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Credibility: Is the Source of the Evidence Reliable?&lt;/strong&gt;This can depend on the reputation of the author or organization providing the evidence, as well as whether the source has the appropriate credentials or expertise.&lt;strong&gt;Example:&lt;/strong&gt; A research paper on the safety of vaccines authored by a team of immunologists and published in &lt;em&gt;The New England Journal of Medicine&lt;/em&gt; is credible due to the expertise of the authors and the reputation of the journal.&lt;strong&gt;Counterexample:&lt;/strong&gt; A claim about vaccine dangers coming from an anonymous social media post lacks credibility because the author’s qualifications are unknown, and the post does not have any verifiable authority.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Internal Consistency: Does the Evidence Contradict Itself?&lt;/strong&gt;Evidence should not contradict itself. If evidence is self-contradictory, it weakens the argument and creates doubt regarding its reliability.&lt;strong&gt;Example:&lt;/strong&gt; A government report on unemployment must consistently present the same statistics throughout the report. If one section states an unemployment rate of 6% and another section states 8% without clarification, the evidence lacks internal consistency.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;External Consistency: Does the Evidence Contradict Other Evidence?&lt;/strong&gt;Evidence that sharply contradicts most other reputable evidence is often seen as unreliable.&lt;strong&gt;Example:&lt;/strong&gt; A study on climate change that finds rising global temperatures should align with the majority of climate research from other scientific bodies such as NASA, the IPCC, and NOAA.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Recency: Is the Evidence Up to Date?&lt;/strong&gt;Evidence that has been superseded by more recent findings may no longer be applicable.&lt;strong&gt;Example:&lt;/strong&gt; Citing a 2023 meta-analysis on the effectiveness of renewable energy technologies is preferable to citing a study from 2001, as the newer study will have taken into account technological advancements.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Relevance: Does the Evidence Bear on the Conclusion?&lt;/strong&gt;Evidence that does not directly relate to the argument is not helpful.&lt;strong&gt;Example:&lt;/strong&gt; If a speaker argues for increasing the minimum wage, citing research that shows increased minimum wages boost consumer spending is relevant because it directly supports the argument.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Adequacy: Is the Evidence Sufficient to Support Its Claim?&lt;/strong&gt;Adequate evidence means having enough quality evidence to convincingly support the claim being made.&lt;strong&gt;Example:&lt;/strong&gt; If you are trying to prove that sugary drinks contribute to obesity, providing multiple studies from different credible sources, statistics on consumption rates, and expert testimony would collectively provide adequate evidence to support your claim.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1&gt;&lt;b&gt;Sources of Evidence&lt;/b&gt;&lt;/h1&gt;
+&lt;a href=&#34;https://www.stratapub.com/Herrick7/Herrick7.htm&#34;&gt;&lt;i&gt;Herrick, &lt;/i&gt;Chapter 7&lt;/a&gt; outlines different types of sources for evidence and their respective strengths and limitations:
+&lt;ul&gt;
+&lt;li aria-level=&#34;1&#34;&gt;&lt;b&gt;Periodicals&lt;/b&gt;: These include scholarly journals, special-interest magazines, and news/commentary publications. Scholarly journals are considered the most reliable due to their rigorous editorial and peer-review process.
+&lt;ul&gt;
+&lt;li aria-level=&#34;2&#34;&gt;&lt;b&gt;Scholarly journals &lt;/b&gt;are considered the gold standard due to their peer-review process, while special-interest publications and news magazines can offer accessible information but with less depth and more bias. They can be easily accessed via university libraries.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li aria-level=&#34;1&#34;&gt;&lt;b&gt;Books&lt;/b&gt;: Books can be useful sources of in-depth information, but it is important to consider the &lt;b&gt;author&#39;s credentials&lt;/b&gt;, &lt;b&gt;publication date&lt;/b&gt;, and the type of &lt;b&gt;publisher&lt;/b&gt;.&lt;/li&gt;
+&lt;li aria-level=&#34;1&#34;&gt;&lt;b&gt;Documentaries&lt;/b&gt;: These can offer reliable insights but may be influenced by commercial interests or biases.&lt;/li&gt;
+&lt;li aria-level=&#34;1&#34;&gt;&lt;b&gt;The Internet&lt;/b&gt;: Offers vast information, but requires critical assessment for credibility. Websites with recognizable authors and credible organizations are generally more reliable.&lt;b&gt; Digital literacy&lt;/b&gt; has become an essential skill for identifying and evaluating online sources.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/section&gt;
+&lt;section id=&#34;digital-literacy&#34;&gt;
+&lt;h2&gt;Digital Literacy&lt;/h2&gt;
+&lt;b&gt;Digital Literacy&lt;/b&gt; refers to the ability to effectively navigate, evaluate, and utilize online information. Digital literacy is more than simply being able to use technology; it is about understanding how to critically evaluate the veracity and quality of digital content and its sources. Key aspects of digital literacy include:
+&lt;ol&gt;
+&lt;li aria-level=&#34;1&#34;&gt;&lt;b&gt;Critical Evaluation of Sources&lt;/b&gt;: Not all websites are created equal, and digital literacy involves determining whether an online source is credible, up-to-date, and relevant. It also requires recognizing the purpose of the content—whether it aims to inform, persuade, entertain, or mislead.&lt;/li&gt;
+&lt;li aria-level=&#34;1&#34;&gt;&lt;b&gt;Understanding Bias and Intent&lt;/b&gt;: It is important to understand the motives behind the creation of digital content. Websites often have particular political, social, or commercial agendas, and digital literacy involves identifying these biases. For example, a blog promoting dietary supplements might not be objective if it’s sponsored by a company that sells such products.&lt;/li&gt;
+&lt;li aria-level=&#34;1&#34;&gt;&lt;b&gt;Verification of Facts&lt;/b&gt;: Digital literacy requires cross-referencing information found online with multiple reliable sources. This helps verify facts and avoid falling for misinformation or “fake news.” For instance, a claim about a health benefit found on social media should be verified through medical publications or government health websites.&lt;/li&gt;
+&lt;li aria-level=&#34;1&#34;&gt;&lt;b&gt;Awareness of Digital Manipulation&lt;/b&gt;: The internet includes not only text but also images, videos, and audio clips, many of which may be digitally altered. Digital literacy involves assessing whether visual or multimedia evidence has been manipulated to present a biased narrative.&lt;/li&gt;
+&lt;li aria-level=&#34;1&#34;&gt;&lt;b&gt;Navigating Information Overload&lt;/b&gt;: The sheer volume of information available online can be overwhelming. Being digitally literate means knowing how to sift through large amounts of data to find high-quality, relevant information. This involves using effective search terms, recognizing authoritative domains (e.g., “.gov” or “.edu”), and understanding how search engine algorithms may prioritize certain content.&lt;/li&gt;
+&lt;li aria-level=&#34;1&#34;&gt;&lt;b&gt;Digital Security and Privacy&lt;/b&gt;: Digital literacy also includes understanding how to protect one&#39;s privacy online and recognizing secure websites. For example, a digitally literate individual would know to look for “https://” at the beginning of a URL as an indicator of a secure website.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;b&gt;Example of Digital Literacy in Practice&lt;/b&gt;: Suppose you are researching the benefits of electric vehicles (EVs). A digitally literate approach would involve consulting a mix of sources, including reputable news organizations (e.g., &lt;a href=&#34;https://apnews.com/&#34;&gt;Associated Press&lt;/a&gt;, &lt;a href=&#34;https://www.reuters.com/&#34;&gt;Reuters&lt;/a&gt;), trusted independent technical professional organizations or public agencies (e.g., &lt;a href=&#34;https://www.ieee.org&#34;&gt;IEEE&lt;/a&gt;, &lt;a href=&#34;https://alternative-fuels-observatory.ec.europa.eu/&#34;&gt;European Alternative Fuels Observatory&lt;/a&gt;), and peer-reviewed journals (&lt;a href=&#34;https://www.mdpi.com/journal/energies&#34;&gt;&lt;i&gt;Energies&lt;/i&gt;&lt;/a&gt;&lt;i&gt;,&lt;/i&gt; &lt;a href=&#34;https://www.tandfonline.com/journals/ttrv20/about-this-journal&#34;&gt;&lt;i&gt;Transport Reviews&lt;/i&gt;&lt;/a&gt;&lt;i&gt;, &lt;/i&gt;&lt;a href=&#34;https://www.sciencedirect.com/journal/journal-of-power-sources/about/editorial-board&#34;&gt;&lt;i&gt;Journal of Power Sources&lt;/i&gt;&lt;/a&gt;). It would also involve recognizing potential biases—such as an oil company-funded blog questioning the sustainability of EVs.
+&lt;/section&gt;
+&lt;section id=&#34;evaluating-websites&#34;&gt;
+&lt;h2&gt;Evaluating Websites&lt;/h2&gt;
+Evaluating the credibility of websites is a critical component of digital literacy. The internet contains valuable information but also a lot of misleading or false content. Here are key considerations for evaluating websites:
+&lt;h3&gt;Key Considerations for Evaluating Websites&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li aria-level=&#34;1&#34;&gt;&lt;b&gt;Language and Content Quality&lt;/b&gt;:
+&lt;ul&gt;
+&lt;li aria-level=&#34;2&#34;&gt;Credible websites typically use a &lt;b&gt;moderate and professional tone&lt;/b&gt;. They avoid extreme or sensational language that appeals to emotions rather than presenting facts.&lt;/li&gt;
+&lt;li aria-level=&#34;2&#34;&gt;&lt;b&gt;Grammatical accuracy&lt;/b&gt; and proper &lt;b&gt;punctuation&lt;/b&gt; are often indicators of a professional and reliable website. Sites riddled with typos or casual language may lack reliability.&lt;/li&gt;
+&lt;li aria-level=&#34;2&#34;&gt;&lt;b&gt;Fact-based Content&lt;/b&gt;: Reliable websites provide references, links to original studies, or citations to support their claims.&lt;/li&gt;
+&lt;li aria-level=&#34;2&#34;&gt;&lt;b&gt;Example&lt;/b&gt;: A health website like Mayo Clinic (&lt;a href=&#34;http://www.mayoclinic.org&#34;&gt;www.mayoclinic.org&lt;/a&gt;) provides detailed health information, cites medical sources, and avoids sensational claims about treatments.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li aria-level=&#34;1&#34;&gt;&lt;b&gt;Authority of the Site Creator&lt;/b&gt;:
+&lt;ul&gt;
+&lt;li aria-level=&#34;2&#34;&gt;Consider who created the website. &lt;b&gt;Recognized authorities&lt;/b&gt; (e.g., universities, government institutions, established news organizations) provide credible content.&lt;/li&gt;
+&lt;li aria-level=&#34;2&#34;&gt;Look for the &lt;b&gt;author’s credentials&lt;/b&gt;. An article on medical treatments should ideally be authored by a healthcare professional or medical researcher, with appropriate qualifications listed.&lt;/li&gt;
+&lt;li aria-level=&#34;2&#34;&gt;&lt;b&gt;Example&lt;/b&gt;: The American Medical Association’s website (&lt;a href=&#34;http://www.ama-assn.org&#34;&gt;www.ama-assn.org&lt;/a&gt;) is a trustworthy source for medical information because it is maintained by a reputable professional organization.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li aria-level=&#34;1&#34;&gt;&lt;b&gt;External Consistency&lt;/b&gt;:
+&lt;ul&gt;
+&lt;li aria-level=&#34;2&#34;&gt;&lt;b&gt;External consistency&lt;/b&gt; is about comparing the information on the site with other reliable sources. A credible website should not present claims that contradict established knowledge.&lt;/li&gt;
+&lt;li aria-level=&#34;2&#34;&gt;Cross-referencing helps determine if the information presented aligns with &lt;b&gt;mainstream consensus&lt;/b&gt; or is a fringe theory.&lt;/li&gt;
+&lt;li aria-level=&#34;2&#34;&gt;&lt;b&gt;Example&lt;/b&gt;: If a website claims that climate change is not occurring, a comparison with multiple authoritative scientific sources (e.g., NASA, NOAA, IPCC) may reveal that the claim lacks external consistency and therefore credibility.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li aria-level=&#34;1&#34;&gt;&lt;b&gt;Objectivity and Bias&lt;/b&gt;:
+&lt;ul&gt;
+&lt;li aria-level=&#34;2&#34;&gt;Recognize the &lt;b&gt;potential bias&lt;/b&gt; or &lt;b&gt;purpose&lt;/b&gt; of a website. Websites created to sell a product, promote a political agenda, or advocate for a specific cause may present information in a skewed manner.&lt;/li&gt;
+&lt;li aria-level=&#34;2&#34;&gt;&lt;b&gt;Lobbying organizations&lt;/b&gt;, for example, may present one-sided information to persuade rather than to inform.&lt;/li&gt;
+&lt;li aria-level=&#34;2&#34;&gt;&lt;b&gt;Example&lt;/b&gt;: Greenpeace’s website (&lt;a href=&#34;http://www.greenpeace.org&#34;&gt;www.greenpeace.org&lt;/a&gt;) provides valuable information on environmental issues but is also advocating for specific policy changes. It is important to note that the content is aimed at activism and may include a biased perspective.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li aria-level=&#34;1&#34;&gt;&lt;b&gt;Currency of Information&lt;/b&gt;:
+&lt;ul&gt;
+&lt;li aria-level=&#34;2&#34;&gt;&lt;b&gt;Up-to-date content&lt;/b&gt; is crucial, especially for topics like technology, health, or science. Websites should indicate the date the content was published or last updated.&lt;/li&gt;
+&lt;li aria-level=&#34;2&#34;&gt;&lt;b&gt;Outdated information&lt;/b&gt; can mislead or provide inaccurate conclusions if more recent research contradicts earlier findings.&lt;/li&gt;
+&lt;li aria-level=&#34;2&#34;&gt;&lt;b&gt;Example&lt;/b&gt;: A website discussing COVID-19 treatments that has not been updated since 2020 may not reflect recent advancements, making it less reliable for current information.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li aria-level=&#34;1&#34;&gt;&lt;b&gt;Security of the Website&lt;/b&gt;:
+&lt;ul&gt;
+&lt;li aria-level=&#34;2&#34;&gt;&lt;b&gt;Secure websites&lt;/b&gt; often indicate greater credibility. Look for “https://” in the URL as a sign of secure data handling.&lt;/li&gt;
+&lt;li aria-level=&#34;2&#34;&gt;&lt;b&gt;Trustworthy websites&lt;/b&gt; also typically have an “About Us” page that details their mission, authors, and organization’s background.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li aria-level=&#34;1&#34;&gt;&lt;b&gt;Cross-Referencing Sources&lt;/b&gt;:
+&lt;ul&gt;
+&lt;li aria-level=&#34;2&#34;&gt;A good practice in evaluating websites is to &lt;b&gt;cross-check&lt;/b&gt; information with other reputable sources. If multiple authoritative sites support the same conclusion, the information is more likely to be accurate.&lt;/li&gt;
+&lt;li aria-level=&#34;2&#34;&gt;Use &lt;b&gt;fact-checking websites&lt;/b&gt; such as Snopes (&lt;a href=&#34;http://www.snopes.com&#34;&gt;www.snopes.com&lt;/a&gt;) or &lt;a href=&#34;https://mediabiasfactcheck.com/&#34;&gt;Media Bias / Fact Check&lt;/a&gt; (&lt;a href=&#34;https://mediabiasfactcheck.com/&#34;&gt;mediabiasfactcheck.com&lt;/a&gt;)  to verify claims and their sources that seem suspicious.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li aria-level=&#34;1&#34;&gt;&lt;b&gt;Avoiding Clickbait and Sensationalism&lt;/b&gt;:
+&lt;ul&gt;
+&lt;li aria-level=&#34;2&#34;&gt;&lt;b&gt;Clickbait headlines&lt;/b&gt; are designed to attract attention but often lack substance or reliable evidence. Reliable websites present headlines that are &lt;b&gt;informative and factual&lt;/b&gt; rather than exaggerated or misleading.&lt;/li&gt;
+&lt;li aria-level=&#34;2&#34;&gt;&lt;b&gt;Example&lt;/b&gt;: Compare a “clickbait” headline like &#34;5 Ways Coffee Will Instantly Cure All Health Problems!&#34; with a more measured one such as &#34;Research Shows Potential Health Benefits of Moderate Coffee Consumption.&#34; The latter is more likely to come from a reputable source.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/section&gt;
+&lt;p&gt; &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Demystifying The Chinese Social Credit System - Presentation for the Symposium on China’s Data Governance and its Impact on US-China Relations, hosted by the Carter Center China Focus</title>
+      <link>http://localhost:1313/blog/2023/10/demystifying-the-chinese-social-credit-system-presentation-for-the-symposium-on-chinas-data-governance-and-its-impact-on-us-china-relations-hosted-by-the-carter-center-china-focus/</link>
+      <pubDate>Thu, 12 Oct 2023 21:46:45 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2023/10/demystifying-the-chinese-social-credit-system-presentation-for-the-symposium-on-chinas-data-governance-and-its-impact-on-us-china-relations-hosted-by-the-carter-center-china-focus/</guid>
+      <description>&lt;h1&gt;&lt;b&gt;Demystifying The Chinese Social Credit System - Presentation for the &lt;a href=&#34;https://chinafocus.info/symposium-data-governance-and-its-impact-on-us-china-relations/&#34;&gt;Symposium on China’s Data Governance and its Impact on US-China Relations&lt;/a&gt;, hosted by the Carter Center China Focus&lt;/b&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;img alt=&#34;&#34; class=&#34;aligncenter size-large wp-image-662&#34; height=&#34;503&#34; src=&#34;http://localhost:1313/images/uploads/2023/10/Screenshot-2023-10-12-204517-1024x572.png&#34; width=&#34;900&#34;/&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;b&gt;Introduction:&lt;/b&gt;&lt;/h2&gt;
+There is nothing new about public authorities using collected numerical info as a governing technology. Census has been a central governance tool throughout Ancient Rome and Imperial China. In fact, the need for keeping taxation records was a key historical exigence driving the invention of many earliest writing systems.
+&lt;p&gt;Throughout human history, public authorities have relied on collected numerical data as a tool for governance. This was evident with the census in Ancient Rome and Imperial China, where early writing systems were developed primarily for taxation records. The digitization of data and advancements in data science have revolutionized governance-by-data, making it continuously updated and more encompassing. The Chinese Social Credit System (SCS) is a testament to this evolution. Despite its significance, the SCS remains misunderstood, especially outside the Global North. Today, I aim to provide clarity on this topic, considering its implications on human rights and rule of law both within and beyond China, and shedding light on US-China relations. This talk will bring together relevant historical, rhetorical, socio-cultural and legal contexts to unpack the emergent structures of the Chinese social credit system and data governance experiments. By catalyzing greater open dialogue and critical inquiry on this thorny topic, this lecture seeks to advance the vision of The Carter Center and contribute to a deeper understanding of the past, present, and future of US-China relations.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
