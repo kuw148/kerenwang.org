@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Network Analysis on Keren Wang</title>
-    <link>http://localhost:1313/tags/network-analysis/</link>
+    <link>/tags/network-analysis/</link>
     <description>Recent content in Network Analysis on Keren Wang</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 12 Oct 2025 17:15:36 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/network-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/network-analysis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Internet - from &#34;Nuclear Hardened&#34;  Networks to Algorithmic Governmentality</title>
-      <link>http://localhost:1313/teaching/2025/10/teaching-the-internet-the-internet-from-nuclear-hardened-networks-to-algorithmic-governmentality/</link>
+      <link>/teaching/2025/10/teaching-the-internet-the-internet-from-nuclear-hardened-networks-to-algorithmic-governmentality/</link>
       <pubDate>Sun, 12 Oct 2025 17:15:36 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/2025/10/teaching-the-internet-the-internet-from-nuclear-hardened-networks-to-algorithmic-governmentality/</guid>
+      <guid>/teaching/2025/10/teaching-the-internet-the-internet-from-nuclear-hardened-networks-to-algorithmic-governmentality/</guid>
       <description>&lt;section id=&#34;references&#34;&gt;
 &lt;h2&gt;References&lt;/h2&gt;
 Beck, Estee. &#34;Who Is Tracking You?: A Rhetorical Framework for Evaluating Surveillance and Privacy Practices.&#34; In &lt;i&gt;Cyber Law, Privacy, and Security: Concepts, Methodologies, Tools, and Applications&lt;/i&gt;, pp. 121-138. IGI Global, 2019.
@@ -21,9 +21,9 @@ Beck, Estee. &#34;Who Is Tracking You?: A Rhetorical Framework for Evaluating Su
     </item>
     <item>
       <title>Lesson on Data Visualization and its Misuses</title>
-      <link>http://localhost:1313/teaching/2024/11/lesson-on-data-visualization-and-its-misuses/</link>
+      <link>/teaching/2024/11/lesson-on-data-visualization-and-its-misuses/</link>
       <pubDate>Tue, 12 Nov 2024 01:05:28 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/2024/11/lesson-on-data-visualization-and-its-misuses/</guid>
+      <guid>/teaching/2024/11/lesson-on-data-visualization-and-its-misuses/</guid>
       <description>&lt;h4&gt;&lt;b&gt;Posted by Keren Wang, FA 2024&lt;/b&gt;&lt;/h4&gt;&lt;hr/&gt;
 &lt;h6&gt;&lt;b&gt;In this session, we aim to achieve several key learning objectives:&lt;/b&gt;&lt;/h6&gt;
 &lt;ul&gt;

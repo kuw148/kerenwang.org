@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Definition on Keren Wang</title>
-    <link>http://localhost:1313/tags/definition/</link>
+    <link>/tags/definition/</link>
     <description>Recent content in Definition on Keren Wang</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 27 Oct 2024 21:16:47 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/definition/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/definition/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Argumentation - Language in Argument</title>
-      <link>http://localhost:1313/teaching/2024/10/argumentation-lesson-language-in-argument/</link>
+      <link>/teaching/2024/10/argumentation-lesson-language-in-argument/</link>
       <pubDate>Sun, 27 Oct 2024 21:16:47 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/2024/10/argumentation-lesson-language-in-argument/</guid>
+      <guid>/teaching/2024/10/argumentation-lesson-language-in-argument/</guid>
       <description>&lt;style&gt;
         body {&lt;br /&gt;            font-family: Arial, sans-serif;&lt;br /&gt;            line-height: 1.6;&lt;br /&gt;            background-color: #f4f4f4;&lt;br /&gt;            color: #333;&lt;br /&gt;            margin: 0;&lt;br /&gt;            padding: 0;&lt;br /&gt;            display: flex;&lt;br /&gt;            flex-direction: column;&lt;br /&gt;            align-items: center;&lt;br /&gt;        }&lt;br /&gt;        header {&lt;br /&gt;            text-align: center;&lt;br /&gt;            background-color: #004080;&lt;br /&gt;            color: white;&lt;br /&gt;            padding: 1em;&lt;br /&gt;            width: 100%;&lt;br /&gt;        }&lt;br /&gt;        .content {&lt;br /&gt;            width: 90%;&lt;br /&gt;            max-width: 800px;&lt;br /&gt;            margin: 20px 0;&lt;br /&gt;            padding: 1em;&lt;br /&gt;            background-color: white;&lt;br /&gt;            border-radius: 5px;&lt;br /&gt;            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);&lt;br /&gt;        }&lt;br /&gt;        h2, h3 {&lt;br /&gt;            color: #004080;&lt;br /&gt;        }&lt;br /&gt;        .section {&lt;br /&gt;            margin-bottom: 20px;&lt;br /&gt;        }&lt;br /&gt;        .example {&lt;br /&gt;            font-style: italic;&lt;br /&gt;            color: #555;&lt;br /&gt;        }&lt;br /&gt;        .image-container {&lt;br /&gt;            margin-top: 10px;&lt;br /&gt;            text-align: center;&lt;br /&gt;        }&lt;br /&gt;        .image-container img {&lt;br /&gt;            max-width: 100%;&lt;br /&gt;            height: auto;&lt;br /&gt;            border-radius: 5px;&lt;br /&gt;        }&lt;br /&gt;        .caption {&lt;br /&gt;            font-size: 0.9em;&lt;br /&gt;            color: #666;&lt;br /&gt;            margin-top: 5px;&lt;br /&gt;        }&lt;br /&gt;        .quiz {&lt;br /&gt;            margin-top: 20px;&lt;br /&gt;            padding: 1em;&lt;br /&gt;            background-color: #e6f7ff;&lt;br /&gt;            border-radius: 5px;&lt;br /&gt;            width: 100%;&lt;br /&gt;        }&lt;br /&gt;        footer {&lt;br /&gt;            margin-top: 20px;&lt;br /&gt;            padding: 1em;&lt;br /&gt;            background-color: #004080;&lt;br /&gt;            color: white;&lt;br /&gt;            text-align: center;&lt;br /&gt;            width: 100%;&lt;br /&gt;        }&lt;br /&gt;    &lt;/style&gt;
 &lt;p&gt; &lt;/p&gt;</description>

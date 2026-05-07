@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Digital Humanities on Keren Wang</title>
-    <link>http://localhost:1313/tags/digital-humanities/</link>
+    <link>/tags/digital-humanities/</link>
     <description>Recent content in Digital Humanities on Keren Wang</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Dec 2025 09:35:52 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/digital-humanities/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/digital-humanities/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What Is AI? Part 2 – Demystifying AI Through Four Acts</title>
-      <link>http://localhost:1313/blog/2025/12/what-is-ai-part-2-demystifying-ai-through-four-acts/</link>
+      <link>/blog/2025/12/what-is-ai-part-2-demystifying-ai-through-four-acts/</link>
       <pubDate>Mon, 01 Dec 2025 09:35:52 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2025/12/what-is-ai-part-2-demystifying-ai-through-four-acts/</guid>
+      <guid>/blog/2025/12/what-is-ai-part-2-demystifying-ai-through-four-acts/</guid>
       <description>&lt;div id=&#34;layout&#34;&gt;&lt;nav aria-label=&#34;Table of contents&#34; id=&#34;toc-container&#34;&gt;
 &lt;h2&gt;&lt;span style=&#34;color: #00ccff;&#34;&gt;Table of Contents&lt;/span&gt;&lt;/h2&gt;
 &lt;ul id=&#34;toc&#34;&gt;
@@ -34,18 +34,18 @@
 &lt;/ul&gt;
 &lt;/nav&gt;
 &lt;figure&gt;
-  &lt;img alt=&#34;Scene from the 1983 sci-fi thriller WarGames, directed by John Badham.The film dramatizes a near-catastrophe triggered by a military decision to entrust U.S. nuclear deterrence to an autonomous AI system that treats thermonuclear war as a solvable optimization problem.&#34; class=&#34;size-full wp-image-1241&#34; height=&#34;388&#34; src=&#34;http://localhost:1313/images/uploads/2025/11/WarGames-1983.gif&#34; width=&#34;660&#34;/&gt;
+  &lt;img alt=&#34;Scene from the 1983 sci-fi thriller WarGames, directed by John Badham.The film dramatizes a near-catastrophe triggered by a military decision to entrust U.S. nuclear deterrence to an autonomous AI system that treats thermonuclear war as a solvable optimization problem.&#34; class=&#34;size-full wp-image-1241&#34; height=&#34;388&#34; src=&#34;/images/uploads/2025/11/WarGames-1983.gif&#34; width=&#34;660&#34;/&gt;
   &lt;figcaption&gt;&lt;span style=&#34;font-size: 12pt;&#34;&gt;&lt;strong&gt;&lt;span style=&#34;color: #ffcc99;&#34;&gt;Scene from the 1983 sci-fi thriller WarGames, directed by John Badham. &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;span style=&#34;font-size: 12pt;&#34;&gt;&lt;span style=&#34;color: #ffcc99;&#34;&gt;The film dramatizes a near-catastrophe triggered by a military decision to entrust U.S. nuclear deterrence to an autonomous AI system that treats thermonuclear war as a solvable optimization problem. &lt;/span&gt;&lt;span style=&#34;color: #999999;&#34;&gt;Source: DVDXtras, “WarGames (1983) | Behind the Scenes,” Internet Archive, June 2, 2022. &amp;lt;&lt;a href=&#34;https://archive.org/details/youtube-5g4EdnMcDzg&#34;&gt;LINK&lt;/a&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
-&lt;h2&gt;&lt;span style=&#34;font-size: 18pt;&#34;&gt;*Continuing from:&lt;/span&gt; &lt;span style=&#34;font-size: 18pt; color: #00ccff;&#34;&gt;&lt;em&gt;&lt;span style=&#34;color: #99ccff;&#34;&gt;&lt;a href=&#34;http://localhost:1313/blog/2025/11/a-survey-of-imaginaries-mythologies-and-rhetorical-structures-of-thinking-machines-part-1/&#34; style=&#34;color: #99ccff;&#34;&gt;“What Is AI?” Part 1: A Survey of Imaginaries, Mythologies, and Rhetorical Structures of Thinking Machines&lt;/a&gt;&lt;/span&gt;&lt;/em&gt;&lt;/span&gt;&lt;/h2&gt;
-&lt;a href=&#34;http://localhost:1313/blog/2025/11/a-survey-of-imaginaries-mythologies-and-rhetorical-structures-of-thinking-machines-part-1/&#34;&gt;&lt;strong&gt;In the previous segment of our genealogical survey,&lt;/strong&gt;&lt;/a&gt; we have traced ancient imaginaries that seeded today’s visions of machine intelligence. From &lt;span style=&#34;color: #ffff99;&#34;&gt;&lt;strong&gt;Yan Shi’s mechanical performers&lt;/strong&gt;&lt;/span&gt; to &lt;span style=&#34;color: #ffff99;&#34;&gt;&lt;strong&gt;&lt;em&gt;Talos&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;’ bronze vigilance and the ritual logic of &lt;strong&gt;golems&lt;/strong&gt; and Homunculi, we explored how mythic prototypes shaped the rhetorical terrain on which “AI” would later emerge as a technological category.
+&lt;h2&gt;&lt;span style=&#34;font-size: 18pt;&#34;&gt;*Continuing from:&lt;/span&gt; &lt;span style=&#34;font-size: 18pt; color: #00ccff;&#34;&gt;&lt;em&gt;&lt;span style=&#34;color: #99ccff;&#34;&gt;&lt;a href=&#34;/blog/2025/11/a-survey-of-imaginaries-mythologies-and-rhetorical-structures-of-thinking-machines-part-1/&#34; style=&#34;color: #99ccff;&#34;&gt;“What Is AI?” Part 1: A Survey of Imaginaries, Mythologies, and Rhetorical Structures of Thinking Machines&lt;/a&gt;&lt;/span&gt;&lt;/em&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;a href=&#34;/blog/2025/11/a-survey-of-imaginaries-mythologies-and-rhetorical-structures-of-thinking-machines-part-1/&#34;&gt;&lt;strong&gt;In the previous segment of our genealogical survey,&lt;/strong&gt;&lt;/a&gt; we have traced ancient imaginaries that seeded today’s visions of machine intelligence. From &lt;span style=&#34;color: #ffff99;&#34;&gt;&lt;strong&gt;Yan Shi’s mechanical performers&lt;/strong&gt;&lt;/span&gt; to &lt;span style=&#34;color: #ffff99;&#34;&gt;&lt;strong&gt;&lt;em&gt;Talos&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;’ bronze vigilance and the ritual logic of &lt;strong&gt;golems&lt;/strong&gt; and Homunculi, we explored how mythic prototypes shaped the rhetorical terrain on which “AI” would later emerge as a technological category.
 &lt;p&gt;Whereas earlier societies used myth and ritual to make sense of uncanny forms of artificial agency and “thinking machines,” in this second part we turn from historical mythologies to present-day technological possibilities. The term “artificial intelligence” circulates in our cultural lifeworld with astonishing fluidity. It appears in commercials, policy reports, sci-fi movies, legal disputes, and everyday conversations. It is used to describe everything from basic computer programs to sophisticated generative models capable of complex knowledge-performance.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Internet - from &#34;Nuclear Hardened&#34;  Networks to Algorithmic Governmentality</title>
-      <link>http://localhost:1313/teaching/2025/10/teaching-the-internet-the-internet-from-nuclear-hardened-networks-to-algorithmic-governmentality/</link>
+      <link>/teaching/2025/10/teaching-the-internet-the-internet-from-nuclear-hardened-networks-to-algorithmic-governmentality/</link>
       <pubDate>Sun, 12 Oct 2025 17:15:36 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/2025/10/teaching-the-internet-the-internet-from-nuclear-hardened-networks-to-algorithmic-governmentality/</guid>
+      <guid>/teaching/2025/10/teaching-the-internet-the-internet-from-nuclear-hardened-networks-to-algorithmic-governmentality/</guid>
       <description>&lt;section id=&#34;references&#34;&gt;
 &lt;h2&gt;References&lt;/h2&gt;
 Beck, Estee. &#34;Who Is Tracking You?: A Rhetorical Framework for Evaluating Surveillance and Privacy Practices.&#34; In &lt;i&gt;Cyber Law, Privacy, and Security: Concepts, Methodologies, Tools, and Applications&lt;/i&gt;, pp. 121-138. IGI Global, 2019.
@@ -54,9 +54,9 @@ Beck, Estee. &#34;Who Is Tracking You?: A Rhetorical Framework for Evaluating Su
     </item>
     <item>
       <title>Understanding Advertising through Consumer Psychology and Computational Rhetoric</title>
-      <link>http://localhost:1313/teaching/2025/09/understanding-advertising-through-consumer-psychology-computational-rhetoric/</link>
+      <link>/teaching/2025/09/understanding-advertising-through-consumer-psychology-computational-rhetoric/</link>
       <pubDate>Mon, 29 Sep 2025 03:44:29 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/2025/09/understanding-advertising-through-consumer-psychology-computational-rhetoric/</guid>
+      <guid>/teaching/2025/09/understanding-advertising-through-consumer-psychology-computational-rhetoric/</guid>
       <description>&lt;div&gt; &lt;/div&gt;
 &lt;!-- wp:html --&gt;
 &lt;p&gt; &lt;/p&gt;
@@ -87,7 +87,7 @@ Beck, Estee. &#34;Who Is Tracking You?: A Rhetorical Framework for Evaluating Su
 &lt;/table&gt;
 &lt;/div&gt;
 &lt;div&gt;
-&lt;h2&gt;&lt;img alt=&#34;&#34; class=&#34;aligncenter size-full wp-image-1065&#34; height=&#34;719&#34; src=&#34;http://localhost:1313/images/uploads/2025/09/Advertising-header.gif&#34; width=&#34;1280&#34;/&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;img alt=&#34;&#34; class=&#34;aligncenter size-full wp-image-1065&#34; height=&#34;719&#34; src=&#34;/images/uploads/2025/09/Advertising-header.gif&#34; width=&#34;1280&#34;/&gt;&lt;/h2&gt;
 &lt;h2 class=&#34;c17&#34; id=&#34;h.26n593d62ttq&#34;&gt;&lt;span class=&#34;c8 c29 c16&#34; style=&#34;color: #ccffff;&#34;&gt;What Do You See?&lt;/span&gt;&lt;/h2&gt;
 &lt;/div&gt;
 &lt;div&gt;
@@ -95,9 +95,9 @@ Beck, Estee. &#34;Who Is Tracking You?: A Rhetorical Framework for Evaluating Su
     </item>
     <item>
       <title>Lesson 7: Rhetorical Artifacts</title>
-      <link>http://localhost:1313/teaching/2025/09/teaching-lesson-7-rhetorical-artifacts/</link>
+      <link>/teaching/2025/09/teaching-lesson-7-rhetorical-artifacts/</link>
       <pubDate>Sun, 14 Sep 2025 21:00:04 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/2025/09/teaching-lesson-7-rhetorical-artifacts/</guid>
+      <guid>/teaching/2025/09/teaching-lesson-7-rhetorical-artifacts/</guid>
       <description>&lt;header&gt;
 &lt;p class=&#34;byline&#34;&gt;Posted by: Keren Wang&lt;/p&gt;
 &lt;p class=&#34;intro&#34;&gt;&lt;strong&gt;Before you start this lesson, please READ:&lt;/strong&gt; Berger, Arthur Asa. 2024. &lt;em data-end=&#34;247&#34; data-start=&#34;145&#34;&gt;Media and Communication Research Methods: An Introduction to Qualitative and Quantitative Approaches&lt;/em&gt;. 3rd ed. Chapter 4, “Rhetorical Analysis.” Thousand Oaks, CA: SAGE. &lt;a class=&#34;decorated-link&#34; data-end=&#34;353&#34; data-start=&#34;316&#34; href=&#34;https://doi.org/10.4135/9781071939017&#34; rel=&#34;noopener&#34; target=&#34;_new&#34;&gt;https://doi.org/10.4135/9781071939017&lt;/a&gt;.&lt;/p&gt;
@@ -109,9 +109,9 @@ What do you think of when you hear the word “&lt;strong&gt;artifact&lt;/strong
     </item>
     <item>
       <title>New Research Project: Artificial Intelligence and Human Sacrifice</title>
-      <link>http://localhost:1313/blog/2025/08/new-research-project-artificial-intelligence-and-human-sacrifice/</link>
+      <link>/blog/2025/08/new-research-project-artificial-intelligence-and-human-sacrifice/</link>
       <pubDate>Mon, 25 Aug 2025 02:36:41 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2025/08/new-research-project-artificial-intelligence-and-human-sacrifice/</guid>
+      <guid>/blog/2025/08/new-research-project-artificial-intelligence-and-human-sacrifice/</guid>
       <description>&lt;!-- wp:paragraph --&gt;
 &lt;p&gt;&lt;!-- Copyright Banner --&gt;&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;
@@ -124,20 +124,20 @@ What do you think of when you hear the word “&lt;strong&gt;artifact&lt;/strong
     </item>
     <item>
       <title>MEDIA &amp; VIOLENCE - A Transnational Perspective</title>
-      <link>http://localhost:1313/blog/2025/04/media-violence-a-transnational-perspective/</link>
+      <link>/blog/2025/04/media-violence-a-transnational-perspective/</link>
       <pubDate>Mon, 14 Apr 2025 18:23:19 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2025/04/media-violence-a-transnational-perspective/</guid>
+      <guid>/blog/2025/04/media-violence-a-transnational-perspective/</guid>
       <description>&lt;p&gt;Lesson Module by Keren Wang, updated 4 Nov 2025.&lt;/p&gt;
 &lt;div class=&#34;scom2050-lesson&#34; style=&#34;font-family: system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif; line-height: 1.55; max-width: 880px; margin: 0 auto;&#34;&gt;
 &lt;p&gt;This lesson module examines the contested and ambivalent relationship between media and violence from historical and transnational perspectives.&lt;/p&gt;
-&lt;img alt=&#34;&#34; class=&#34;aligncenter size-full wp-image-927&#34; height=&#34;718&#34; src=&#34;http://localhost:1313/images/uploads/2025/04/MEDIA-VIOLENCE-a-transnational-perspective-heading.gif&#34; width=&#34;1280&#34;/&gt;
+&lt;img alt=&#34;&#34; class=&#34;aligncenter size-full wp-image-927&#34; height=&#34;718&#34; src=&#34;/images/uploads/2025/04/MEDIA-VIOLENCE-a-transnational-perspective-heading.gif&#34; width=&#34;1280&#34;/&gt;
 &lt;/div&gt;
 &lt;div class=&#34;scom2050-lesson&#34; style=&#34;font-family: system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif; line-height: 1.55; max-width: 880px; margin: 0 auto;&#34;&gt;
 &lt;h2&gt;&lt;span style=&#34;color: #00ccff;&#34;&gt;1. Violence as Ritual &amp;amp; Power: Historical and Global Perspectives&lt;/span&gt;&lt;/h2&gt;
 Let&#39;s open this session with a reference from Greek mythology: consider the telltale of Prometheus, whose theft of fire from the Olympian gods for humanity’s benefit inadvertently brought both civilization and destruction. Like Prometheus’s fire, the development of media technology simultaneously brings enlightenment and cataclysm.
 &lt;h4&gt;&lt;span style=&#34;color: #99ccff;&#34;&gt;1.1 Rhetorical Artifacts and Human Sacrifice&lt;/span&gt;&lt;/h4&gt;
-The history of the development of writing technology overlaps with the history of war propaganda and &lt;a href=&#34;http://localhost:1313/blog/2020/10/nca-2020-virtual-convention-presentation-logographic-inventions-of-violent-rituals/&#34;&gt;human sacrifice&lt;/a&gt;.&lt;sup&gt;&lt;a href=&#34;#fn1&#34;&gt;[1]&lt;/a&gt;&lt;/sup&gt; As early as the Narmer Palette, one of the earliest hieroglyphic artifacts ever found from circa 3200 BCE depicting scenes of conquest and violence:
-&lt;div class=&#34;wp-block-image&#34;&gt;&lt;img alt=&#34;&#34; class=&#34;wpa-warning wpa-image-missing-alt alignright size-large wp-image-881&#34; data-warning=&#34;Missing alt text&#34; height=&#34;537&#34; src=&#34;http://localhost:1313/images/uploads/2025/04/slide-2-1024x573.jpg&#34; width=&#34;960&#34;/&gt;&lt;/div&gt;
+The history of the development of writing technology overlaps with the history of war propaganda and &lt;a href=&#34;/blog/2020/10/nca-2020-virtual-convention-presentation-logographic-inventions-of-violent-rituals/&#34;&gt;human sacrifice&lt;/a&gt;.&lt;sup&gt;&lt;a href=&#34;#fn1&#34;&gt;[1]&lt;/a&gt;&lt;/sup&gt; As early as the Narmer Palette, one of the earliest hieroglyphic artifacts ever found from circa 3200 BCE depicting scenes of conquest and violence:
+&lt;div class=&#34;wp-block-image&#34;&gt;&lt;img alt=&#34;&#34; class=&#34;wpa-warning wpa-image-missing-alt alignright size-large wp-image-881&#34; data-warning=&#34;Missing alt text&#34; height=&#34;537&#34; src=&#34;/images/uploads/2025/04/slide-2-1024x573.jpg&#34; width=&#34;960&#34;/&gt;&lt;/div&gt;
 &lt;article class=&#34;text-token-text-primary w-full&#34; data-scroll-anchor=&#34;true&#34; data-testid=&#34;conversation-turn-18&#34; dir=&#34;auto&#34;&gt;
 &lt;div class=&#34;text-base my-auto mx-auto py-5 [--thread-content-margin:--spacing(4)] @[37rem]:[--thread-content-margin:--spacing(6)] @[70rem]:[--thread-content-margin:--spacing(12)] px-(--thread-content-margin)&#34;&gt;
 &lt;div class=&#34;[--thread-content-max-width:32rem] @[34rem]:[--thread-content-max-width:40rem] @[64rem]:[--thread-content-max-width:48rem] mx-auto flex max-w-(--thread-content-max-width) flex-1 text-base gap-4 md:gap-5 lg:gap-6 group/turn-messages focus-visible:outline-hidden&#34; tabindex=&#34;-1&#34;&gt;
@@ -151,16 +151,16 @@ The history of the development of writing technology overlaps with the history o
     </item>
     <item>
       <title>Argumentation - Digital Literacy in Argumentation</title>
-      <link>http://localhost:1313/teaching/2024/10/argumentation-lesson-evaluating-evidence-and-online-sources-scom-2710/</link>
+      <link>/teaching/2024/10/argumentation-lesson-evaluating-evidence-and-online-sources-scom-2710/</link>
       <pubDate>Sun, 20 Oct 2024 17:59:23 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/2024/10/argumentation-lesson-evaluating-evidence-and-online-sources-scom-2710/</guid>
+      <guid>/teaching/2024/10/argumentation-lesson-evaluating-evidence-and-online-sources-scom-2710/</guid>
       <description>&lt;header&gt;
 &lt;h1&gt;Digital Literacy in Argumentation&lt;/h1&gt;
 SCOM 2710 Argumentation Lesson, Posted by Keren Wang, updated 2024
 &lt;/header&gt;&lt;section id=&#34;overview&#34;&gt;
 &lt;h2&gt;Overview&lt;/h2&gt;
 This week we will be focusing on understanding and evaluating evidence, a crucial aspect of constructing persuasive arguments. It explains how evidence interacts with values, and presents general tests for assessing the quality of evidence. We will also be learning how to locate and evaluate various sources of evidence, guiding you on choosing reliable information from books, periodicals, websites, and more. The chapter emphasizes the importance of digital literacy and critical evaluation of different types of sources.
-&lt;figure&gt;&lt;img alt=&#34;Ad Fontes Media Bias Chart 6.0&#34; src=&#34;http://localhost:1313/images/external/upload-wikimedia-org/wikipedia/commons/thumb/e/ef/Adfontesmedia.jpg/1024px-Adfontesmedia.jpg&#34; width=&#34;1024&#34;/&gt;&lt;figcaption&gt;&lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Adfontesmedia.jpg&#34;&gt;Media Bias Chart published by Ad Fontes Media, 2020. Fact-checking always lags behind the emergence of new biased sources of information.&lt;/a&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img alt=&#34;Ad Fontes Media Bias Chart 6.0&#34; src=&#34;/images/external/upload-wikimedia-org/wikipedia/commons/thumb/e/ef/Adfontesmedia.jpg/1024px-Adfontesmedia.jpg&#34; width=&#34;1024&#34;/&gt;&lt;figcaption&gt;&lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Adfontesmedia.jpg&#34;&gt;Media Bias Chart published by Ad Fontes Media, 2020. Fact-checking always lags behind the emergence of new biased sources of information.&lt;/a&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 &lt;/section&gt;
 &lt;section id=&#34;understanding-evidence&#34;&gt;
 &lt;h2&gt;Understanding Evidence&lt;/h2&gt;
@@ -173,7 +173,7 @@ Evidence is always interpreted through personal and cultural values. Here are so
 &lt;li&gt;&lt;strong&gt;Police Surveillance Technology:&lt;/strong&gt; Evidence supporting the use of facial recognition and other surveillance technology to improve public safety can be seen as a way to effectively reduce crime. On the other hand, it is interpreted by others as a serious threat to privacy and civil liberties, especially in communities that may be disproportionately targeted.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Vaccination and Public Health:&lt;/strong&gt; Evidence showing the efficacy of mandatory vaccination for school children may be interpreted as essential for public safety by some individuals, while others may view it as intrusive government overreach or distrust the pharmaceutical industry.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;figure&gt;&lt;img alt=&#34;Robotic Sculpture at MIT Media Lab (photo by Keren Wang 2015)&#34; src=&#34;http://localhost:1313/images/uploads/2024/10/Robotic-Sculpture-at-MIT-Media-Lab-photo-by-Keren-Wang-2015.jpg&#34;/&gt;&lt;figcaption&gt;Evidence that suggests a major breakthrough in general artificial intelligence may be seen either as a major technological advancement or as ethically problematic depending on the individual&#39;s values.&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img alt=&#34;Robotic Sculpture at MIT Media Lab (photo by Keren Wang 2015)&#34; src=&#34;/images/uploads/2024/10/Robotic-Sculpture-at-MIT-Media-Lab-photo-by-Keren-Wang-2015.jpg&#34;/&gt;&lt;figcaption&gt;Evidence that suggests a major breakthrough in general artificial intelligence may be seen either as a major technological advancement or as ethically problematic depending on the individual&#39;s values.&lt;/figcaption&gt;&lt;/figure&gt;
 &lt;/section&gt;
 &lt;section id=&#34;general-tests&#34;&gt;
 &lt;h2&gt;General Tests of Evidence&lt;/h2&gt;
@@ -278,11 +278,11 @@ Evaluating the credibility of websites is a critical component of digital litera
     </item>
     <item>
       <title>Demystifying The Chinese Social Credit System - Presentation for the Symposium on China’s Data Governance and its Impact on US-China Relations, hosted by the Carter Center China Focus</title>
-      <link>http://localhost:1313/blog/2023/10/demystifying-the-chinese-social-credit-system-presentation-for-the-symposium-on-chinas-data-governance-and-its-impact-on-us-china-relations-hosted-by-the-carter-center-china-focus/</link>
+      <link>/blog/2023/10/demystifying-the-chinese-social-credit-system-presentation-for-the-symposium-on-chinas-data-governance-and-its-impact-on-us-china-relations-hosted-by-the-carter-center-china-focus/</link>
       <pubDate>Thu, 12 Oct 2023 21:46:45 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2023/10/demystifying-the-chinese-social-credit-system-presentation-for-the-symposium-on-chinas-data-governance-and-its-impact-on-us-china-relations-hosted-by-the-carter-center-china-focus/</guid>
+      <guid>/blog/2023/10/demystifying-the-chinese-social-credit-system-presentation-for-the-symposium-on-chinas-data-governance-and-its-impact-on-us-china-relations-hosted-by-the-carter-center-china-focus/</guid>
       <description>&lt;h1&gt;&lt;b&gt;Demystifying The Chinese Social Credit System - Presentation for the &lt;a href=&#34;https://chinafocus.info/symposium-data-governance-and-its-impact-on-us-china-relations/&#34;&gt;Symposium on China’s Data Governance and its Impact on US-China Relations&lt;/a&gt;, hosted by the Carter Center China Focus&lt;/b&gt;&lt;/h1&gt;
-&lt;h2&gt;&lt;img alt=&#34;&#34; class=&#34;aligncenter size-large wp-image-662&#34; height=&#34;503&#34; src=&#34;http://localhost:1313/images/uploads/2023/10/Screenshot-2023-10-12-204517-1024x572.png&#34; width=&#34;900&#34;/&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;img alt=&#34;&#34; class=&#34;aligncenter size-large wp-image-662&#34; height=&#34;503&#34; src=&#34;/images/uploads/2023/10/Screenshot-2023-10-12-204517-1024x572.png&#34; width=&#34;900&#34;/&gt;&lt;/h2&gt;
 &lt;h2&gt;&lt;b&gt;Introduction:&lt;/b&gt;&lt;/h2&gt;
 There is nothing new about public authorities using collected numerical info as a governing technology. Census has been a central governance tool throughout Ancient Rome and Imperial China. In fact, the need for keeping taxation records was a key historical exigence driving the invention of many earliest writing systems.
 &lt;p&gt;Throughout human history, public authorities have relied on collected numerical data as a tool for governance. This was evident with the census in Ancient Rome and Imperial China, where early writing systems were developed primarily for taxation records. The digitization of data and advancements in data science have revolutionized governance-by-data, making it continuously updated and more encompassing. The Chinese Social Credit System (SCS) is a testament to this evolution. Despite its significance, the SCS remains misunderstood, especially outside the Global North. Today, I aim to provide clarity on this topic, considering its implications on human rights and rule of law both within and beyond China, and shedding light on US-China relations. This talk will bring together relevant historical, rhetorical, socio-cultural and legal contexts to unpack the emergent structures of the Chinese social credit system and data governance experiments. By catalyzing greater open dialogue and critical inquiry on this thorny topic, this lecture seeks to advance the vision of The Carter Center and contribute to a deeper understanding of the past, present, and future of US-China relations.&lt;/p&gt;</description>

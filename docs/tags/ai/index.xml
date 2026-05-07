@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>AI on Keren Wang</title>
-    <link>http://localhost:1313/tags/ai/</link>
+    <link>/tags/ai/</link>
     <description>Recent content in AI on Keren Wang</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 12 Oct 2025 17:15:36 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/ai/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Internet - from &#34;Nuclear Hardened&#34;  Networks to Algorithmic Governmentality</title>
-      <link>http://localhost:1313/teaching/2025/10/teaching-the-internet-the-internet-from-nuclear-hardened-networks-to-algorithmic-governmentality/</link>
+      <link>/teaching/2025/10/teaching-the-internet-the-internet-from-nuclear-hardened-networks-to-algorithmic-governmentality/</link>
       <pubDate>Sun, 12 Oct 2025 17:15:36 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/2025/10/teaching-the-internet-the-internet-from-nuclear-hardened-networks-to-algorithmic-governmentality/</guid>
+      <guid>/teaching/2025/10/teaching-the-internet-the-internet-from-nuclear-hardened-networks-to-algorithmic-governmentality/</guid>
       <description>&lt;section id=&#34;references&#34;&gt;
 &lt;h2&gt;References&lt;/h2&gt;
 Beck, Estee. &#34;Who Is Tracking You?: A Rhetorical Framework for Evaluating Surveillance and Privacy Practices.&#34; In &lt;i&gt;Cyber Law, Privacy, and Security: Concepts, Methodologies, Tools, and Applications&lt;/i&gt;, pp. 121-138. IGI Global, 2019.
@@ -21,9 +21,9 @@ Beck, Estee. &#34;Who Is Tracking You?: A Rhetorical Framework for Evaluating Su
     </item>
     <item>
       <title>Lesson 7: Rhetorical Artifacts</title>
-      <link>http://localhost:1313/teaching/2025/09/teaching-lesson-7-rhetorical-artifacts/</link>
+      <link>/teaching/2025/09/teaching-lesson-7-rhetorical-artifacts/</link>
       <pubDate>Sun, 14 Sep 2025 21:00:04 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/2025/09/teaching-lesson-7-rhetorical-artifacts/</guid>
+      <guid>/teaching/2025/09/teaching-lesson-7-rhetorical-artifacts/</guid>
       <description>&lt;header&gt;
 &lt;p class=&#34;byline&#34;&gt;Posted by: Keren Wang&lt;/p&gt;
 &lt;p class=&#34;intro&#34;&gt;&lt;strong&gt;Before you start this lesson, please READ:&lt;/strong&gt; Berger, Arthur Asa. 2024. &lt;em data-end=&#34;247&#34; data-start=&#34;145&#34;&gt;Media and Communication Research Methods: An Introduction to Qualitative and Quantitative Approaches&lt;/em&gt;. 3rd ed. Chapter 4, “Rhetorical Analysis.” Thousand Oaks, CA: SAGE. &lt;a class=&#34;decorated-link&#34; data-end=&#34;353&#34; data-start=&#34;316&#34; href=&#34;https://doi.org/10.4135/9781071939017&#34; rel=&#34;noopener&#34; target=&#34;_new&#34;&gt;https://doi.org/10.4135/9781071939017&lt;/a&gt;.&lt;/p&gt;
@@ -35,9 +35,9 @@ What do you think of when you hear the word “&lt;strong&gt;artifact&lt;/strong
     </item>
     <item>
       <title>New Research Project: Artificial Intelligence and Human Sacrifice</title>
-      <link>http://localhost:1313/blog/2025/08/new-research-project-artificial-intelligence-and-human-sacrifice/</link>
+      <link>/blog/2025/08/new-research-project-artificial-intelligence-and-human-sacrifice/</link>
       <pubDate>Mon, 25 Aug 2025 02:36:41 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2025/08/new-research-project-artificial-intelligence-and-human-sacrifice/</guid>
+      <guid>/blog/2025/08/new-research-project-artificial-intelligence-and-human-sacrifice/</guid>
       <description>&lt;!-- wp:paragraph --&gt;
 &lt;p&gt;&lt;!-- Copyright Banner --&gt;&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;
@@ -50,20 +50,20 @@ What do you think of when you hear the word “&lt;strong&gt;artifact&lt;/strong
     </item>
     <item>
       <title>MEDIA &amp; VIOLENCE - A Transnational Perspective</title>
-      <link>http://localhost:1313/blog/2025/04/media-violence-a-transnational-perspective/</link>
+      <link>/blog/2025/04/media-violence-a-transnational-perspective/</link>
       <pubDate>Mon, 14 Apr 2025 18:23:19 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2025/04/media-violence-a-transnational-perspective/</guid>
+      <guid>/blog/2025/04/media-violence-a-transnational-perspective/</guid>
       <description>&lt;p&gt;Lesson Module by Keren Wang, updated 4 Nov 2025.&lt;/p&gt;
 &lt;div class=&#34;scom2050-lesson&#34; style=&#34;font-family: system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif; line-height: 1.55; max-width: 880px; margin: 0 auto;&#34;&gt;
 &lt;p&gt;This lesson module examines the contested and ambivalent relationship between media and violence from historical and transnational perspectives.&lt;/p&gt;
-&lt;img alt=&#34;&#34; class=&#34;aligncenter size-full wp-image-927&#34; height=&#34;718&#34; src=&#34;http://localhost:1313/images/uploads/2025/04/MEDIA-VIOLENCE-a-transnational-perspective-heading.gif&#34; width=&#34;1280&#34;/&gt;
+&lt;img alt=&#34;&#34; class=&#34;aligncenter size-full wp-image-927&#34; height=&#34;718&#34; src=&#34;/images/uploads/2025/04/MEDIA-VIOLENCE-a-transnational-perspective-heading.gif&#34; width=&#34;1280&#34;/&gt;
 &lt;/div&gt;
 &lt;div class=&#34;scom2050-lesson&#34; style=&#34;font-family: system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif; line-height: 1.55; max-width: 880px; margin: 0 auto;&#34;&gt;
 &lt;h2&gt;&lt;span style=&#34;color: #00ccff;&#34;&gt;1. Violence as Ritual &amp;amp; Power: Historical and Global Perspectives&lt;/span&gt;&lt;/h2&gt;
 Let&#39;s open this session with a reference from Greek mythology: consider the telltale of Prometheus, whose theft of fire from the Olympian gods for humanity’s benefit inadvertently brought both civilization and destruction. Like Prometheus’s fire, the development of media technology simultaneously brings enlightenment and cataclysm.
 &lt;h4&gt;&lt;span style=&#34;color: #99ccff;&#34;&gt;1.1 Rhetorical Artifacts and Human Sacrifice&lt;/span&gt;&lt;/h4&gt;
-The history of the development of writing technology overlaps with the history of war propaganda and &lt;a href=&#34;http://localhost:1313/blog/2020/10/nca-2020-virtual-convention-presentation-logographic-inventions-of-violent-rituals/&#34;&gt;human sacrifice&lt;/a&gt;.&lt;sup&gt;&lt;a href=&#34;#fn1&#34;&gt;[1]&lt;/a&gt;&lt;/sup&gt; As early as the Narmer Palette, one of the earliest hieroglyphic artifacts ever found from circa 3200 BCE depicting scenes of conquest and violence:
-&lt;div class=&#34;wp-block-image&#34;&gt;&lt;img alt=&#34;&#34; class=&#34;wpa-warning wpa-image-missing-alt alignright size-large wp-image-881&#34; data-warning=&#34;Missing alt text&#34; height=&#34;537&#34; src=&#34;http://localhost:1313/images/uploads/2025/04/slide-2-1024x573.jpg&#34; width=&#34;960&#34;/&gt;&lt;/div&gt;
+The history of the development of writing technology overlaps with the history of war propaganda and &lt;a href=&#34;/blog/2020/10/nca-2020-virtual-convention-presentation-logographic-inventions-of-violent-rituals/&#34;&gt;human sacrifice&lt;/a&gt;.&lt;sup&gt;&lt;a href=&#34;#fn1&#34;&gt;[1]&lt;/a&gt;&lt;/sup&gt; As early as the Narmer Palette, one of the earliest hieroglyphic artifacts ever found from circa 3200 BCE depicting scenes of conquest and violence:
+&lt;div class=&#34;wp-block-image&#34;&gt;&lt;img alt=&#34;&#34; class=&#34;wpa-warning wpa-image-missing-alt alignright size-large wp-image-881&#34; data-warning=&#34;Missing alt text&#34; height=&#34;537&#34; src=&#34;/images/uploads/2025/04/slide-2-1024x573.jpg&#34; width=&#34;960&#34;/&gt;&lt;/div&gt;
 &lt;article class=&#34;text-token-text-primary w-full&#34; data-scroll-anchor=&#34;true&#34; data-testid=&#34;conversation-turn-18&#34; dir=&#34;auto&#34;&gt;
 &lt;div class=&#34;text-base my-auto mx-auto py-5 [--thread-content-margin:--spacing(4)] @[37rem]:[--thread-content-margin:--spacing(6)] @[70rem]:[--thread-content-margin:--spacing(12)] px-(--thread-content-margin)&#34;&gt;
 &lt;div class=&#34;[--thread-content-max-width:32rem] @[34rem]:[--thread-content-max-width:40rem] @[64rem]:[--thread-content-max-width:48rem] mx-auto flex max-w-(--thread-content-max-width) flex-1 text-base gap-4 md:gap-5 lg:gap-6 group/turn-messages focus-visible:outline-hidden&#34; tabindex=&#34;-1&#34;&gt;
@@ -77,9 +77,9 @@ The history of the development of writing technology overlaps with the history o
     </item>
     <item>
       <title>Evaluating Online Sources</title>
-      <link>http://localhost:1313/teaching/2025/03/evaluating-online-sources/</link>
+      <link>/teaching/2025/03/evaluating-online-sources/</link>
       <pubDate>Wed, 26 Mar 2025 20:28:08 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/2025/03/evaluating-online-sources/</guid>
+      <guid>/teaching/2025/03/evaluating-online-sources/</guid>
       <description>&lt;!-- FullPage.js CSS --&gt; &lt;!-- Your font link --&gt;
 &lt;div id=&#34;fullpage&#34;&gt;
 &lt;div class=&#34;section&#34; id=&#34;section0&#34;&gt;&lt;/div&gt;
@@ -88,7 +88,7 @@ The history of the development of writing technology overlaps with the history o
 &lt;hr/&gt;
 &lt;h2 style=&#34;font-size: 32px;&#34;&gt;&lt;span style=&#34;color: #ffff99;&#34;&gt;1. OVERVIEW&lt;/span&gt;&lt;/h2&gt;
 This lesson will be focusing on understanding and evaluating evidence and information sources, a crucial aspect of constructing persuasive arguments. It explains how evidence interacts with values, and presents general tests for assessing the quality of evidence. We will also be learning how to locate and evaluate various sources of evidence, guiding you on choosing reliable information from books, periodicals, websites, and more. The chapter emphasizes the importance of digital literacy and critical evaluation of different types of sources.
-&lt;figure&gt;&lt;img alt=&#34;Ad Fontes Media Bias Chart 6.0&#34; src=&#34;http://localhost:1313/images/external/upload-wikimedia-org/wikipedia/commons/thumb/e/ef/Adfontesmedia.jpg/1024px-Adfontesmedia.jpg&#34; width=&#34;1024&#34;/&gt;&lt;figcaption&gt;&lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Adfontesmedia.jpg&#34;&gt;Media Bias Chart published by Ad Fontes Media, 2020. Fact-checking always lags behind the emergence of new biased sources of information.&lt;/a&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img alt=&#34;Ad Fontes Media Bias Chart 6.0&#34; src=&#34;/images/external/upload-wikimedia-org/wikipedia/commons/thumb/e/ef/Adfontesmedia.jpg/1024px-Adfontesmedia.jpg&#34; width=&#34;1024&#34;/&gt;&lt;figcaption&gt;&lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Adfontesmedia.jpg&#34;&gt;Media Bias Chart published by Ad Fontes Media, 2020. Fact-checking always lags behind the emergence of new biased sources of information.&lt;/a&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 &lt;/div&gt;
 &lt;!-- Section 2: Understanding Evidence --&gt;
 &lt;div class=&#34;section&#34; id=&#34;understanding-evidence&#34;&gt;
@@ -100,9 +100,9 @@ In public discourse, evidence is invariably filtered through the &#34;terminal s
     </item>
     <item>
       <title>Dasein, ChatGPT, and the Ritology of AI: Special lecture at East China University of Political Science and Law, Shanghai, June 18 2023 (updated_</title>
-      <link>http://localhost:1313/blog/2023/12/dasein-chatgpt-and-the-ritology-of-ai-special-lecture-at-east-china-university-of-political-science-and-law-shanghai-june-18-2023/</link>
+      <link>/blog/2023/12/dasein-chatgpt-and-the-ritology-of-ai-special-lecture-at-east-china-university-of-political-science-and-law-shanghai-june-18-2023/</link>
       <pubDate>Mon, 04 Dec 2023 12:55:09 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2023/12/dasein-chatgpt-and-the-ritology-of-ai-special-lecture-at-east-china-university-of-political-science-and-law-shanghai-june-18-2023/</guid>
+      <guid>/blog/2023/12/dasein-chatgpt-and-the-ritology-of-ai-special-lecture-at-east-china-university-of-political-science-and-law-shanghai-june-18-2023/</guid>
       <description>&lt;h2&gt;&lt;span style=&#34;color: #800000;&#34;&gt;&lt;strong&gt;Dasein, ChatGPT, and the Ritology of AI:&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
 &lt;h3&gt;&lt;i&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;Special lecture &lt;/span&gt;&lt;/i&gt;&lt;i&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;at East China University of Political Science and Law, June 18, 2023&lt;/span&gt;&lt;/i&gt;&lt;i&gt;&lt;/i&gt;&lt;/h3&gt;
 &lt;div&gt;
@@ -117,20 +117,20 @@ This WIP paper builds off a guest lecture I have presented at the East China Uni
     </item>
     <item>
       <title>Demystifying The Chinese Social Credit System - Presentation for the Symposium on China’s Data Governance and its Impact on US-China Relations, hosted by the Carter Center China Focus</title>
-      <link>http://localhost:1313/blog/2023/10/demystifying-the-chinese-social-credit-system-presentation-for-the-symposium-on-chinas-data-governance-and-its-impact-on-us-china-relations-hosted-by-the-carter-center-china-focus/</link>
+      <link>/blog/2023/10/demystifying-the-chinese-social-credit-system-presentation-for-the-symposium-on-chinas-data-governance-and-its-impact-on-us-china-relations-hosted-by-the-carter-center-china-focus/</link>
       <pubDate>Thu, 12 Oct 2023 21:46:45 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2023/10/demystifying-the-chinese-social-credit-system-presentation-for-the-symposium-on-chinas-data-governance-and-its-impact-on-us-china-relations-hosted-by-the-carter-center-china-focus/</guid>
+      <guid>/blog/2023/10/demystifying-the-chinese-social-credit-system-presentation-for-the-symposium-on-chinas-data-governance-and-its-impact-on-us-china-relations-hosted-by-the-carter-center-china-focus/</guid>
       <description>&lt;h1&gt;&lt;b&gt;Demystifying The Chinese Social Credit System - Presentation for the &lt;a href=&#34;https://chinafocus.info/symposium-data-governance-and-its-impact-on-us-china-relations/&#34;&gt;Symposium on China’s Data Governance and its Impact on US-China Relations&lt;/a&gt;, hosted by the Carter Center China Focus&lt;/b&gt;&lt;/h1&gt;
-&lt;h2&gt;&lt;img alt=&#34;&#34; class=&#34;aligncenter size-large wp-image-662&#34; height=&#34;503&#34; src=&#34;http://localhost:1313/images/uploads/2023/10/Screenshot-2023-10-12-204517-1024x572.png&#34; width=&#34;900&#34;/&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;img alt=&#34;&#34; class=&#34;aligncenter size-large wp-image-662&#34; height=&#34;503&#34; src=&#34;/images/uploads/2023/10/Screenshot-2023-10-12-204517-1024x572.png&#34; width=&#34;900&#34;/&gt;&lt;/h2&gt;
 &lt;h2&gt;&lt;b&gt;Introduction:&lt;/b&gt;&lt;/h2&gt;
 There is nothing new about public authorities using collected numerical info as a governing technology. Census has been a central governance tool throughout Ancient Rome and Imperial China. In fact, the need for keeping taxation records was a key historical exigence driving the invention of many earliest writing systems.
 &lt;p&gt;Throughout human history, public authorities have relied on collected numerical data as a tool for governance. This was evident with the census in Ancient Rome and Imperial China, where early writing systems were developed primarily for taxation records. The digitization of data and advancements in data science have revolutionized governance-by-data, making it continuously updated and more encompassing. The Chinese Social Credit System (SCS) is a testament to this evolution. Despite its significance, the SCS remains misunderstood, especially outside the Global North. Today, I aim to provide clarity on this topic, considering its implications on human rights and rule of law both within and beyond China, and shedding light on US-China relations. This talk will bring together relevant historical, rhetorical, socio-cultural and legal contexts to unpack the emergent structures of the Chinese social credit system and data governance experiments. By catalyzing greater open dialogue and critical inquiry on this thorny topic, this lecture seeks to advance the vision of The Carter Center and contribute to a deeper understanding of the past, present, and future of US-China relations.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Event Announcement: China’s Data Governance and Its Impact on U.S.-China Relations, Sept 26th at The Carter Center</title>
-      <link>http://localhost:1313/blog/2023/08/event-announcement-chinas-data-governance-and-its-impact-on-u-s-china-relations/</link>
+      <link>/blog/2023/08/event-announcement-chinas-data-governance-and-its-impact-on-u-s-china-relations/</link>
       <pubDate>Tue, 29 Aug 2023 10:50:24 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2023/08/event-announcement-chinas-data-governance-and-its-impact-on-u-s-china-relations/</guid>
+      <guid>/blog/2023/08/event-announcement-chinas-data-governance-and-its-impact-on-u-s-china-relations/</guid>
       <description>&lt;p&gt;&lt;strong&gt;We are pleased to announce an upcoming hybrid symposium titled &amp;ldquo;China’s Data Governance and Its Impact on U.S.-China Relations&amp;rdquo; organized by The Carter Center, Emory University, China Research Center, Georgia State University, and Spellman College. &lt;/strong&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;/h3&gt;
 &lt;h3&gt;Event Details:&lt;/h3&gt;
@@ -148,7 +148,7 @@ The relationship between the United States and China is currently facing signifi
 &lt;li&gt;&lt;a href=&#34;https://www.brookings.edu/people/jamie-horsley/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Jamie Horsley&lt;/strong&gt;&lt;/a&gt;, Senior Fellow, Paul Tsai China Center at Yale Law School | &lt;span class=&#34;expert-title h5 md:h3&#34;&gt;John L. Thornton China Center at &lt;/span&gt;Brookings Institution&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://www.aynnekokas.com/aboutme&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Aynne Kokas&lt;/a&gt;&lt;/strong&gt;, C.K. Yen Professor at the Miller Center and Associate Professor of Media Studies, University of Virginia&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.mariarepnikova.com/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Maria Repnikova&lt;/strong&gt;&lt;/a&gt;, Associate Professor in Global Communication, Georgia State University&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/about/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Keren Wang&lt;/strong&gt;&lt;/a&gt;, ACLS Emerging Voices Fellow, Emory University Department of Russian and East Asian Languages and Cultures&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/about/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Keren Wang&lt;/strong&gt;&lt;/a&gt;, ACLS Emerging Voices Fellow, Emory University Department of Russian and East Asian Languages and Cultures&lt;/li&gt;
 &lt;/ul&gt;
 The symposium is being convened by &lt;strong&gt;&lt;a href=&#34;https://www.cartercenter.org/about/experts/yawei_liu.html&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Dr. Yawei Liu&lt;/a&gt;&lt;/strong&gt;, Senior Advisor on China at The Carter Center and Dr. Keren Wang of Emory University Department of Russian and East Asian Languages and Cultures
 &lt;h5&gt;&lt;/h5&gt;

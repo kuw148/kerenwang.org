@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Mayans on Keren Wang</title>
-    <link>http://localhost:1313/tags/mayans/</link>
+    <link>/tags/mayans/</link>
     <description>Recent content in Mayans on Keren Wang</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 02 Jun 2015 22:27:59 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/mayans/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/mayans/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Brief Note on Human Sacrifice in Classical Mayan Culture</title>
-      <link>http://localhost:1313/blog/2015/06/a-brief-note-on-human-sacrifice-in-classical-mayan-culture/</link>
+      <link>/blog/2015/06/a-brief-note-on-human-sacrifice-in-classical-mayan-culture/</link>
       <pubDate>Tue, 02 Jun 2015 22:27:59 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2015/06/a-brief-note-on-human-sacrifice-in-classical-mayan-culture/</guid>
+      <guid>/blog/2015/06/a-brief-note-on-human-sacrifice-in-classical-mayan-culture/</guid>
       <description>&lt;figure&gt;
-  &lt;img alt=&#34;Goddess_O_Ixchel&#34; class=&#34;wp-image-145 size-full&#34; height=&#34;565&#34; src=&#34;http://localhost:1313/images/uploads/2015/06/Goddess_O_Ixchel.jpg&#34; width=&#34;488&#34;/&gt;
+  &lt;img alt=&#34;Goddess_O_Ixchel&#34; class=&#34;wp-image-145 size-full&#34; height=&#34;565&#34; src=&#34;/images/uploads/2015/06/Goddess_O_Ixchel.jpg&#34; width=&#34;488&#34;/&gt;
   &lt;figcaption&gt;&lt;/a&gt; Mayan Moon Goddess with rabbit, Museum of Fine Arts Boston MA&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;p&gt; &lt;/p&gt;

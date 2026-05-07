@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Public Memory on Keren Wang</title>
-    <link>http://localhost:1313/tags/public-memory/</link>
+    <link>/tags/public-memory/</link>
     <description>Recent content in Public Memory on Keren Wang</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 25 Aug 2025 02:34:28 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/public-memory/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/public-memory/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction to a Brief History of Media</title>
-      <link>http://localhost:1313/teaching/2025/08/teaching-introduction-to-a-brief-history-of-media/</link>
+      <link>/teaching/2025/08/teaching-introduction-to-a-brief-history-of-media/</link>
       <pubDate>Mon, 25 Aug 2025 02:34:28 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/2025/08/teaching-introduction-to-a-brief-history-of-media/</guid>
+      <guid>/teaching/2025/08/teaching-introduction-to-a-brief-history-of-media/</guid>
       <description>&lt;div style=&#34;margin: 1em auto; max-width: 760px; background: #fff3cd; color: #856404; border: 1px solid #ffeeba; border-radius: 4px; padding: 0.6em 1em; font-size: 0.85em; line-height: 1.35; text-align: center;&#34;&gt;
 &lt;/div&gt;
-&lt;div class=&#34;wp-block-image&#34;&gt;&lt;img alt=&#34;&#34; class=&#34;wpa-warning wpa-image-missing-alt alignright size-full wp-image-1004&#34; data-warning=&#34;Missing alt text&#34; height=&#34;844&#34; src=&#34;http://localhost:1313/images/uploads/2025/08/SCOM2050-week-1-History-of-Media_page-0001.jpg&#34; width=&#34;1500&#34;/&gt;&lt;/div&gt;
+&lt;div class=&#34;wp-block-image&#34;&gt;&lt;img alt=&#34;&#34; class=&#34;wpa-warning wpa-image-missing-alt alignright size-full wp-image-1004&#34; data-warning=&#34;Missing alt text&#34; height=&#34;844&#34; src=&#34;/images/uploads/2025/08/SCOM2050-week-1-History-of-Media_page-0001.jpg&#34; width=&#34;1500&#34;/&gt;&lt;/div&gt;
 &lt;p&gt;We begin by asking a deceptively simple question: &lt;strong&gt;What is media?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;At its core, media is any&lt;strong&gt; technology that enables the storage, organization, transmission, and dissemination of information&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;When we hear the word today, we tend to think of “mass media” — newspapers, television, the internet — technologies that spread information rapidly across wide distances. &lt;span style=&#34;font-weight: 400;&#34;&gt;Commonly, people imagine the story of media beginning with the invention of the&lt;a href=&#34;https://en.wikipedia.org/wiki/Electrical_telegraph&#34;&gt; &lt;strong&gt;electric telegraph&lt;/strong&gt;&lt;/a&gt; in the early 19th century. But is that really where media begins?&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>MEDIA &amp; VIOLENCE - A Transnational Perspective</title>
-      <link>http://localhost:1313/blog/2025/04/media-violence-a-transnational-perspective/</link>
+      <link>/blog/2025/04/media-violence-a-transnational-perspective/</link>
       <pubDate>Mon, 14 Apr 2025 18:23:19 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2025/04/media-violence-a-transnational-perspective/</guid>
+      <guid>/blog/2025/04/media-violence-a-transnational-perspective/</guid>
       <description>&lt;p&gt;Lesson Module by Keren Wang, updated 4 Nov 2025.&lt;/p&gt;
 &lt;div class=&#34;scom2050-lesson&#34; style=&#34;font-family: system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif; line-height: 1.55; max-width: 880px; margin: 0 auto;&#34;&gt;
 &lt;p&gt;This lesson module examines the contested and ambivalent relationship between media and violence from historical and transnational perspectives.&lt;/p&gt;
-&lt;img alt=&#34;&#34; class=&#34;aligncenter size-full wp-image-927&#34; height=&#34;718&#34; src=&#34;http://localhost:1313/images/uploads/2025/04/MEDIA-VIOLENCE-a-transnational-perspective-heading.gif&#34; width=&#34;1280&#34;/&gt;
+&lt;img alt=&#34;&#34; class=&#34;aligncenter size-full wp-image-927&#34; height=&#34;718&#34; src=&#34;/images/uploads/2025/04/MEDIA-VIOLENCE-a-transnational-perspective-heading.gif&#34; width=&#34;1280&#34;/&gt;
 &lt;/div&gt;
 &lt;div class=&#34;scom2050-lesson&#34; style=&#34;font-family: system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif; line-height: 1.55; max-width: 880px; margin: 0 auto;&#34;&gt;
 &lt;h2&gt;&lt;span style=&#34;color: #00ccff;&#34;&gt;1. Violence as Ritual &amp;amp; Power: Historical and Global Perspectives&lt;/span&gt;&lt;/h2&gt;
 Let&#39;s open this session with a reference from Greek mythology: consider the telltale of Prometheus, whose theft of fire from the Olympian gods for humanity’s benefit inadvertently brought both civilization and destruction. Like Prometheus’s fire, the development of media technology simultaneously brings enlightenment and cataclysm.
 &lt;h4&gt;&lt;span style=&#34;color: #99ccff;&#34;&gt;1.1 Rhetorical Artifacts and Human Sacrifice&lt;/span&gt;&lt;/h4&gt;
-The history of the development of writing technology overlaps with the history of war propaganda and &lt;a href=&#34;http://localhost:1313/blog/2020/10/nca-2020-virtual-convention-presentation-logographic-inventions-of-violent-rituals/&#34;&gt;human sacrifice&lt;/a&gt;.&lt;sup&gt;&lt;a href=&#34;#fn1&#34;&gt;[1]&lt;/a&gt;&lt;/sup&gt; As early as the Narmer Palette, one of the earliest hieroglyphic artifacts ever found from circa 3200 BCE depicting scenes of conquest and violence:
-&lt;div class=&#34;wp-block-image&#34;&gt;&lt;img alt=&#34;&#34; class=&#34;wpa-warning wpa-image-missing-alt alignright size-large wp-image-881&#34; data-warning=&#34;Missing alt text&#34; height=&#34;537&#34; src=&#34;http://localhost:1313/images/uploads/2025/04/slide-2-1024x573.jpg&#34; width=&#34;960&#34;/&gt;&lt;/div&gt;
+The history of the development of writing technology overlaps with the history of war propaganda and &lt;a href=&#34;/blog/2020/10/nca-2020-virtual-convention-presentation-logographic-inventions-of-violent-rituals/&#34;&gt;human sacrifice&lt;/a&gt;.&lt;sup&gt;&lt;a href=&#34;#fn1&#34;&gt;[1]&lt;/a&gt;&lt;/sup&gt; As early as the Narmer Palette, one of the earliest hieroglyphic artifacts ever found from circa 3200 BCE depicting scenes of conquest and violence:
+&lt;div class=&#34;wp-block-image&#34;&gt;&lt;img alt=&#34;&#34; class=&#34;wpa-warning wpa-image-missing-alt alignright size-large wp-image-881&#34; data-warning=&#34;Missing alt text&#34; height=&#34;537&#34; src=&#34;/images/uploads/2025/04/slide-2-1024x573.jpg&#34; width=&#34;960&#34;/&gt;&lt;/div&gt;
 &lt;article class=&#34;text-token-text-primary w-full&#34; data-scroll-anchor=&#34;true&#34; data-testid=&#34;conversation-turn-18&#34; dir=&#34;auto&#34;&gt;
 &lt;div class=&#34;text-base my-auto mx-auto py-5 [--thread-content-margin:--spacing(4)] @[37rem]:[--thread-content-margin:--spacing(6)] @[70rem]:[--thread-content-margin:--spacing(12)] px-(--thread-content-margin)&#34;&gt;
 &lt;div class=&#34;[--thread-content-max-width:32rem] @[34rem]:[--thread-content-max-width:40rem] @[64rem]:[--thread-content-max-width:48rem] mx-auto flex max-w-(--thread-content-max-width) flex-1 text-base gap-4 md:gap-5 lg:gap-6 group/turn-messages focus-visible:outline-hidden&#34; tabindex=&#34;-1&#34;&gt;

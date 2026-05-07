@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Rhetorical Theory on Keren Wang</title>
-    <link>http://localhost:1313/tags/rhetorical-theory/</link>
+    <link>/tags/rhetorical-theory/</link>
     <description>Recent content in Rhetorical Theory on Keren Wang</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Dec 2025 09:35:52 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/rhetorical-theory/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/rhetorical-theory/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What Is AI? Part 2 – Demystifying AI Through Four Acts</title>
-      <link>http://localhost:1313/blog/2025/12/what-is-ai-part-2-demystifying-ai-through-four-acts/</link>
+      <link>/blog/2025/12/what-is-ai-part-2-demystifying-ai-through-four-acts/</link>
       <pubDate>Mon, 01 Dec 2025 09:35:52 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2025/12/what-is-ai-part-2-demystifying-ai-through-four-acts/</guid>
+      <guid>/blog/2025/12/what-is-ai-part-2-demystifying-ai-through-four-acts/</guid>
       <description>&lt;div id=&#34;layout&#34;&gt;&lt;nav aria-label=&#34;Table of contents&#34; id=&#34;toc-container&#34;&gt;
 &lt;h2&gt;&lt;span style=&#34;color: #00ccff;&#34;&gt;Table of Contents&lt;/span&gt;&lt;/h2&gt;
 &lt;ul id=&#34;toc&#34;&gt;
@@ -34,18 +34,18 @@
 &lt;/ul&gt;
 &lt;/nav&gt;
 &lt;figure&gt;
-  &lt;img alt=&#34;Scene from the 1983 sci-fi thriller WarGames, directed by John Badham.The film dramatizes a near-catastrophe triggered by a military decision to entrust U.S. nuclear deterrence to an autonomous AI system that treats thermonuclear war as a solvable optimization problem.&#34; class=&#34;size-full wp-image-1241&#34; height=&#34;388&#34; src=&#34;http://localhost:1313/images/uploads/2025/11/WarGames-1983.gif&#34; width=&#34;660&#34;/&gt;
+  &lt;img alt=&#34;Scene from the 1983 sci-fi thriller WarGames, directed by John Badham.The film dramatizes a near-catastrophe triggered by a military decision to entrust U.S. nuclear deterrence to an autonomous AI system that treats thermonuclear war as a solvable optimization problem.&#34; class=&#34;size-full wp-image-1241&#34; height=&#34;388&#34; src=&#34;/images/uploads/2025/11/WarGames-1983.gif&#34; width=&#34;660&#34;/&gt;
   &lt;figcaption&gt;&lt;span style=&#34;font-size: 12pt;&#34;&gt;&lt;strong&gt;&lt;span style=&#34;color: #ffcc99;&#34;&gt;Scene from the 1983 sci-fi thriller WarGames, directed by John Badham. &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;span style=&#34;font-size: 12pt;&#34;&gt;&lt;span style=&#34;color: #ffcc99;&#34;&gt;The film dramatizes a near-catastrophe triggered by a military decision to entrust U.S. nuclear deterrence to an autonomous AI system that treats thermonuclear war as a solvable optimization problem. &lt;/span&gt;&lt;span style=&#34;color: #999999;&#34;&gt;Source: DVDXtras, “WarGames (1983) | Behind the Scenes,” Internet Archive, June 2, 2022. &amp;lt;&lt;a href=&#34;https://archive.org/details/youtube-5g4EdnMcDzg&#34;&gt;LINK&lt;/a&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
-&lt;h2&gt;&lt;span style=&#34;font-size: 18pt;&#34;&gt;*Continuing from:&lt;/span&gt; &lt;span style=&#34;font-size: 18pt; color: #00ccff;&#34;&gt;&lt;em&gt;&lt;span style=&#34;color: #99ccff;&#34;&gt;&lt;a href=&#34;http://localhost:1313/blog/2025/11/a-survey-of-imaginaries-mythologies-and-rhetorical-structures-of-thinking-machines-part-1/&#34; style=&#34;color: #99ccff;&#34;&gt;“What Is AI?” Part 1: A Survey of Imaginaries, Mythologies, and Rhetorical Structures of Thinking Machines&lt;/a&gt;&lt;/span&gt;&lt;/em&gt;&lt;/span&gt;&lt;/h2&gt;
-&lt;a href=&#34;http://localhost:1313/blog/2025/11/a-survey-of-imaginaries-mythologies-and-rhetorical-structures-of-thinking-machines-part-1/&#34;&gt;&lt;strong&gt;In the previous segment of our genealogical survey,&lt;/strong&gt;&lt;/a&gt; we have traced ancient imaginaries that seeded today’s visions of machine intelligence. From &lt;span style=&#34;color: #ffff99;&#34;&gt;&lt;strong&gt;Yan Shi’s mechanical performers&lt;/strong&gt;&lt;/span&gt; to &lt;span style=&#34;color: #ffff99;&#34;&gt;&lt;strong&gt;&lt;em&gt;Talos&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;’ bronze vigilance and the ritual logic of &lt;strong&gt;golems&lt;/strong&gt; and Homunculi, we explored how mythic prototypes shaped the rhetorical terrain on which “AI” would later emerge as a technological category.
+&lt;h2&gt;&lt;span style=&#34;font-size: 18pt;&#34;&gt;*Continuing from:&lt;/span&gt; &lt;span style=&#34;font-size: 18pt; color: #00ccff;&#34;&gt;&lt;em&gt;&lt;span style=&#34;color: #99ccff;&#34;&gt;&lt;a href=&#34;/blog/2025/11/a-survey-of-imaginaries-mythologies-and-rhetorical-structures-of-thinking-machines-part-1/&#34; style=&#34;color: #99ccff;&#34;&gt;“What Is AI?” Part 1: A Survey of Imaginaries, Mythologies, and Rhetorical Structures of Thinking Machines&lt;/a&gt;&lt;/span&gt;&lt;/em&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;a href=&#34;/blog/2025/11/a-survey-of-imaginaries-mythologies-and-rhetorical-structures-of-thinking-machines-part-1/&#34;&gt;&lt;strong&gt;In the previous segment of our genealogical survey,&lt;/strong&gt;&lt;/a&gt; we have traced ancient imaginaries that seeded today’s visions of machine intelligence. From &lt;span style=&#34;color: #ffff99;&#34;&gt;&lt;strong&gt;Yan Shi’s mechanical performers&lt;/strong&gt;&lt;/span&gt; to &lt;span style=&#34;color: #ffff99;&#34;&gt;&lt;strong&gt;&lt;em&gt;Talos&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;’ bronze vigilance and the ritual logic of &lt;strong&gt;golems&lt;/strong&gt; and Homunculi, we explored how mythic prototypes shaped the rhetorical terrain on which “AI” would later emerge as a technological category.
 &lt;p&gt;Whereas earlier societies used myth and ritual to make sense of uncanny forms of artificial agency and “thinking machines,” in this second part we turn from historical mythologies to present-day technological possibilities. The term “artificial intelligence” circulates in our cultural lifeworld with astonishing fluidity. It appears in commercials, policy reports, sci-fi movies, legal disputes, and everyday conversations. It is used to describe everything from basic computer programs to sophisticated generative models capable of complex knowledge-performance.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Understanding Advertising through Consumer Psychology and Computational Rhetoric</title>
-      <link>http://localhost:1313/teaching/2025/09/understanding-advertising-through-consumer-psychology-computational-rhetoric/</link>
+      <link>/teaching/2025/09/understanding-advertising-through-consumer-psychology-computational-rhetoric/</link>
       <pubDate>Mon, 29 Sep 2025 03:44:29 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/2025/09/understanding-advertising-through-consumer-psychology-computational-rhetoric/</guid>
+      <guid>/teaching/2025/09/understanding-advertising-through-consumer-psychology-computational-rhetoric/</guid>
       <description>&lt;div&gt; &lt;/div&gt;
 &lt;!-- wp:html --&gt;
 &lt;p&gt; &lt;/p&gt;
@@ -76,7 +76,7 @@
 &lt;/table&gt;
 &lt;/div&gt;
 &lt;div&gt;
-&lt;h2&gt;&lt;img alt=&#34;&#34; class=&#34;aligncenter size-full wp-image-1065&#34; height=&#34;719&#34; src=&#34;http://localhost:1313/images/uploads/2025/09/Advertising-header.gif&#34; width=&#34;1280&#34;/&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;img alt=&#34;&#34; class=&#34;aligncenter size-full wp-image-1065&#34; height=&#34;719&#34; src=&#34;/images/uploads/2025/09/Advertising-header.gif&#34; width=&#34;1280&#34;/&gt;&lt;/h2&gt;
 &lt;h2 class=&#34;c17&#34; id=&#34;h.26n593d62ttq&#34;&gt;&lt;span class=&#34;c8 c29 c16&#34; style=&#34;color: #ccffff;&#34;&gt;What Do You See?&lt;/span&gt;&lt;/h2&gt;
 &lt;/div&gt;
 &lt;div&gt;
@@ -84,9 +84,9 @@
     </item>
     <item>
       <title>New Research Project: Artificial Intelligence and Human Sacrifice</title>
-      <link>http://localhost:1313/blog/2025/08/new-research-project-artificial-intelligence-and-human-sacrifice/</link>
+      <link>/blog/2025/08/new-research-project-artificial-intelligence-and-human-sacrifice/</link>
       <pubDate>Mon, 25 Aug 2025 02:36:41 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2025/08/new-research-project-artificial-intelligence-and-human-sacrifice/</guid>
+      <guid>/blog/2025/08/new-research-project-artificial-intelligence-and-human-sacrifice/</guid>
       <description>&lt;!-- wp:paragraph --&gt;
 &lt;p&gt;&lt;!-- Copyright Banner --&gt;&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;
@@ -99,9 +99,9 @@
     </item>
     <item>
       <title>Rhetorical Methods - Ideological and Psychoanalytic Criticism</title>
-      <link>http://localhost:1313/teaching/2025/04/research-methods-lesson-notes-psychoanalytic-criticism/</link>
+      <link>/teaching/2025/04/research-methods-lesson-notes-psychoanalytic-criticism/</link>
       <pubDate>Wed, 02 Apr 2025 12:40:01 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/2025/04/research-methods-lesson-notes-psychoanalytic-criticism/</guid>
+      <guid>/teaching/2025/04/research-methods-lesson-notes-psychoanalytic-criticism/</guid>
       <description>&lt;h1&gt;&lt;/h1&gt;&lt;strong&gt;Originally posted by:&lt;/strong&gt; Keren Wang, Fall 2024
 &lt;div class=&#34;toc&#34;&gt;
 &lt;h2&gt;Table of Contents&lt;/h2&gt;
@@ -135,35 +135,35 @@
     </item>
     <item>
       <title>Lesson on Statistical Evidence</title>
-      <link>http://localhost:1313/teaching/2024/10/communication-research-methods-survey-part-2-on-sampling-and-evaluating-survey-accuracy/</link>
+      <link>/teaching/2024/10/communication-research-methods-survey-part-2-on-sampling-and-evaluating-survey-accuracy/</link>
       <pubDate>Sun, 27 Oct 2024 18:04:48 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/2024/10/communication-research-methods-survey-part-2-on-sampling-and-evaluating-survey-accuracy/</guid>
+      <guid>/teaching/2024/10/communication-research-methods-survey-part-2-on-sampling-and-evaluating-survey-accuracy/</guid>
       <description></description>
     </item>
     <item>
       <title>NCA 2020 Virtual Convention Presentation:  Logographic Inventions of Violent Rituals</title>
-      <link>http://localhost:1313/blog/2020/10/nca-2020-virtual-convention-presentation-logographic-inventions-of-violent-rituals/</link>
+      <link>/blog/2020/10/nca-2020-virtual-convention-presentation-logographic-inventions-of-violent-rituals/</link>
       <pubDate>Sat, 31 Oct 2020 20:52:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2020/10/nca-2020-virtual-convention-presentation-logographic-inventions-of-violent-rituals/</guid>
-      <description>&lt;img alt=&#34;title slide&#34; class=&#34;aligncenter size-full wp-image-527&#34; height=&#34;540&#34; src=&#34;http://localhost:1313/images/uploads/2020/10/1.png&#34; width=&#34;960&#34;/&gt;
+      <guid>/blog/2020/10/nca-2020-virtual-convention-presentation-logographic-inventions-of-violent-rituals/</guid>
+      <description>&lt;img alt=&#34;title slide&#34; class=&#34;aligncenter size-full wp-image-527&#34; height=&#34;540&#34; src=&#34;/images/uploads/2020/10/1.png&#34; width=&#34;960&#34;/&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;p class=&#34;drop-cap&#34;&gt;The ritual taking of things that are of human value, including the ritual killing of humans, has been continuously practiced for as long as human civilization itself has existed. In my presentation for the upcoming virtual &lt;strong&gt;&lt;a href=&#34;https://www.natcom.org/convention-events/virtual-2020-convention&#34;&gt;2020 &lt;span class=&#34;il&#34;&gt;National Communication Association&#39;s &lt;/span&gt;Annual Convention&lt;/a&gt;&lt;/strong&gt;, I will highlight key findings from one of my ongoing historical archival projects, focusing on the rhetoric of human sacrifice as represented in Early Bronze Age China oracle bone scripts (c.1250 BC - 1046 BC). It will be delivered at the v&lt;a href=&#34;https://www.natcom.org/sites/default/files/annual-convention/Accessing%20Session%20Content%20%20FINAL.pdf&#34;&gt;irtual paper session&lt;/a&gt;, &#34;GPS: Changing Routes in Rhetoric&#39;s History&#34; sponsored by the &lt;a href=&#34;https://ww4.aievolution.com/nca2001/index.cfm?do=ev.viewEv&amp;amp;ev=10689&#34;&gt;American Society for the History of Rhetoric&lt;/a&gt; on November 1st, 2020.&lt;/p&gt;</description>
     </item>
     <item>
       <title>New Book: &#34;Legal and Rhetorical Foundations of Economic Globalization: An Atlas of Ritual Sacrifice in Late-Capitalism&#34; (Routledge, 2020)</title>
-      <link>http://localhost:1313/blog/2018/11/announcing-upcoming-book-legal-and-rhetorical-foundations-of-economic-globalization-an-atlas-of-ritual-sacrifice-in-late-capitalism-in-press-with-routledge/</link>
+      <link>/blog/2018/11/announcing-upcoming-book-legal-and-rhetorical-foundations-of-economic-globalization-an-atlas-of-ritual-sacrifice-in-late-capitalism-in-press-with-routledge/</link>
       <pubDate>Sat, 03 Nov 2018 14:57:12 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2018/11/announcing-upcoming-book-legal-and-rhetorical-foundations-of-economic-globalization-an-atlas-of-ritual-sacrifice-in-late-capitalism-in-press-with-routledge/</guid>
+      <guid>/blog/2018/11/announcing-upcoming-book-legal-and-rhetorical-foundations-of-economic-globalization-an-atlas-of-ritual-sacrifice-in-late-capitalism-in-press-with-routledge/</guid>
       <description>&lt;!-- wp:html --&gt;
 &lt;p&gt;(December 2nd, 2019)&lt;/p&gt;
 &lt;p&gt;
   I am very pleased to announce that my academic monograph with Routledge | Taylor &amp;amp; Francis Group &lt;em&gt;has now been published&lt;/em&gt;:
-  &lt;a href=&#34;http://localhost:1313/blog/2018/11/announcing-upcoming-book-legal-and-rhetorical-foundations-of-economic-globalization-an-atlas-of-ritual-sacrifice-in-late-capitalism-in-press-with-routledge/&#34;&gt;Keren Wang, &lt;/a&gt;
+  &lt;a href=&#34;/blog/2018/11/announcing-upcoming-book-legal-and-rhetorical-foundations-of-economic-globalization-an-atlas-of-ritual-sacrifice-in-late-capitalism-in-press-with-routledge/&#34;&gt;Keren Wang, &lt;/a&gt;
 &lt;a href=&#34;https://doi.org/10.4324/9780429198687&#34;&gt;&lt;em&gt;Legal and Rhetorical Foundations of Economic Globalization: An Atlas of Ritual Sacrifice in Late-Capitalism&lt;/em&gt;&lt;/a&gt;.
   It is available in both hardback and digital formats.
 &lt;/p&gt;
 &lt;p&gt;
-  This book was developed from my doctoral dissertation, “&lt;a href=&#34;http://localhost:1313/blog/2018/05/presentation-at-2018-psu-social-thought-conference-three-studies-of-ritual-sacrifice-in-late-capitalism/&#34;&gt;Three Studies of Ritual Sacrifice in Late Capitalism&lt;/a&gt;.” I would like to extend my special thanks to
+  This book was developed from my doctoral dissertation, “&lt;a href=&#34;/blog/2018/05/presentation-at-2018-psu-social-thought-conference-three-studies-of-ritual-sacrifice-in-late-capitalism/&#34;&gt;Three Studies of Ritual Sacrifice in Late Capitalism&lt;/a&gt;.” I would like to extend my special thanks to
   &lt;a href=&#34;http://cas.la.psu.edu/people/sxb17&#34;&gt;Stephen H. Browne&lt;/a&gt;, my dissertation supervisor, and to members of my dissertation advising committee:
   &lt;a href=&#34;https://pennstatelaw.psu.edu/faculty/backer&#34;&gt;Larry Catá Backer&lt;/a&gt;, &lt;a href=&#34;http://cas.la.psu.edu/people/khw2&#34;&gt;Kirt H. Wilson&lt;/a&gt;, and
   &lt;a href=&#34;http://cas.la.psu.edu/people/jde13&#34;&gt;Jeremy David Engels&lt;/a&gt;. This project would not have been possible without their guidance and mentorship. I would also like to express my gratitude to members of the
@@ -172,11 +172,11 @@
     </item>
     <item>
       <title>Presentation at 2018 PSU Social Thought Conference - &#34;Three studies of ritual sacrifice in late-capitalism&#34;</title>
-      <link>http://localhost:1313/blog/2018/05/presentation-at-2018-psu-social-thought-conference-three-studies-of-ritual-sacrifice-in-late-capitalism/</link>
+      <link>/blog/2018/05/presentation-at-2018-psu-social-thought-conference-three-studies-of-ritual-sacrifice-in-late-capitalism/</link>
       <pubDate>Tue, 01 May 2018 20:43:53 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2018/05/presentation-at-2018-psu-social-thought-conference-three-studies-of-ritual-sacrifice-in-late-capitalism/</guid>
+      <guid>/blog/2018/05/presentation-at-2018-psu-social-thought-conference-three-studies-of-ritual-sacrifice-in-late-capitalism/</guid>
       <description>&lt;p&gt;This presentation highlights a few key excerpts from my doctoral dissertation research:&lt;/p&gt;
-&lt;img alt=&#34;&#34; class=&#34;aligncenter size-full wp-image-461&#34; height=&#34;540&#34; src=&#34;http://localhost:1313/images/uploads/2018/05/1-1hrbupv.jpg&#34; width=&#34;960&#34;/&gt;
+&lt;img alt=&#34;&#34; class=&#34;aligncenter size-full wp-image-461&#34; height=&#34;540&#34; src=&#34;/images/uploads/2018/05/1-1hrbupv.jpg&#34; width=&#34;960&#34;/&gt;
 &lt;p&gt;&amp;ldquo;The ritual taking of things that are of human value, including the ritual killing of humans, has been continuously practiced for as long as human civilization itself has existed. Sacrifices in the form of state-organized rituals have been observed in many societies throughout history. Existing scholarship also observed an interdependent relationship between ritual sacrifice and the maintenance of political power in a broad set of historical cases, ranging from Shang dynasty China in 10th century BCE to the witch-hunts in early modern Europe. Sacrificial rituals of the past should not be considered fundamentally divorced from our modern world: whereas the formal elements of sacrifice of the past may no longer be recognizable, their substantive political functions do remain, with rhetorical overtones that carry into the politics of the present time. The goal for this project is to give due consideration to the politics of sacrificial rites across a broad set of political-theological traditions, hopefully paving the way to a new unifying understanding of sacrificial rhetorics. This research goal revolves around two primary research tasks that are intimately connected. The first is to provide a working interpretative framework for understanding the politics of ritual sacrifice – one that not only accommodates multidisciplinary, intersectional knowledge of ritual practices, but that can also be usefully employed in the integrated analysis of sacrificial rituals as political rhetoric under divergent historical and societal contexts.  The second conducts a series of case studies that cuts across the wide variability of ritual public takings in late-capitalism.&amp;rdquo;&lt;/p&gt;</description>
     </item>
   </channel>

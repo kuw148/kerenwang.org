@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Technology on Keren Wang</title>
-    <link>http://localhost:1313/tags/technology/</link>
+    <link>/tags/technology/</link>
     <description>Recent content in Technology on Keren Wang</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 12 Oct 2025 17:15:36 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/technology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Internet - from &#34;Nuclear Hardened&#34;  Networks to Algorithmic Governmentality</title>
-      <link>http://localhost:1313/teaching/2025/10/teaching-the-internet-the-internet-from-nuclear-hardened-networks-to-algorithmic-governmentality/</link>
+      <link>/teaching/2025/10/teaching-the-internet-the-internet-from-nuclear-hardened-networks-to-algorithmic-governmentality/</link>
       <pubDate>Sun, 12 Oct 2025 17:15:36 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/2025/10/teaching-the-internet-the-internet-from-nuclear-hardened-networks-to-algorithmic-governmentality/</guid>
+      <guid>/teaching/2025/10/teaching-the-internet-the-internet-from-nuclear-hardened-networks-to-algorithmic-governmentality/</guid>
       <description>&lt;section id=&#34;references&#34;&gt;
 &lt;h2&gt;References&lt;/h2&gt;
 Beck, Estee. &#34;Who Is Tracking You?: A Rhetorical Framework for Evaluating Surveillance and Privacy Practices.&#34; In &lt;i&gt;Cyber Law, Privacy, and Security: Concepts, Methodologies, Tools, and Applications&lt;/i&gt;, pp. 121-138. IGI Global, 2019.
@@ -21,9 +21,9 @@ Beck, Estee. &#34;Who Is Tracking You?: A Rhetorical Framework for Evaluating Su
     </item>
     <item>
       <title>Lesson 7: Rhetorical Artifacts</title>
-      <link>http://localhost:1313/teaching/2025/09/teaching-lesson-7-rhetorical-artifacts/</link>
+      <link>/teaching/2025/09/teaching-lesson-7-rhetorical-artifacts/</link>
       <pubDate>Sun, 14 Sep 2025 21:00:04 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/2025/09/teaching-lesson-7-rhetorical-artifacts/</guid>
+      <guid>/teaching/2025/09/teaching-lesson-7-rhetorical-artifacts/</guid>
       <description>&lt;header&gt;
 &lt;p class=&#34;byline&#34;&gt;Posted by: Keren Wang&lt;/p&gt;
 &lt;p class=&#34;intro&#34;&gt;&lt;strong&gt;Before you start this lesson, please READ:&lt;/strong&gt; Berger, Arthur Asa. 2024. &lt;em data-end=&#34;247&#34; data-start=&#34;145&#34;&gt;Media and Communication Research Methods: An Introduction to Qualitative and Quantitative Approaches&lt;/em&gt;. 3rd ed. Chapter 4, “Rhetorical Analysis.” Thousand Oaks, CA: SAGE. &lt;a class=&#34;decorated-link&#34; data-end=&#34;353&#34; data-start=&#34;316&#34; href=&#34;https://doi.org/10.4135/9781071939017&#34; rel=&#34;noopener&#34; target=&#34;_new&#34;&gt;https://doi.org/10.4135/9781071939017&lt;/a&gt;.&lt;/p&gt;
@@ -35,28 +35,28 @@ What do you think of when you hear the word “&lt;strong&gt;artifact&lt;/strong
     </item>
     <item>
       <title>Introduction to a Brief History of Media</title>
-      <link>http://localhost:1313/teaching/2025/08/teaching-introduction-to-a-brief-history-of-media/</link>
+      <link>/teaching/2025/08/teaching-introduction-to-a-brief-history-of-media/</link>
       <pubDate>Mon, 25 Aug 2025 02:34:28 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/2025/08/teaching-introduction-to-a-brief-history-of-media/</guid>
+      <guid>/teaching/2025/08/teaching-introduction-to-a-brief-history-of-media/</guid>
       <description>&lt;div style=&#34;margin: 1em auto; max-width: 760px; background: #fff3cd; color: #856404; border: 1px solid #ffeeba; border-radius: 4px; padding: 0.6em 1em; font-size: 0.85em; line-height: 1.35; text-align: center;&#34;&gt;
 &lt;/div&gt;
-&lt;div class=&#34;wp-block-image&#34;&gt;&lt;img alt=&#34;&#34; class=&#34;wpa-warning wpa-image-missing-alt alignright size-full wp-image-1004&#34; data-warning=&#34;Missing alt text&#34; height=&#34;844&#34; src=&#34;http://localhost:1313/images/uploads/2025/08/SCOM2050-week-1-History-of-Media_page-0001.jpg&#34; width=&#34;1500&#34;/&gt;&lt;/div&gt;
+&lt;div class=&#34;wp-block-image&#34;&gt;&lt;img alt=&#34;&#34; class=&#34;wpa-warning wpa-image-missing-alt alignright size-full wp-image-1004&#34; data-warning=&#34;Missing alt text&#34; height=&#34;844&#34; src=&#34;/images/uploads/2025/08/SCOM2050-week-1-History-of-Media_page-0001.jpg&#34; width=&#34;1500&#34;/&gt;&lt;/div&gt;
 &lt;p&gt;We begin by asking a deceptively simple question: &lt;strong&gt;What is media?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;At its core, media is any&lt;strong&gt; technology that enables the storage, organization, transmission, and dissemination of information&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;When we hear the word today, we tend to think of “mass media” — newspapers, television, the internet — technologies that spread information rapidly across wide distances. &lt;span style=&#34;font-weight: 400;&#34;&gt;Commonly, people imagine the story of media beginning with the invention of the&lt;a href=&#34;https://en.wikipedia.org/wiki/Electrical_telegraph&#34;&gt; &lt;strong&gt;electric telegraph&lt;/strong&gt;&lt;/a&gt; in the early 19th century. But is that really where media begins?&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Argumentation - Digital Literacy in Argumentation</title>
-      <link>http://localhost:1313/teaching/2024/10/argumentation-lesson-evaluating-evidence-and-online-sources-scom-2710/</link>
+      <link>/teaching/2024/10/argumentation-lesson-evaluating-evidence-and-online-sources-scom-2710/</link>
       <pubDate>Sun, 20 Oct 2024 17:59:23 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/2024/10/argumentation-lesson-evaluating-evidence-and-online-sources-scom-2710/</guid>
+      <guid>/teaching/2024/10/argumentation-lesson-evaluating-evidence-and-online-sources-scom-2710/</guid>
       <description>&lt;header&gt;
 &lt;h1&gt;Digital Literacy in Argumentation&lt;/h1&gt;
 SCOM 2710 Argumentation Lesson, Posted by Keren Wang, updated 2024
 &lt;/header&gt;&lt;section id=&#34;overview&#34;&gt;
 &lt;h2&gt;Overview&lt;/h2&gt;
 This week we will be focusing on understanding and evaluating evidence, a crucial aspect of constructing persuasive arguments. It explains how evidence interacts with values, and presents general tests for assessing the quality of evidence. We will also be learning how to locate and evaluate various sources of evidence, guiding you on choosing reliable information from books, periodicals, websites, and more. The chapter emphasizes the importance of digital literacy and critical evaluation of different types of sources.
-&lt;figure&gt;&lt;img alt=&#34;Ad Fontes Media Bias Chart 6.0&#34; src=&#34;http://localhost:1313/images/external/upload-wikimedia-org/wikipedia/commons/thumb/e/ef/Adfontesmedia.jpg/1024px-Adfontesmedia.jpg&#34; width=&#34;1024&#34;/&gt;&lt;figcaption&gt;&lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Adfontesmedia.jpg&#34;&gt;Media Bias Chart published by Ad Fontes Media, 2020. Fact-checking always lags behind the emergence of new biased sources of information.&lt;/a&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img alt=&#34;Ad Fontes Media Bias Chart 6.0&#34; src=&#34;/images/external/upload-wikimedia-org/wikipedia/commons/thumb/e/ef/Adfontesmedia.jpg/1024px-Adfontesmedia.jpg&#34; width=&#34;1024&#34;/&gt;&lt;figcaption&gt;&lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Adfontesmedia.jpg&#34;&gt;Media Bias Chart published by Ad Fontes Media, 2020. Fact-checking always lags behind the emergence of new biased sources of information.&lt;/a&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 &lt;/section&gt;
 &lt;section id=&#34;understanding-evidence&#34;&gt;
 &lt;h2&gt;Understanding Evidence&lt;/h2&gt;
@@ -69,7 +69,7 @@ Evidence is always interpreted through personal and cultural values. Here are so
 &lt;li&gt;&lt;strong&gt;Police Surveillance Technology:&lt;/strong&gt; Evidence supporting the use of facial recognition and other surveillance technology to improve public safety can be seen as a way to effectively reduce crime. On the other hand, it is interpreted by others as a serious threat to privacy and civil liberties, especially in communities that may be disproportionately targeted.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Vaccination and Public Health:&lt;/strong&gt; Evidence showing the efficacy of mandatory vaccination for school children may be interpreted as essential for public safety by some individuals, while others may view it as intrusive government overreach or distrust the pharmaceutical industry.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;figure&gt;&lt;img alt=&#34;Robotic Sculpture at MIT Media Lab (photo by Keren Wang 2015)&#34; src=&#34;http://localhost:1313/images/uploads/2024/10/Robotic-Sculpture-at-MIT-Media-Lab-photo-by-Keren-Wang-2015.jpg&#34;/&gt;&lt;figcaption&gt;Evidence that suggests a major breakthrough in general artificial intelligence may be seen either as a major technological advancement or as ethically problematic depending on the individual&#39;s values.&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img alt=&#34;Robotic Sculpture at MIT Media Lab (photo by Keren Wang 2015)&#34; src=&#34;/images/uploads/2024/10/Robotic-Sculpture-at-MIT-Media-Lab-photo-by-Keren-Wang-2015.jpg&#34;/&gt;&lt;figcaption&gt;Evidence that suggests a major breakthrough in general artificial intelligence may be seen either as a major technological advancement or as ethically problematic depending on the individual&#39;s values.&lt;/figcaption&gt;&lt;/figure&gt;
 &lt;/section&gt;
 &lt;section id=&#34;general-tests&#34;&gt;
 &lt;h2&gt;General Tests of Evidence&lt;/h2&gt;
@@ -174,9 +174,9 @@ Evaluating the credibility of websites is a critical component of digital litera
     </item>
     <item>
       <title>Event Announcement: China’s Data Governance and Its Impact on U.S.-China Relations, Sept 26th at The Carter Center</title>
-      <link>http://localhost:1313/blog/2023/08/event-announcement-chinas-data-governance-and-its-impact-on-u-s-china-relations/</link>
+      <link>/blog/2023/08/event-announcement-chinas-data-governance-and-its-impact-on-u-s-china-relations/</link>
       <pubDate>Tue, 29 Aug 2023 10:50:24 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2023/08/event-announcement-chinas-data-governance-and-its-impact-on-u-s-china-relations/</guid>
+      <guid>/blog/2023/08/event-announcement-chinas-data-governance-and-its-impact-on-u-s-china-relations/</guid>
       <description>&lt;p&gt;&lt;strong&gt;We are pleased to announce an upcoming hybrid symposium titled &amp;ldquo;China’s Data Governance and Its Impact on U.S.-China Relations&amp;rdquo; organized by The Carter Center, Emory University, China Research Center, Georgia State University, and Spellman College. &lt;/strong&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;/h3&gt;
 &lt;h3&gt;Event Details:&lt;/h3&gt;
@@ -194,7 +194,7 @@ The relationship between the United States and China is currently facing signifi
 &lt;li&gt;&lt;a href=&#34;https://www.brookings.edu/people/jamie-horsley/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Jamie Horsley&lt;/strong&gt;&lt;/a&gt;, Senior Fellow, Paul Tsai China Center at Yale Law School | &lt;span class=&#34;expert-title h5 md:h3&#34;&gt;John L. Thornton China Center at &lt;/span&gt;Brookings Institution&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://www.aynnekokas.com/aboutme&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Aynne Kokas&lt;/a&gt;&lt;/strong&gt;, C.K. Yen Professor at the Miller Center and Associate Professor of Media Studies, University of Virginia&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.mariarepnikova.com/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Maria Repnikova&lt;/strong&gt;&lt;/a&gt;, Associate Professor in Global Communication, Georgia State University&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/about/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Keren Wang&lt;/strong&gt;&lt;/a&gt;, ACLS Emerging Voices Fellow, Emory University Department of Russian and East Asian Languages and Cultures&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/about/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Keren Wang&lt;/strong&gt;&lt;/a&gt;, ACLS Emerging Voices Fellow, Emory University Department of Russian and East Asian Languages and Cultures&lt;/li&gt;
 &lt;/ul&gt;
 The symposium is being convened by &lt;strong&gt;&lt;a href=&#34;https://www.cartercenter.org/about/experts/yawei_liu.html&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;Dr. Yawei Liu&lt;/a&gt;&lt;/strong&gt;, Senior Advisor on China at The Carter Center and Dr. Keren Wang of Emory University Department of Russian and East Asian Languages and Cultures
 &lt;h5&gt;&lt;/h5&gt;

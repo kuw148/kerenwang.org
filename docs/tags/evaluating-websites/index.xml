@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Evaluating Websites on Keren Wang</title>
-    <link>http://localhost:1313/tags/evaluating-websites/</link>
+    <link>/tags/evaluating-websites/</link>
     <description>Recent content in Evaluating Websites on Keren Wang</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 20 Oct 2024 17:59:23 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/evaluating-websites/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/evaluating-websites/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Argumentation - Digital Literacy in Argumentation</title>
-      <link>http://localhost:1313/teaching/2024/10/argumentation-lesson-evaluating-evidence-and-online-sources-scom-2710/</link>
+      <link>/teaching/2024/10/argumentation-lesson-evaluating-evidence-and-online-sources-scom-2710/</link>
       <pubDate>Sun, 20 Oct 2024 17:59:23 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/2024/10/argumentation-lesson-evaluating-evidence-and-online-sources-scom-2710/</guid>
+      <guid>/teaching/2024/10/argumentation-lesson-evaluating-evidence-and-online-sources-scom-2710/</guid>
       <description>&lt;header&gt;
 &lt;h1&gt;Digital Literacy in Argumentation&lt;/h1&gt;
 SCOM 2710 Argumentation Lesson, Posted by Keren Wang, updated 2024
 &lt;/header&gt;&lt;section id=&#34;overview&#34;&gt;
 &lt;h2&gt;Overview&lt;/h2&gt;
 This week we will be focusing on understanding and evaluating evidence, a crucial aspect of constructing persuasive arguments. It explains how evidence interacts with values, and presents general tests for assessing the quality of evidence. We will also be learning how to locate and evaluate various sources of evidence, guiding you on choosing reliable information from books, periodicals, websites, and more. The chapter emphasizes the importance of digital literacy and critical evaluation of different types of sources.
-&lt;figure&gt;&lt;img alt=&#34;Ad Fontes Media Bias Chart 6.0&#34; src=&#34;http://localhost:1313/images/external/upload-wikimedia-org/wikipedia/commons/thumb/e/ef/Adfontesmedia.jpg/1024px-Adfontesmedia.jpg&#34; width=&#34;1024&#34;/&gt;&lt;figcaption&gt;&lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Adfontesmedia.jpg&#34;&gt;Media Bias Chart published by Ad Fontes Media, 2020. Fact-checking always lags behind the emergence of new biased sources of information.&lt;/a&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img alt=&#34;Ad Fontes Media Bias Chart 6.0&#34; src=&#34;/images/external/upload-wikimedia-org/wikipedia/commons/thumb/e/ef/Adfontesmedia.jpg/1024px-Adfontesmedia.jpg&#34; width=&#34;1024&#34;/&gt;&lt;figcaption&gt;&lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Adfontesmedia.jpg&#34;&gt;Media Bias Chart published by Ad Fontes Media, 2020. Fact-checking always lags behind the emergence of new biased sources of information.&lt;/a&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 &lt;/section&gt;
 &lt;section id=&#34;understanding-evidence&#34;&gt;
 &lt;h2&gt;Understanding Evidence&lt;/h2&gt;
@@ -32,7 +32,7 @@ Evidence is always interpreted through personal and cultural values. Here are so
 &lt;li&gt;&lt;strong&gt;Police Surveillance Technology:&lt;/strong&gt; Evidence supporting the use of facial recognition and other surveillance technology to improve public safety can be seen as a way to effectively reduce crime. On the other hand, it is interpreted by others as a serious threat to privacy and civil liberties, especially in communities that may be disproportionately targeted.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Vaccination and Public Health:&lt;/strong&gt; Evidence showing the efficacy of mandatory vaccination for school children may be interpreted as essential for public safety by some individuals, while others may view it as intrusive government overreach or distrust the pharmaceutical industry.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;figure&gt;&lt;img alt=&#34;Robotic Sculpture at MIT Media Lab (photo by Keren Wang 2015)&#34; src=&#34;http://localhost:1313/images/uploads/2024/10/Robotic-Sculpture-at-MIT-Media-Lab-photo-by-Keren-Wang-2015.jpg&#34;/&gt;&lt;figcaption&gt;Evidence that suggests a major breakthrough in general artificial intelligence may be seen either as a major technological advancement or as ethically problematic depending on the individual&#39;s values.&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img alt=&#34;Robotic Sculpture at MIT Media Lab (photo by Keren Wang 2015)&#34; src=&#34;/images/uploads/2024/10/Robotic-Sculpture-at-MIT-Media-Lab-photo-by-Keren-Wang-2015.jpg&#34;/&gt;&lt;figcaption&gt;Evidence that suggests a major breakthrough in general artificial intelligence may be seen either as a major technological advancement or as ethically problematic depending on the individual&#39;s values.&lt;/figcaption&gt;&lt;/figure&gt;
 &lt;/section&gt;
 &lt;section id=&#34;general-tests&#34;&gt;
 &lt;h2&gt;General Tests of Evidence&lt;/h2&gt;

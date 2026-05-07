@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Teaching on Keren Wang</title>
-    <link>http://localhost:1313/tags/teaching/</link>
+    <link>/tags/teaching/</link>
     <description>Recent content in Teaching on Keren Wang</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 17 Nov 2025 14:18:43 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/teaching/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>&#34;What Is AI?&#34; Part 1: A Survey of Imaginaries, Mythologies, and Rhetorical Structures of Thinking Machines</title>
-      <link>http://localhost:1313/blog/2025/11/a-survey-of-imaginaries-mythologies-and-rhetorical-structures-of-thinking-machines-part-1/</link>
+      <link>/blog/2025/11/a-survey-of-imaginaries-mythologies-and-rhetorical-structures-of-thinking-machines-part-1/</link>
       <pubDate>Mon, 17 Nov 2025 14:18:43 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2025/11/a-survey-of-imaginaries-mythologies-and-rhetorical-structures-of-thinking-machines-part-1/</guid>
+      <guid>/blog/2025/11/a-survey-of-imaginaries-mythologies-and-rhetorical-structures-of-thinking-machines-part-1/</guid>
       <description>&lt;p&gt;&lt;strong&gt;&lt;span style=&#34;color: #cc99ff;&#34;&gt;&lt;em&gt;*Online lesson module and WIP chapter draft.&lt;/em&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;h2&gt;&lt;span style=&#34;color: #00ffff;&#34;&gt;Table of Contents&lt;/span&gt;&lt;/h2&gt;
 &lt;nav id=&#34;toc&#34;&gt;
@@ -32,9 +32,9 @@
     </item>
     <item>
       <title>Free Speech and Communication Rights</title>
-      <link>http://localhost:1313/blog/2025/11/free-speech-and-communication-rights/</link>
+      <link>/blog/2025/11/free-speech-and-communication-rights/</link>
       <pubDate>Mon, 03 Nov 2025 04:41:42 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2025/11/free-speech-and-communication-rights/</guid>
+      <guid>/blog/2025/11/free-speech-and-communication-rights/</guid>
       <description>&lt;div class=&#34;scom2050-lesson&#34; style=&#34;font-family: system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif; line-height: 1.55; max-width: 880px; margin: 0 auto;&#34;&gt;
 &lt;header class=&#34;hero&#34;&gt;
 &lt;div class=&#34;hero-inner&#34;&gt;
@@ -83,7 +83,7 @@
 &lt;/table&gt;
 &lt;div class=&#34;grid&#34;&gt;
 &lt;div class=&#34;toc&#34;&gt;&lt;/div&gt;
-&lt;img alt=&#34;&#34; class=&#34;aligncenter size-full wp-image-1188&#34; height=&#34;376&#34; src=&#34;http://localhost:1313/images/uploads/2025/11/Free-Expression-header.gif&#34; width=&#34;680&#34;/&gt;
+&lt;img alt=&#34;&#34; class=&#34;aligncenter size-full wp-image-1188&#34; height=&#34;376&#34; src=&#34;/images/uploads/2025/11/Free-Expression-header.gif&#34; width=&#34;680&#34;/&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/header&gt;&lt;main class=&#34;wrap&#34;&gt;&lt;!-- Foundations --&gt;&lt;/main&gt;&lt;section id=&#34;foundations&#34;&gt;
@@ -153,7 +153,7 @@ The First Amendment’s promise of free expression has never fully insulated the
 &lt;tr&gt;
 &lt;td style=&#34;width: 100%;&#34;&gt; 
 &lt;figure&gt;
-  &lt;img alt=&#34;&#34; class=&#34;size-full wp-image-1189&#34; height=&#34;1211&#34; src=&#34;http://localhost:1313/images/uploads/2025/11/Free-Expression-A-November-1950-Central-Intelligence-Agency-map-of-dissident-activities-in-Indochina_the-Pentagon-Papers.png&#34; width=&#34;800&#34;/&gt;
+  &lt;img alt=&#34;&#34; class=&#34;size-full wp-image-1189&#34; height=&#34;1211&#34; src=&#34;/images/uploads/2025/11/Free-Expression-A-November-1950-Central-Intelligence-Agency-map-of-dissident-activities-in-Indochina_the-Pentagon-Papers.png&#34; width=&#34;800&#34;/&gt;
   &lt;figcaption&gt;&lt;span style=&#34;color: #993300;&#34;&gt;A declassified Central Intelligence Agency map from November 1950 depicting dissident activity in Indochina, later published by The New York Times as part of the Pentagon Papers series. &lt;span style=&#34;font-size: 10pt;&#34;&gt;Source: Central Intelligence Agency, Public domain, via Wikimedia Commons &amp;lt;https://commons.wikimedia.org/wiki/File:Dissident_Activities_in_Indochina.svg&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -176,7 +176,7 @@ The First Amendment’s promise of free expression has never fully insulated the
 &lt;strong&gt;&lt;span style=&#34;color: #ffff99;&#34;&gt;The First Amendment protects not only agreeable or accurate speech but also expression that is false, unsettling, or offensive&lt;/span&gt;,&lt;/strong&gt; so long as it does not cross into one of the legally defined unprotected categories.
 &lt;p&gt;For instance, most &lt;strong data-end=&#34;441&#34; data-start=&#34;421&#34;&gt;&lt;span style=&#34;color: #ffff99;&#34;&gt;false statements&lt;/span&gt; &lt;/strong&gt;(or the &amp;ldquo;right to lie&amp;rdquo;) are &lt;strong&gt;protected&lt;/strong&gt; as long as they do not amount to defamation, perjury, or professional malpractice. The Supreme Court made this point explicit in &lt;em data-end=&#34;624&#34; data-start=&#34;598&#34;&gt;United States v. Alvarez&lt;/em&gt; (2012), when it struck down the Stolen Valor Act, which had criminalized falsely claiming military honors. The Court reasoned that the government cannot impose blanket bans on lies without threatening the broader freedom to engage in activities intrinsic to public discourse and self-expression. [13]&lt;/p&gt;
 &lt;figure&gt;
-  &lt;img alt=&#34;&#34; class=&#34;size-full wp-image-1190&#34; height=&#34;361&#34; src=&#34;http://localhost:1313/images/uploads/2025/11/The_Progressive_H-bomb_cover.jpg&#34; width=&#34;275&#34;/&gt;
+  &lt;img alt=&#34;&#34; class=&#34;size-full wp-image-1190&#34; height=&#34;361&#34; src=&#34;/images/uploads/2025/11/The_Progressive_H-bomb_cover.jpg&#34; width=&#34;275&#34;/&gt;
   &lt;figcaption&gt;&lt;span style=&#34;color: #ffcc99;&#34;&gt;C&lt;span style=&#34;color: #ffcc00;&#34;&gt;over of the November 1979 issue of The Progressive, displaying a simplified diagram of the Teller–Ulam hydrogen bomb design— an issue the U.S. Department of Energy sought to censor on national security grounds.&lt;/span&gt;&lt;/span&gt;&lt;br/&gt;&lt;span style=&#34;color: #ffcc00; font-size: 8pt;&#34;&gt;Source: By The Progressive magazine, Fair use, https://en.wikipedia.org/w/index.php?curid=20156806&lt;/span&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;p&gt;Another recurring controversy involves the &lt;span style=&#34;color: #ffffff;&#34;&gt;publication of &lt;/span&gt;&lt;span style=&#34;color: #ffff99;&#34;&gt;&lt;strong data-end=&#34;1048&#34; data-start=&#34;983&#34;&gt;classified or sensitive government information&lt;/strong&gt;&lt;/span&gt; by journalists or private citizens. In most circumstances, the First Amendment prohibits the government from punishing the press for publishing lawfully obtained materials, even if those materials expose state secrets or political wrongdoing.&lt;/p&gt;
@@ -220,7 +220,7 @@ While the First Amendment offers broad protection for expression, it is not abso
 &lt;tr&gt;
 &lt;td style=&#34;width: 100%;&#34;&gt;
 &lt;figure&gt;
-  &lt;img alt=&#34;&#34; class=&#34;wp-image-1192 size-full&#34; height=&#34;626&#34; src=&#34;http://localhost:1313/images/uploads/2025/11/Free-Expression_IRS-Allows-Taxpayers-To-Deposit-Payments-Directly-Into-Elon-Musks-Bank-Account_Onion-June-6-2025-e1762154065529.png&#34; width=&#34;533&#34;/&gt;
+  &lt;img alt=&#34;&#34; class=&#34;wp-image-1192 size-full&#34; height=&#34;626&#34; src=&#34;/images/uploads/2025/11/Free-Expression_IRS-Allows-Taxpayers-To-Deposit-Payments-Directly-Into-Elon-Musks-Bank-Account_Onion-June-6-2025-e1762154065529.png&#34; width=&#34;533&#34;/&gt;
   &lt;figcaption&gt;&lt;span style=&#34;color: #ffcc00; font-size: 0.7rem;&#34;&gt;The Onion. “IRS Allows Taxpayers to Deposit Payments Directly into Elon Musk’s Bank Account.” The Onion, June 6, 2025. https://www.theonion.com/irs-allows-taxpayers-to-deposit-payments-directly-into-elon-musks-bank-account&lt;/span&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;p data-end=&#34;513&#34; data-start=&#34;73&#34;&gt;&lt;span style=&#34;color: #ccffff;&#34;&gt;&lt;span style=&#34;font-family: arial, helvetica, sans-serif;&#34;&gt;&lt;span style=&#34;font-size: 12pt;&#34;&gt;Although &lt;em data-end=&#34;327&#34; data-start=&#34;316&#34;&gt;The Onion&lt;/em&gt;’s June 6, 2025 article, “IRS Allows Taxpayers To Deposit Payments Directly Into Elon Musk’s Bank Account,” makes numerous false claims about the U.S. government and Elon Musk, it is a &lt;strong data-end=&#34;538&#34; data-start=&#34;510&#34;&gt;work of satire&lt;/strong&gt; and &lt;strong&gt;does not meet the legal criteria for defamation&lt;/strong&gt;. &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;font-family: arial, helvetica, sans-serif;&#34;&gt;&lt;span style=&#34;font-size: 12pt;&#34;&gt;Satirical and parodic works like &lt;em data-end=&#34;1141&#34; data-start=&#34;1130&#34;&gt;The Onion&lt;/em&gt;’s are protected precisely because they cannot reasonably be understood as stating actual facts. The publication made clear signals to its readers that the piece is humorous commentary on systemic wealth inequality, not actual news report. [16]&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
@@ -275,7 +275,7 @@ The Supreme Court’s decision in &lt;strong&gt;&lt;em data-end=&#34;2256&#34; d
 &lt;tr&gt;
 &lt;td style=&#34;width: 100%; text-align: justify;&#34;&gt;
 &lt;figure&gt;
-  &lt;img alt=&#34;&#34; class=&#34;wp-image-1196 size-full&#34; height=&#34;703&#34; src=&#34;http://localhost:1313/images/uploads/2025/11/Free-Expression_Pornhub-Notice-to-Users-Page_Screen_Nov-1-2025-e1762154138925.png&#34; width=&#34;500&#34;/&gt;
+  &lt;img alt=&#34;&#34; class=&#34;wp-image-1196 size-full&#34; height=&#34;703&#34; src=&#34;/images/uploads/2025/11/Free-Expression_Pornhub-Notice-to-Users-Page_Screen_Nov-1-2025-e1762154138925.png&#34; width=&#34;500&#34;/&gt;
   &lt;figcaption&gt;&lt;span style=&#34;color: #ffcc99; font-size: 0.8rem; font-family: terminal, monaco, monospace;&#34;&gt;Screenshot of adult video-sharing website Pornhub’s “Notice to User” page, captured on November 1, 2025. The page automatically appears when users attempt to access the site from regions subject to state-level age-verification laws. At the top of the notice, a video message features Dr. Cherie DeVille, an American licensed physician, adult film performer, and free speech advocate. In the clip, Dr. DeVille explains that recently enacted state statutes require age and identity verification before granting access to adult content. Her statement frames the measure as both a legal compliance notice and a policy commentary on the right to free expression in digital environments.&lt;/span&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;p data-end=&#34;793&#34; data-start=&#34;129&#34;&gt;&lt;span style=&#34;color: #000000; background-color: #ffff99;&#34;&gt;&lt;strong&gt;Age Verification Laws and Digital Rights&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
@@ -306,7 +306,7 @@ The Supreme Court’s decision in &lt;strong&gt;&lt;em data-end=&#34;2256&#34; d
 &lt;p data-end=&#34;1184&#34; data-start=&#34;621&#34;&gt;Examples include &lt;strong data-end=&#34;657&#34; data-start=&#34;638&#34;&gt;fraud &lt;/strong&gt;and&lt;strong data-end=&#34;657&#34; data-start=&#34;638&#34;&gt; scams&lt;/strong&gt;, where deceptive speech is used to obtain money or property through misrepresentation; the &lt;strong data-end=&#34;811&#34; data-start=&#34;749&#34;&gt;possession and distribution of child abuse material&lt;/strong&gt;, which is categorically excluded from protection because it involves the documentation of real criminal abuse; &lt;strong data-end=&#34;962&#34; data-start=&#34;923&#34;&gt;criminal solicitation or conspiracy&lt;/strong&gt;, in which language functions as the coordination or encouragement of illegal acts; and &lt;strong data-end=&#34;1111&#34; data-start=&#34;1050&#34;&gt;targeted harassment or threats of specific, imminent harm&lt;/strong&gt;, where speech directly endangers the safety of an identifiable person.&lt;/p&gt;
 &lt;p data-end=&#34;1184&#34; data-start=&#34;621&#34;&gt;In the digital age, many of these offenses increasingly manifest as forms of &lt;span style=&#34;color: #ffff99;&#34;&gt;&lt;strong&gt;cybercrime&lt;/strong&gt;&lt;/span&gt;—where speech itself becomes both the medium and mechanism of violence. [26]&lt;/p&gt;
 &lt;figure&gt;
-  &lt;img alt=&#34;&#34; class=&#34;size-full wp-image-1199&#34; height=&#34;400&#34; src=&#34;http://localhost:1313/images/uploads/2025/11/2017_Petya_cyberattack_screenshot.png&#34; width=&#34;720&#34;/&gt;
+  &lt;img alt=&#34;&#34; class=&#34;size-full wp-image-1199&#34; height=&#34;400&#34; src=&#34;/images/uploads/2025/11/2017_Petya_cyberattack_screenshot.png&#34; width=&#34;720&#34;/&gt;
   &lt;figcaption&gt;&lt;span style=&#34;font-size: 0.85rem; color: #ffcc00;&#34;&gt;Screenshot of the splash screen of the payload of the original version of&lt;strong&gt; Petya&lt;/strong&gt; – a family of ransomware that encrypts its victims&#39; hard drive and prevents their PC computers from booting. It subsequently demands that its victims to make a payment in cryptocurrency (typically Bitcoin) in order to regain access to their PCs.&lt;/span&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;p data-end=&#34;1184&#34; data-start=&#34;621&#34;&gt;An example illustrating this boundary is the case of &lt;strong data-end=&#34;1260&#34; data-start=&#34;1251&#34;&gt;Petya&lt;/strong&gt;, a family of &lt;strong&gt;ransomware&lt;/strong&gt; first identified in 2016. Petya malware encrypts the victim’s hard drive and prevents their computer from booting, displaying a ransom note demanding payment in &lt;strong&gt;cryptocurrency&lt;/strong&gt; (such as Bitcoin) to restore access. [27]&lt;/p&gt;
@@ -319,7 +319,7 @@ The Supreme Court’s decision in &lt;strong&gt;&lt;em data-end=&#34;2256&#34; d
 &lt;h2&gt;&lt;span style=&#34;color: #00ffff;&#34;&gt;5) Internet Censorship &amp;amp; Communication Rights&lt;/span&gt;&lt;/h2&gt;
 &lt;div class=&#34;cols&#34;&gt;
 &lt;div&gt;
-&lt;p&gt;As discussed in our &lt;a href=&#34;http://localhost:1313/teaching/2025/10/teaching-the-internet-the-internet-from-nuclear-hardened-networks-to-algorithmic-governmentality/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;previous lesson, the internet remains an enduring paradox&lt;/strong&gt;&lt;/a&gt;: it is both an infrastructure of free expression and a technology of control. On one level, it has democratized access to speech and empowered individuals to publish, organize, and collaborate across geographic and political boundaries. Yet the same architecture that enables open exchange also provides governments and corporations with unparalleled capacities for &lt;strong data-end=&#34;834&#34; data-start=&#34;764&#34;&gt;surveillance, behavioral manipulation, and information restriction&lt;/strong&gt;. In this way, the internet operates simultaneously as a public sphere and a system of governance—a space where freedom and regulation constantly collide.&lt;/p&gt;
+&lt;p&gt;As discussed in our &lt;a href=&#34;/teaching/2025/10/teaching-the-internet-the-internet-from-nuclear-hardened-networks-to-algorithmic-governmentality/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;previous lesson, the internet remains an enduring paradox&lt;/strong&gt;&lt;/a&gt;: it is both an infrastructure of free expression and a technology of control. On one level, it has democratized access to speech and empowered individuals to publish, organize, and collaborate across geographic and political boundaries. Yet the same architecture that enables open exchange also provides governments and corporations with unparalleled capacities for &lt;strong data-end=&#34;834&#34; data-start=&#34;764&#34;&gt;surveillance, behavioral manipulation, and information restriction&lt;/strong&gt;. In this way, the internet operates simultaneously as a public sphere and a system of governance—a space where freedom and regulation constantly collide.&lt;/p&gt;
 &lt;table style=&#34;border-collapse: collapse; width: 109.941%;&#34;&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
@@ -427,7 +427,7 @@ Together, these principles reflect the spirit of &lt;em data-end=&#34;2618&#34; 
 &lt;tr&gt;
 &lt;td style=&#34;width: 100%;&#34;&gt;
 &lt;figure&gt;
-  &lt;img alt=&#34;&#34; class=&#34;size-full wp-image-1202&#34; height=&#34;1024&#34; src=&#34;http://localhost:1313/images/uploads/2025/11/Free-Expression_Tor-Project-android-security-settings.gif&#34; width=&#34;512&#34;/&gt;
+  &lt;img alt=&#34;&#34; class=&#34;size-full wp-image-1202&#34; height=&#34;1024&#34; src=&#34;/images/uploads/2025/11/Free-Expression_Tor-Project-android-security-settings.gif&#34; width=&#34;512&#34;/&gt;
   &lt;figcaption&gt;&lt;span style=&#34;color: #ffff99;&#34;&gt;Tor Browser is available in two versions for Android—standard and alpha. Non-technical users are advised to install the standard release, which is more stable and less prone to errors. The official Tor Browser for Android can be safely downloaded from the Google Play Store, F-Droid, or the Tor Project’s official website; obtaining it from any other source poses significant security risks.&lt;/span&gt;&lt;br/&gt;&lt;span style=&#34;color: #ff9900;&#34;&gt;Source: Tor Project. Mobile Tor Manual. Last modified 2024. https://iacobus.pages.torproject.net/manual/ca/mobile-tor/&lt;/span&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;p data-end=&#34;3922&#34; data-start=&#34;3383&#34;&gt;Whereas a VPN relies on a single provider to encrypt and reroute traffic, &lt;strong data-end=&#34;3483&#34; data-start=&#34;3457&#34;&gt;&lt;span style=&#34;color: #ffff99;&#34;&gt;Tor&lt;/span&gt; &lt;/strong&gt;(also known as the Onion Router)&lt;strong data-end=&#34;3483&#34; data-start=&#34;3457&#34;&gt; -- &lt;/strong&gt;an &lt;span style=&#34;color: #ffff99;&#34;&gt;&lt;strong data-end=&#34;3483&#34; data-start=&#34;3457&#34;&gt;open source, open access &lt;/strong&gt;&lt;/span&gt;&lt;strong&gt;project&lt;/strong&gt; &lt;strong data-end=&#34;3483&#34; data-start=&#34;3457&#34;&gt;--&lt;/strong&gt; distributes this process across a &lt;strong&gt;decentralized network&lt;/strong&gt; of volunteer-run servers, or “relays.”&lt;/p&gt;
@@ -524,13 +524,13 @@ Together, these principles reflect the spirit of &lt;em data-end=&#34;2618&#34; 
     </item>
     <item>
       <title>Fake News: Concepts, Rhetorical Disruptions, and Policy Implications</title>
-      <link>http://localhost:1313/teaching/2025/10/fake-news-concepts-rhetorical-disruptions-and-policy-implications/</link>
+      <link>/teaching/2025/10/fake-news-concepts-rhetorical-disruptions-and-policy-implications/</link>
       <pubDate>Mon, 27 Oct 2025 00:26:53 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/2025/10/fake-news-concepts-rhetorical-disruptions-and-policy-implications/</guid>
+      <guid>/teaching/2025/10/fake-news-concepts-rhetorical-disruptions-and-policy-implications/</guid>
       <description>&lt;div class=&#34;scom2050-lesson&#34; style=&#34;font-family: system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif; line-height: 1.55; max-width: 880px; margin: 0 auto;&#34;&gt;
 &lt;header style=&#34;margin: 1.2rem 0 .75rem;&#34;&gt;
 &lt;p class=&#34;muted&#34; style=&#34;margin: .25rem 0 0;&#34;&gt;&lt;em&gt;&lt;strong&gt;Media, Society, and Culture&lt;/strong&gt; Lesson Module&lt;/em&gt;&lt;/p&gt;
-&lt;img alt=&#34;&#34; class=&#34;aligncenter size-full wp-image-1172&#34; height=&#34;688&#34; src=&#34;http://localhost:1313/images/uploads/2025/10/Fake-News-Header.gif&#34; width=&#34;1280&#34;/&gt;
+&lt;img alt=&#34;&#34; class=&#34;aligncenter size-full wp-image-1172&#34; height=&#34;688&#34; src=&#34;/images/uploads/2025/10/Fake-News-Header.gif&#34; width=&#34;1280&#34;/&gt;
 &lt;/header&gt;&lt;section style=&#34;margin: 1.2rem 0 1.75rem;&#34;&gt;
 &lt;h2 id=&#34;hook&#34; style=&#34;font-size: 2rem; margin-bottom: .4rem;&#34;&gt;&lt;span style=&#34;color: #ff99cc;&#34;&gt;Seeing Isn’t Believing&lt;/span&gt;&lt;/h2&gt;
 &lt;pre style=&#34;margin: 0 0 .75rem;&#34;&gt;&lt;iframe allowfullscreen=&#34;allowfullscreen&#34; frameborder=&#34;0&#34; height=&#34;288&#34; src=&#34;https://commons.wikimedia.org/wiki/File:Dictators_-_Kim_Jong-Un_by_RepresentUs.webm?embedplayer=yes&#34; width=&#34;512&#34;&gt;&lt;/iframe&gt; &lt;span style=&#34;font-size: 10pt; color: #ff99cc;&#34;&gt;RepresentUs, CC BY 3.0 &amp;lt;https://creativecommons.org/licenses/by/3.0&amp;gt;, via Wikimedia Commons: A synthetic Kim Jong Un warns Americans—evidence that our eyes/ears are no longer reliable gatekeepers.&lt;/span&gt;&lt;/pre&gt;
@@ -538,14 +538,14 @@ Together, these principles reflect the spirit of &lt;em data-end=&#34;2618&#34; 
     </item>
     <item>
       <title>Public Relations: Industry, Practices, and Democratic Implications</title>
-      <link>http://localhost:1313/teaching/2025/10/teaching-public-relations-industry-practices-and-democratic-implications/</link>
+      <link>/teaching/2025/10/teaching-public-relations-industry-practices-and-democratic-implications/</link>
       <pubDate>Mon, 20 Oct 2025 16:35:06 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/2025/10/teaching-public-relations-industry-practices-and-democratic-implications/</guid>
+      <guid>/teaching/2025/10/teaching-public-relations-industry-practices-and-democratic-implications/</guid>
       <description>&lt;p&gt;&lt;b style=&#34;color: #99ccff; font-size: 24px; font-variant-ligatures: common-ligatures; letter-spacing: 0.13333em;&#34;&gt;Posted by Keren Wang, FA 2025&lt;/b&gt;&lt;/p&gt;
 &lt;div class=&#34;wrap&#34;&gt;&lt;header&gt;
 &lt;div&gt;
 &lt;/div&gt;
-&lt;p&gt;&lt;img alt=&#34;&#34; class=&#34;aligncenter size-full wp-image-1130&#34; height=&#34;332&#34; src=&#34;http://localhost:1313/images/uploads/2025/10/Propaganda-and-Public-Relations-header.gif&#34; width=&#34;760&#34;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;&#34; class=&#34;aligncenter size-full wp-image-1130&#34; height=&#34;332&#34; src=&#34;/images/uploads/2025/10/Propaganda-and-Public-Relations-header.gif&#34; width=&#34;760&#34;/&gt;&lt;/p&gt;
 &lt;/header&gt;
 &lt;section class=&#34;stack&#34; id=&#34;sec-pr-vs-prop&#34;&gt;
 &lt;div class=&#34;card&#34;&gt;
@@ -570,9 +570,9 @@ Together, these principles reflect the spirit of &lt;em data-end=&#34;2618&#34; 
     </item>
     <item>
       <title>The Internet - from &#34;Nuclear Hardened&#34;  Networks to Algorithmic Governmentality</title>
-      <link>http://localhost:1313/teaching/2025/10/teaching-the-internet-the-internet-from-nuclear-hardened-networks-to-algorithmic-governmentality/</link>
+      <link>/teaching/2025/10/teaching-the-internet-the-internet-from-nuclear-hardened-networks-to-algorithmic-governmentality/</link>
       <pubDate>Sun, 12 Oct 2025 17:15:36 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/2025/10/teaching-the-internet-the-internet-from-nuclear-hardened-networks-to-algorithmic-governmentality/</guid>
+      <guid>/teaching/2025/10/teaching-the-internet-the-internet-from-nuclear-hardened-networks-to-algorithmic-governmentality/</guid>
       <description>&lt;section id=&#34;references&#34;&gt;
 &lt;h2&gt;References&lt;/h2&gt;
 Beck, Estee. &#34;Who Is Tracking You?: A Rhetorical Framework for Evaluating Surveillance and Privacy Practices.&#34; In &lt;i&gt;Cyber Law, Privacy, and Security: Concepts, Methodologies, Tools, and Applications&lt;/i&gt;, pp. 121-138. IGI Global, 2019.
@@ -581,9 +581,9 @@ Beck, Estee. &#34;Who Is Tracking You?: A Rhetorical Framework for Evaluating Su
     </item>
     <item>
       <title>Understanding Advertising through Consumer Psychology and Computational Rhetoric</title>
-      <link>http://localhost:1313/teaching/2025/09/understanding-advertising-through-consumer-psychology-computational-rhetoric/</link>
+      <link>/teaching/2025/09/understanding-advertising-through-consumer-psychology-computational-rhetoric/</link>
       <pubDate>Mon, 29 Sep 2025 03:44:29 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/2025/09/understanding-advertising-through-consumer-psychology-computational-rhetoric/</guid>
+      <guid>/teaching/2025/09/understanding-advertising-through-consumer-psychology-computational-rhetoric/</guid>
       <description>&lt;div&gt; &lt;/div&gt;
 &lt;!-- wp:html --&gt;
 &lt;p&gt; &lt;/p&gt;
@@ -614,7 +614,7 @@ Beck, Estee. &#34;Who Is Tracking You?: A Rhetorical Framework for Evaluating Su
 &lt;/table&gt;
 &lt;/div&gt;
 &lt;div&gt;
-&lt;h2&gt;&lt;img alt=&#34;&#34; class=&#34;aligncenter size-full wp-image-1065&#34; height=&#34;719&#34; src=&#34;http://localhost:1313/images/uploads/2025/09/Advertising-header.gif&#34; width=&#34;1280&#34;/&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;img alt=&#34;&#34; class=&#34;aligncenter size-full wp-image-1065&#34; height=&#34;719&#34; src=&#34;/images/uploads/2025/09/Advertising-header.gif&#34; width=&#34;1280&#34;/&gt;&lt;/h2&gt;
 &lt;h2 class=&#34;c17&#34; id=&#34;h.26n593d62ttq&#34;&gt;&lt;span class=&#34;c8 c29 c16&#34; style=&#34;color: #ccffff;&#34;&gt;What Do You See?&lt;/span&gt;&lt;/h2&gt;
 &lt;/div&gt;
 &lt;div&gt;
@@ -622,9 +622,9 @@ Beck, Estee. &#34;Who Is Tracking You?: A Rhetorical Framework for Evaluating Su
     </item>
     <item>
       <title>Lesson 7: Rhetorical Artifacts</title>
-      <link>http://localhost:1313/teaching/2025/09/teaching-lesson-7-rhetorical-artifacts/</link>
+      <link>/teaching/2025/09/teaching-lesson-7-rhetorical-artifacts/</link>
       <pubDate>Sun, 14 Sep 2025 21:00:04 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/2025/09/teaching-lesson-7-rhetorical-artifacts/</guid>
+      <guid>/teaching/2025/09/teaching-lesson-7-rhetorical-artifacts/</guid>
       <description>&lt;header&gt;
 &lt;p class=&#34;byline&#34;&gt;Posted by: Keren Wang&lt;/p&gt;
 &lt;p class=&#34;intro&#34;&gt;&lt;strong&gt;Before you start this lesson, please READ:&lt;/strong&gt; Berger, Arthur Asa. 2024. &lt;em data-end=&#34;247&#34; data-start=&#34;145&#34;&gt;Media and Communication Research Methods: An Introduction to Qualitative and Quantitative Approaches&lt;/em&gt;. 3rd ed. Chapter 4, “Rhetorical Analysis.” Thousand Oaks, CA: SAGE. &lt;a class=&#34;decorated-link&#34; data-end=&#34;353&#34; data-start=&#34;316&#34; href=&#34;https://doi.org/10.4135/9781071939017&#34; rel=&#34;noopener&#34; target=&#34;_new&#34;&gt;https://doi.org/10.4135/9781071939017&lt;/a&gt;.&lt;/p&gt;
@@ -636,32 +636,32 @@ What do you think of when you hear the word “&lt;strong&gt;artifact&lt;/strong
     </item>
     <item>
       <title>Introduction to a Brief History of Media</title>
-      <link>http://localhost:1313/teaching/2025/08/teaching-introduction-to-a-brief-history-of-media/</link>
+      <link>/teaching/2025/08/teaching-introduction-to-a-brief-history-of-media/</link>
       <pubDate>Mon, 25 Aug 2025 02:34:28 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/2025/08/teaching-introduction-to-a-brief-history-of-media/</guid>
+      <guid>/teaching/2025/08/teaching-introduction-to-a-brief-history-of-media/</guid>
       <description>&lt;div style=&#34;margin: 1em auto; max-width: 760px; background: #fff3cd; color: #856404; border: 1px solid #ffeeba; border-radius: 4px; padding: 0.6em 1em; font-size: 0.85em; line-height: 1.35; text-align: center;&#34;&gt;
 &lt;/div&gt;
-&lt;div class=&#34;wp-block-image&#34;&gt;&lt;img alt=&#34;&#34; class=&#34;wpa-warning wpa-image-missing-alt alignright size-full wp-image-1004&#34; data-warning=&#34;Missing alt text&#34; height=&#34;844&#34; src=&#34;http://localhost:1313/images/uploads/2025/08/SCOM2050-week-1-History-of-Media_page-0001.jpg&#34; width=&#34;1500&#34;/&gt;&lt;/div&gt;
+&lt;div class=&#34;wp-block-image&#34;&gt;&lt;img alt=&#34;&#34; class=&#34;wpa-warning wpa-image-missing-alt alignright size-full wp-image-1004&#34; data-warning=&#34;Missing alt text&#34; height=&#34;844&#34; src=&#34;/images/uploads/2025/08/SCOM2050-week-1-History-of-Media_page-0001.jpg&#34; width=&#34;1500&#34;/&gt;&lt;/div&gt;
 &lt;p&gt;We begin by asking a deceptively simple question: &lt;strong&gt;What is media?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;At its core, media is any&lt;strong&gt; technology that enables the storage, organization, transmission, and dissemination of information&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;When we hear the word today, we tend to think of “mass media” — newspapers, television, the internet — technologies that spread information rapidly across wide distances. &lt;span style=&#34;font-weight: 400;&#34;&gt;Commonly, people imagine the story of media beginning with the invention of the&lt;a href=&#34;https://en.wikipedia.org/wiki/Electrical_telegraph&#34;&gt; &lt;strong&gt;electric telegraph&lt;/strong&gt;&lt;/a&gt; in the early 19th century. But is that really where media begins?&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>MEDIA &amp; VIOLENCE - A Transnational Perspective</title>
-      <link>http://localhost:1313/blog/2025/04/media-violence-a-transnational-perspective/</link>
+      <link>/blog/2025/04/media-violence-a-transnational-perspective/</link>
       <pubDate>Mon, 14 Apr 2025 18:23:19 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2025/04/media-violence-a-transnational-perspective/</guid>
+      <guid>/blog/2025/04/media-violence-a-transnational-perspective/</guid>
       <description>&lt;p&gt;Lesson Module by Keren Wang, updated 4 Nov 2025.&lt;/p&gt;
 &lt;div class=&#34;scom2050-lesson&#34; style=&#34;font-family: system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif; line-height: 1.55; max-width: 880px; margin: 0 auto;&#34;&gt;
 &lt;p&gt;This lesson module examines the contested and ambivalent relationship between media and violence from historical and transnational perspectives.&lt;/p&gt;
-&lt;img alt=&#34;&#34; class=&#34;aligncenter size-full wp-image-927&#34; height=&#34;718&#34; src=&#34;http://localhost:1313/images/uploads/2025/04/MEDIA-VIOLENCE-a-transnational-perspective-heading.gif&#34; width=&#34;1280&#34;/&gt;
+&lt;img alt=&#34;&#34; class=&#34;aligncenter size-full wp-image-927&#34; height=&#34;718&#34; src=&#34;/images/uploads/2025/04/MEDIA-VIOLENCE-a-transnational-perspective-heading.gif&#34; width=&#34;1280&#34;/&gt;
 &lt;/div&gt;
 &lt;div class=&#34;scom2050-lesson&#34; style=&#34;font-family: system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif; line-height: 1.55; max-width: 880px; margin: 0 auto;&#34;&gt;
 &lt;h2&gt;&lt;span style=&#34;color: #00ccff;&#34;&gt;1. Violence as Ritual &amp;amp; Power: Historical and Global Perspectives&lt;/span&gt;&lt;/h2&gt;
 Let&#39;s open this session with a reference from Greek mythology: consider the telltale of Prometheus, whose theft of fire from the Olympian gods for humanity’s benefit inadvertently brought both civilization and destruction. Like Prometheus’s fire, the development of media technology simultaneously brings enlightenment and cataclysm.
 &lt;h4&gt;&lt;span style=&#34;color: #99ccff;&#34;&gt;1.1 Rhetorical Artifacts and Human Sacrifice&lt;/span&gt;&lt;/h4&gt;
-The history of the development of writing technology overlaps with the history of war propaganda and &lt;a href=&#34;http://localhost:1313/blog/2020/10/nca-2020-virtual-convention-presentation-logographic-inventions-of-violent-rituals/&#34;&gt;human sacrifice&lt;/a&gt;.&lt;sup&gt;&lt;a href=&#34;#fn1&#34;&gt;[1]&lt;/a&gt;&lt;/sup&gt; As early as the Narmer Palette, one of the earliest hieroglyphic artifacts ever found from circa 3200 BCE depicting scenes of conquest and violence:
-&lt;div class=&#34;wp-block-image&#34;&gt;&lt;img alt=&#34;&#34; class=&#34;wpa-warning wpa-image-missing-alt alignright size-large wp-image-881&#34; data-warning=&#34;Missing alt text&#34; height=&#34;537&#34; src=&#34;http://localhost:1313/images/uploads/2025/04/slide-2-1024x573.jpg&#34; width=&#34;960&#34;/&gt;&lt;/div&gt;
+The history of the development of writing technology overlaps with the history of war propaganda and &lt;a href=&#34;/blog/2020/10/nca-2020-virtual-convention-presentation-logographic-inventions-of-violent-rituals/&#34;&gt;human sacrifice&lt;/a&gt;.&lt;sup&gt;&lt;a href=&#34;#fn1&#34;&gt;[1]&lt;/a&gt;&lt;/sup&gt; As early as the Narmer Palette, one of the earliest hieroglyphic artifacts ever found from circa 3200 BCE depicting scenes of conquest and violence:
+&lt;div class=&#34;wp-block-image&#34;&gt;&lt;img alt=&#34;&#34; class=&#34;wpa-warning wpa-image-missing-alt alignright size-large wp-image-881&#34; data-warning=&#34;Missing alt text&#34; height=&#34;537&#34; src=&#34;/images/uploads/2025/04/slide-2-1024x573.jpg&#34; width=&#34;960&#34;/&gt;&lt;/div&gt;
 &lt;article class=&#34;text-token-text-primary w-full&#34; data-scroll-anchor=&#34;true&#34; data-testid=&#34;conversation-turn-18&#34; dir=&#34;auto&#34;&gt;
 &lt;div class=&#34;text-base my-auto mx-auto py-5 [--thread-content-margin:--spacing(4)] @[37rem]:[--thread-content-margin:--spacing(6)] @[70rem]:[--thread-content-margin:--spacing(12)] px-(--thread-content-margin)&#34;&gt;
 &lt;div class=&#34;[--thread-content-max-width:32rem] @[34rem]:[--thread-content-max-width:40rem] @[64rem]:[--thread-content-max-width:48rem] mx-auto flex max-w-(--thread-content-max-width) flex-1 text-base gap-4 md:gap-5 lg:gap-6 group/turn-messages focus-visible:outline-hidden&#34; tabindex=&#34;-1&#34;&gt;
@@ -675,9 +675,9 @@ The history of the development of writing technology overlaps with the history o
     </item>
     <item>
       <title>Rhetorical Methods - Ideological and Psychoanalytic Criticism</title>
-      <link>http://localhost:1313/teaching/2025/04/research-methods-lesson-notes-psychoanalytic-criticism/</link>
+      <link>/teaching/2025/04/research-methods-lesson-notes-psychoanalytic-criticism/</link>
       <pubDate>Wed, 02 Apr 2025 12:40:01 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/2025/04/research-methods-lesson-notes-psychoanalytic-criticism/</guid>
+      <guid>/teaching/2025/04/research-methods-lesson-notes-psychoanalytic-criticism/</guid>
       <description>&lt;h1&gt;&lt;/h1&gt;&lt;strong&gt;Originally posted by:&lt;/strong&gt; Keren Wang, Fall 2024
 &lt;div class=&#34;toc&#34;&gt;
 &lt;h2&gt;Table of Contents&lt;/h2&gt;
@@ -711,9 +711,9 @@ The history of the development of writing technology overlaps with the history o
     </item>
     <item>
       <title>Evaluating Online Sources</title>
-      <link>http://localhost:1313/teaching/2025/03/evaluating-online-sources/</link>
+      <link>/teaching/2025/03/evaluating-online-sources/</link>
       <pubDate>Wed, 26 Mar 2025 20:28:08 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/2025/03/evaluating-online-sources/</guid>
+      <guid>/teaching/2025/03/evaluating-online-sources/</guid>
       <description>&lt;!-- FullPage.js CSS --&gt; &lt;!-- Your font link --&gt;
 &lt;div id=&#34;fullpage&#34;&gt;
 &lt;div class=&#34;section&#34; id=&#34;section0&#34;&gt;&lt;/div&gt;
@@ -722,7 +722,7 @@ The history of the development of writing technology overlaps with the history o
 &lt;hr/&gt;
 &lt;h2 style=&#34;font-size: 32px;&#34;&gt;&lt;span style=&#34;color: #ffff99;&#34;&gt;1. OVERVIEW&lt;/span&gt;&lt;/h2&gt;
 This lesson will be focusing on understanding and evaluating evidence and information sources, a crucial aspect of constructing persuasive arguments. It explains how evidence interacts with values, and presents general tests for assessing the quality of evidence. We will also be learning how to locate and evaluate various sources of evidence, guiding you on choosing reliable information from books, periodicals, websites, and more. The chapter emphasizes the importance of digital literacy and critical evaluation of different types of sources.
-&lt;figure&gt;&lt;img alt=&#34;Ad Fontes Media Bias Chart 6.0&#34; src=&#34;http://localhost:1313/images/external/upload-wikimedia-org/wikipedia/commons/thumb/e/ef/Adfontesmedia.jpg/1024px-Adfontesmedia.jpg&#34; width=&#34;1024&#34;/&gt;&lt;figcaption&gt;&lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Adfontesmedia.jpg&#34;&gt;Media Bias Chart published by Ad Fontes Media, 2020. Fact-checking always lags behind the emergence of new biased sources of information.&lt;/a&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img alt=&#34;Ad Fontes Media Bias Chart 6.0&#34; src=&#34;/images/external/upload-wikimedia-org/wikipedia/commons/thumb/e/ef/Adfontesmedia.jpg/1024px-Adfontesmedia.jpg&#34; width=&#34;1024&#34;/&gt;&lt;figcaption&gt;&lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Adfontesmedia.jpg&#34;&gt;Media Bias Chart published by Ad Fontes Media, 2020. Fact-checking always lags behind the emergence of new biased sources of information.&lt;/a&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 &lt;/div&gt;
 &lt;!-- Section 2: Understanding Evidence --&gt;
 &lt;div class=&#34;section&#34; id=&#34;understanding-evidence&#34;&gt;
@@ -734,9 +734,9 @@ In public discourse, evidence is invariably filtered through the &#34;terminal s
     </item>
     <item>
       <title>Lesson on Data Visualization and its Misuses</title>
-      <link>http://localhost:1313/teaching/2024/11/lesson-on-data-visualization-and-its-misuses/</link>
+      <link>/teaching/2024/11/lesson-on-data-visualization-and-its-misuses/</link>
       <pubDate>Tue, 12 Nov 2024 01:05:28 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/2024/11/lesson-on-data-visualization-and-its-misuses/</guid>
+      <guid>/teaching/2024/11/lesson-on-data-visualization-and-its-misuses/</guid>
       <description>&lt;h4&gt;&lt;b&gt;Posted by Keren Wang, FA 2024&lt;/b&gt;&lt;/h4&gt;&lt;hr/&gt;
 &lt;h6&gt;&lt;b&gt;In this session, we aim to achieve several key learning objectives:&lt;/b&gt;&lt;/h6&gt;
 &lt;ul&gt;
@@ -753,39 +753,39 @@ In public discourse, evidence is invariably filtered through the &#34;terminal s
     </item>
     <item>
       <title>Argumentation - Language in Argument</title>
-      <link>http://localhost:1313/teaching/2024/10/argumentation-lesson-language-in-argument/</link>
+      <link>/teaching/2024/10/argumentation-lesson-language-in-argument/</link>
       <pubDate>Sun, 27 Oct 2024 21:16:47 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/2024/10/argumentation-lesson-language-in-argument/</guid>
+      <guid>/teaching/2024/10/argumentation-lesson-language-in-argument/</guid>
       <description>&lt;style&gt;
         body {&lt;br /&gt;            font-family: Arial, sans-serif;&lt;br /&gt;            line-height: 1.6;&lt;br /&gt;            background-color: #f4f4f4;&lt;br /&gt;            color: #333;&lt;br /&gt;            margin: 0;&lt;br /&gt;            padding: 0;&lt;br /&gt;            display: flex;&lt;br /&gt;            flex-direction: column;&lt;br /&gt;            align-items: center;&lt;br /&gt;        }&lt;br /&gt;        header {&lt;br /&gt;            text-align: center;&lt;br /&gt;            background-color: #004080;&lt;br /&gt;            color: white;&lt;br /&gt;            padding: 1em;&lt;br /&gt;            width: 100%;&lt;br /&gt;        }&lt;br /&gt;        .content {&lt;br /&gt;            width: 90%;&lt;br /&gt;            max-width: 800px;&lt;br /&gt;            margin: 20px 0;&lt;br /&gt;            padding: 1em;&lt;br /&gt;            background-color: white;&lt;br /&gt;            border-radius: 5px;&lt;br /&gt;            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);&lt;br /&gt;        }&lt;br /&gt;        h2, h3 {&lt;br /&gt;            color: #004080;&lt;br /&gt;        }&lt;br /&gt;        .section {&lt;br /&gt;            margin-bottom: 20px;&lt;br /&gt;        }&lt;br /&gt;        .example {&lt;br /&gt;            font-style: italic;&lt;br /&gt;            color: #555;&lt;br /&gt;        }&lt;br /&gt;        .image-container {&lt;br /&gt;            margin-top: 10px;&lt;br /&gt;            text-align: center;&lt;br /&gt;        }&lt;br /&gt;        .image-container img {&lt;br /&gt;            max-width: 100%;&lt;br /&gt;            height: auto;&lt;br /&gt;            border-radius: 5px;&lt;br /&gt;        }&lt;br /&gt;        .caption {&lt;br /&gt;            font-size: 0.9em;&lt;br /&gt;            color: #666;&lt;br /&gt;            margin-top: 5px;&lt;br /&gt;        }&lt;br /&gt;        .quiz {&lt;br /&gt;            margin-top: 20px;&lt;br /&gt;            padding: 1em;&lt;br /&gt;            background-color: #e6f7ff;&lt;br /&gt;            border-radius: 5px;&lt;br /&gt;            width: 100%;&lt;br /&gt;        }&lt;br /&gt;        footer {&lt;br /&gt;            margin-top: 20px;&lt;br /&gt;            padding: 1em;&lt;br /&gt;            background-color: #004080;&lt;br /&gt;            color: white;&lt;br /&gt;            text-align: center;&lt;br /&gt;            width: 100%;&lt;br /&gt;        }&lt;br /&gt;    &lt;/style&gt;
 &lt;p&gt; &lt;/p&gt;</description>
     </item>
     <item>
       <title>Lesson on Statistical Evidence</title>
-      <link>http://localhost:1313/teaching/2024/10/communication-research-methods-survey-part-2-on-sampling-and-evaluating-survey-accuracy/</link>
+      <link>/teaching/2024/10/communication-research-methods-survey-part-2-on-sampling-and-evaluating-survey-accuracy/</link>
       <pubDate>Sun, 27 Oct 2024 18:04:48 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/2024/10/communication-research-methods-survey-part-2-on-sampling-and-evaluating-survey-accuracy/</guid>
+      <guid>/teaching/2024/10/communication-research-methods-survey-part-2-on-sampling-and-evaluating-survey-accuracy/</guid>
       <description></description>
     </item>
     <item>
       <title>Lesson on Statistical Evidence - Survey and Opinion Polling</title>
-      <link>http://localhost:1313/teaching/2024/10/communication-research-methods-survey-part-1/</link>
+      <link>/teaching/2024/10/communication-research-methods-survey-part-1/</link>
       <pubDate>Sun, 27 Oct 2024 18:01:49 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/2024/10/communication-research-methods-survey-part-1/</guid>
+      <guid>/teaching/2024/10/communication-research-methods-survey-part-1/</guid>
       <description></description>
     </item>
     <item>
       <title>Argumentation - Digital Literacy in Argumentation</title>
-      <link>http://localhost:1313/teaching/2024/10/argumentation-lesson-evaluating-evidence-and-online-sources-scom-2710/</link>
+      <link>/teaching/2024/10/argumentation-lesson-evaluating-evidence-and-online-sources-scom-2710/</link>
       <pubDate>Sun, 20 Oct 2024 17:59:23 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/2024/10/argumentation-lesson-evaluating-evidence-and-online-sources-scom-2710/</guid>
+      <guid>/teaching/2024/10/argumentation-lesson-evaluating-evidence-and-online-sources-scom-2710/</guid>
       <description>&lt;header&gt;
 &lt;h1&gt;Digital Literacy in Argumentation&lt;/h1&gt;
 SCOM 2710 Argumentation Lesson, Posted by Keren Wang, updated 2024
 &lt;/header&gt;&lt;section id=&#34;overview&#34;&gt;
 &lt;h2&gt;Overview&lt;/h2&gt;
 This week we will be focusing on understanding and evaluating evidence, a crucial aspect of constructing persuasive arguments. It explains how evidence interacts with values, and presents general tests for assessing the quality of evidence. We will also be learning how to locate and evaluate various sources of evidence, guiding you on choosing reliable information from books, periodicals, websites, and more. The chapter emphasizes the importance of digital literacy and critical evaluation of different types of sources.
-&lt;figure&gt;&lt;img alt=&#34;Ad Fontes Media Bias Chart 6.0&#34; src=&#34;http://localhost:1313/images/external/upload-wikimedia-org/wikipedia/commons/thumb/e/ef/Adfontesmedia.jpg/1024px-Adfontesmedia.jpg&#34; width=&#34;1024&#34;/&gt;&lt;figcaption&gt;&lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Adfontesmedia.jpg&#34;&gt;Media Bias Chart published by Ad Fontes Media, 2020. Fact-checking always lags behind the emergence of new biased sources of information.&lt;/a&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img alt=&#34;Ad Fontes Media Bias Chart 6.0&#34; src=&#34;/images/external/upload-wikimedia-org/wikipedia/commons/thumb/e/ef/Adfontesmedia.jpg/1024px-Adfontesmedia.jpg&#34; width=&#34;1024&#34;/&gt;&lt;figcaption&gt;&lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Adfontesmedia.jpg&#34;&gt;Media Bias Chart published by Ad Fontes Media, 2020. Fact-checking always lags behind the emergence of new biased sources of information.&lt;/a&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 &lt;/section&gt;
 &lt;section id=&#34;understanding-evidence&#34;&gt;
 &lt;h2&gt;Understanding Evidence&lt;/h2&gt;
@@ -798,7 +798,7 @@ Evidence is always interpreted through personal and cultural values. Here are so
 &lt;li&gt;&lt;strong&gt;Police Surveillance Technology:&lt;/strong&gt; Evidence supporting the use of facial recognition and other surveillance technology to improve public safety can be seen as a way to effectively reduce crime. On the other hand, it is interpreted by others as a serious threat to privacy and civil liberties, especially in communities that may be disproportionately targeted.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Vaccination and Public Health:&lt;/strong&gt; Evidence showing the efficacy of mandatory vaccination for school children may be interpreted as essential for public safety by some individuals, while others may view it as intrusive government overreach or distrust the pharmaceutical industry.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;figure&gt;&lt;img alt=&#34;Robotic Sculpture at MIT Media Lab (photo by Keren Wang 2015)&#34; src=&#34;http://localhost:1313/images/uploads/2024/10/Robotic-Sculpture-at-MIT-Media-Lab-photo-by-Keren-Wang-2015.jpg&#34;/&gt;&lt;figcaption&gt;Evidence that suggests a major breakthrough in general artificial intelligence may be seen either as a major technological advancement or as ethically problematic depending on the individual&#39;s values.&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img alt=&#34;Robotic Sculpture at MIT Media Lab (photo by Keren Wang 2015)&#34; src=&#34;/images/uploads/2024/10/Robotic-Sculpture-at-MIT-Media-Lab-photo-by-Keren-Wang-2015.jpg&#34;/&gt;&lt;figcaption&gt;Evidence that suggests a major breakthrough in general artificial intelligence may be seen either as a major technological advancement or as ethically problematic depending on the individual&#39;s values.&lt;/figcaption&gt;&lt;/figure&gt;
 &lt;/section&gt;
 &lt;section id=&#34;general-tests&#34;&gt;
 &lt;h2&gt;General Tests of Evidence&lt;/h2&gt;
@@ -903,12 +903,12 @@ Evaluating the credibility of websites is a critical component of digital litera
     </item>
     <item>
       <title>Persuasion and Propaganda - Supplementary Reading on Visualizing Propaganda (Emory, FA23)</title>
-      <link>http://localhost:1313/teaching/2023/11/chn375w-persuasion-and-propaganda-supplementary-reading-on-visualizing-propaganda-fa2023-emory-university-realc/</link>
+      <link>/teaching/2023/11/chn375w-persuasion-and-propaganda-supplementary-reading-on-visualizing-propaganda-fa2023-emory-university-realc/</link>
       <pubDate>Thu, 16 Nov 2023 11:36:19 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/2023/11/chn375w-persuasion-and-propaganda-supplementary-reading-on-visualizing-propaganda-fa2023-emory-university-realc/</guid>
+      <guid>/teaching/2023/11/chn375w-persuasion-and-propaganda-supplementary-reading-on-visualizing-propaganda-fa2023-emory-university-realc/</guid>
       <description>&lt;h1&gt;&lt;b&gt;Key Concepts: Visualizing Propaganda&lt;/b&gt;&lt;/h1&gt;
 &lt;figure&gt;
-  &lt;img alt=&#34;&#34; class=&#34;wp-image-708&#34; height=&#34;290&#34; src=&#34;http://localhost:1313/images/uploads/2023/11/Antagonistic-soverignty-1024x742.jpg&#34; width=&#34;400&#34;/&gt;
+  &lt;img alt=&#34;&#34; class=&#34;wp-image-708&#34; height=&#34;290&#34; src=&#34;/images/uploads/2023/11/Antagonistic-soverignty-1024x742.jpg&#34; width=&#34;400&#34;/&gt;
   &lt;figcaption&gt;Jenne, Erin K. “Varieties of Nationalism in the Age of Covid-19.” Nationalities Papers 50, no. 1 (2022)&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;p&gt; &lt;/p&gt;
@@ -916,26 +916,26 @@ Evaluating the credibility of websites is a critical component of digital litera
     </item>
     <item>
       <title>Class slides for Social Movements and Social Change (Emory, FA23)</title>
-      <link>http://localhost:1313/teaching/2023/10/class-slides-for-social-movements-and-social-change-emory-university-fa23/</link>
+      <link>/teaching/2023/10/class-slides-for-social-movements-and-social-change-emory-university-fa23/</link>
       <pubDate>Tue, 31 Oct 2023 11:20:56 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/2023/10/class-slides-for-social-movements-and-social-change-emory-university-fa23/</guid>
+      <guid>/teaching/2023/10/class-slides-for-social-movements-and-social-change-emory-university-fa23/</guid>
       <description>&lt;p&gt;Class teaching slides for CHN 375W Chinese Political Thought at Emory University, fall 2023&lt;/p&gt;
 &lt;p&gt;Section on social movements and social change in modern China:&lt;/p&gt;
 &lt;p&gt;[gallery ids=&amp;ldquo;689,690,691,692,693,694,695,696,697,698,699,700,701,702&amp;rdquo;]&lt;/p&gt;</description>
     </item>
     <item>
       <title>Class slides - The Hundred Schools of Thought (Chinese Political Thought)</title>
-      <link>http://localhost:1313/teaching/2023/10/class-slides-for-chn375w-chinese-political-thought-propaganda-the-hundred-schools-of-thought/</link>
+      <link>/teaching/2023/10/class-slides-for-chn375w-chinese-political-thought-propaganda-the-hundred-schools-of-thought/</link>
       <pubDate>Tue, 17 Oct 2023 10:08:46 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/2023/10/class-slides-for-chn375w-chinese-political-thought-propaganda-the-hundred-schools-of-thought/</guid>
+      <guid>/teaching/2023/10/class-slides-for-chn375w-chinese-political-thought-propaganda-the-hundred-schools-of-thought/</guid>
       <description>&lt;iframe frameborder=&#34;0&#34; height=&#34;400&#34; marginheight=&#34;0&#34; marginwidth=&#34;0&#34; scrolling=&#34;no&#34; src=&#34;https://www.slideshare.net/slideshow/embed_code/key/9siPmohb1csx3H?hostedIn=slideshare&amp;amp;page=upload&#34; width=&#34;476&#34;&gt;&lt;span class=&#34;mce_SELRES_start&#34; data-mce-type=&#34;bookmark&#34; style=&#34;display: inline-block; width: 0px; overflow: hidden; line-height: 0;&#34;&gt;﻿&lt;/span&gt;&lt;/iframe&gt;
 &lt;p&gt;Class PowerPoint slides for &lt;em&gt;CHN375W: Chinese Political Thought/Propaganda (Emory University, Fall 2023)&lt;/em&gt;: covering the historical evolution and contemporary implications of &amp;ldquo;The Hundred Schools of Thought&amp;rdquo; in Chinese governance and political practices.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Persuasion and Propaganda Ancient China (chapter draft), part 2: the Hundred Schools of Thought</title>
-      <link>http://localhost:1313/blog/2021/12/persuasion-and-propaganda-ancient-china-chapter-draft-part-2-the-hundred-schools-of-thought/</link>
+      <link>/blog/2021/12/persuasion-and-propaganda-ancient-china-chapter-draft-part-2-the-hundred-schools-of-thought/</link>
       <pubDate>Fri, 03 Dec 2021 14:30:03 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2021/12/persuasion-and-propaganda-ancient-china-chapter-draft-part-2-the-hundred-schools-of-thought/</guid>
+      <guid>/blog/2021/12/persuasion-and-propaganda-ancient-china-chapter-draft-part-2-the-hundred-schools-of-thought/</guid>
       <description>&lt;h2&gt;&lt;b&gt;The Warring States and the Hundred Schools of Thought&lt;/b&gt;&lt;/h2&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;p&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;The core of classical Chinese philosophical tradition emerged during a tumultuous period of ancient Chinese history, during which the civilization transitioned from a &lt;/span&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Zhou_dynasty#Feudalism&#34;&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;decentralized feudal system&lt;/span&gt;&lt;/a&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt; into a &lt;/span&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Qin&#39;s_wars_of_unification&#34;&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;unified empire&lt;/span&gt;&lt;/a&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;. We begin this section with a brief and high-altitude overview of the historical background for those who are not familiar with ancient Chinese history. The time frame would be the &lt;/span&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Warring_States_period&#34;&gt;&lt;i&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;Chunqiu-Zhanguo&lt;/span&gt;&lt;/i&gt;&lt;/a&gt; &lt;span style=&#34;font-weight: 400;&#34;&gt;era (lit., “Periods of Spring and Autumn and the Warring States”) which lasted from c.770 to 221 BCE  &lt;/span&gt;
@@ -946,9 +946,9 @@ Evaluating the credibility of websites is a critical component of digital litera
     </item>
     <item>
       <title>Persuasion and Propaganda Ancient China (chapter draft), part 1: Pyromancy and the Invention of the Chinese Writing System</title>
-      <link>http://localhost:1313/blog/2021/10/persuasion-and-propaganda-ancient-china-chapter-draft-part-1-pyromancy-and-the-invention-of-the-chinese-writing-system/</link>
+      <link>/blog/2021/10/persuasion-and-propaganda-ancient-china-chapter-draft-part-1-pyromancy-and-the-invention-of-the-chinese-writing-system/</link>
       <pubDate>Fri, 01 Oct 2021 17:14:32 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2021/10/persuasion-and-propaganda-ancient-china-chapter-draft-part-1-pyromancy-and-the-invention-of-the-chinese-writing-system/</guid>
+      <guid>/blog/2021/10/persuasion-and-propaganda-ancient-china-chapter-draft-part-1-pyromancy-and-the-invention-of-the-chinese-writing-system/</guid>
       <description>&lt;h1&gt;&lt;b&gt;Persuasion and Propaganda Ancient China &lt;/b&gt;&lt;/h1&gt;
 &lt;h2&gt;&lt;b&gt;（chapter draft, part 1）&lt;/b&gt;&lt;/h2&gt;
  

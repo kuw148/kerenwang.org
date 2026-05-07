@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Polling on Keren Wang</title>
-    <link>http://localhost:1313/tags/polling/</link>
+    <link>/tags/polling/</link>
     <description>Recent content in Polling on Keren Wang</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 27 Oct 2024 18:01:49 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/polling/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/polling/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lesson on Statistical Evidence - Survey and Opinion Polling</title>
-      <link>http://localhost:1313/teaching/2024/10/communication-research-methods-survey-part-1/</link>
+      <link>/teaching/2024/10/communication-research-methods-survey-part-1/</link>
       <pubDate>Sun, 27 Oct 2024 18:01:49 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/2024/10/communication-research-methods-survey-part-1/</guid>
+      <guid>/teaching/2024/10/communication-research-methods-survey-part-1/</guid>
       <description></description>
     </item>
   </channel>
