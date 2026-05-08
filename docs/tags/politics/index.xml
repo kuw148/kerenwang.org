@@ -2,17 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Politics on Keren Wang</title>
-    <link>/tags/politics/</link>
+    <link>https://kerenwang.org/tags/politics/</link>
     <description>Recent content in Politics on Keren Wang</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <copyright>2015–2026 Keren Wang. All rights reserved.
+Non-commercial educational use with attribution is permitted for classroom and scholarly purposes. No portion of this material may be reproduced, adapted, or distributed for commercial purposes — including incorporation into AI/ML training datasets — without the express written permission of the author.
+For permission requests, contact: contact@kerenwang.org</copyright>
     <lastBuildDate>Tue, 31 Oct 2023 11:20:56 +0000</lastBuildDate>
-    <atom:link href="/tags/politics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kerenwang.org/tags/politics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Class slides for Social Movements and Social Change (Emory, FA23)</title>
-      <link>/teaching/2023/10/class-slides-for-social-movements-and-social-change-emory-university-fa23/</link>
+      <link>https://kerenwang.org/teaching/2023/10/class-slides-for-social-movements-and-social-change-emory-university-fa23/</link>
       <pubDate>Tue, 31 Oct 2023 11:20:56 +0000</pubDate>
-      <guid>/teaching/2023/10/class-slides-for-social-movements-and-social-change-emory-university-fa23/</guid>
+      <guid>https://kerenwang.org/teaching/2023/10/class-slides-for-social-movements-and-social-change-emory-university-fa23/</guid>
       <description>&lt;p&gt;Class teaching slides for CHN 375W Chinese Political Thought at Emory University, fall 2023&lt;/p&gt;
 &lt;p&gt;Section on social movements and social change in modern China:&lt;/p&gt;
 &lt;p&gt;[gallery ids=&amp;ldquo;689,690,691,692,693,694,695,696,697,698,699,700,701,702&amp;rdquo;]&lt;/p&gt;</description>
