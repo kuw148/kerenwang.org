@@ -1,0 +1,181 @@
+{{/* Custom footer extension — runs JavaScript at end of page to:
+     1. Ensure all in-page anchor links scroll smoothly to their targets,
+        even when targets are <section> elements rather than headings.
+     2. Apply the .has-drop-cap class to the first substantial paragraph
+        of single posts that don't already have one.
+     3. Backfill heading IDs based on text content so the PaperMod
+        sidebar TOC navigates correctly even for raw-HTML headings. */}}
+
+<script>
+(function() {
+    'use strict';
+
+    /* ----------------------------------------------------------------
+       Utility: convert text to a slug ID (matches Hugo's behavior
+       closely enough for our purposes).
+       ---------------------------------------------------------------- */
+    function slugify(text) {
+        return text
+            .toLowerCase()
+            .replace(/[\u00A0\s]+/g, '-')
+            .replace(/[^\w\-]+/g, '')
+            .replace(/--+/g, '-')
+            .replace(/^-|-$/g, '');
+    }
+
+    /* ----------------------------------------------------------------
+       1. Backfill heading IDs from PaperMod's auto-generated TOC.
+          Hugo's sidebar TOC may target IDs that don't exist on raw HTML
+          headings; match by text content and assign.
+       ---------------------------------------------------------------- */
+    function backfillHeadingIds() {
+        var tocLinks = document.querySelectorAll(
+            'nav#TableOfContents a[href^="#"], ' +
+            '.toc a[href^="#"], ' +
+            'details.toc a[href^="#"]'
+        );
+        if (tocLinks.length === 0) return;
+
+        var headings = Array.prototype.slice.call(
+            document.querySelectorAll(
+                '.post-content h1, .post-content h2, .post-content h3, ' +
+                '.post-content h4, .post-content h5, .post-content h6'
+            )
+        );
+
+        tocLinks.forEach(function(link) {
+            var href = link.getAttribute('href');
+            if (!href || href === '#') return;
+            var targetId = decodeURIComponent(href.substring(1));
+            if (!targetId || document.getElementById(targetId)) return;
+
+            var linkText = link.textContent.trim();
+            for (var i = 0; i < headings.length; i++) {
+                if (headings[i].textContent.trim() === linkText && !headings[i].id) {
+                    headings[i].id = targetId;
+                    break;
+                }
+            }
+        });
+
+        // Backup: ensure every heading has some ID
+        headings.forEach(function(h) {
+            if (!h.id) {
+                var id = slugify(h.textContent);
+                if (id) h.id = id;
+            }
+        });
+    }
+
+    /* ----------------------------------------------------------------
+       2. Smooth scrolling for ALL in-page anchor clicks. This handles
+          both PaperMod's sidebar TOC and any in-post navigation links
+          (e.g., the hand-built TOCs inside teaching posts that target
+          <section id="..."> elements rather than headings).
+
+          We compute the offset manually and call window.scrollTo, which
+          is more reliable across browsers than relying on CSS
+          scroll-padding-top alone.
+       ---------------------------------------------------------------- */
+    function attachAnchorScroll() {
+        var HEADER_OFFSET = 80;
+
+        document.addEventListener('click', function(e) {
+            var link = e.target.closest('a[href^="#"]');
+            if (!link) return;
+            var href = link.getAttribute('href');
+            if (!href || href === '#') return;
+
+            var targetId = decodeURIComponent(href.substring(1));
+            if (!targetId) return;
+
+            var target = document.getElementById(targetId);
+            if (!target) return;
+
+            // Don't intercept clicks meant to open in new tabs, etc.
+            if (e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
+            if (link.target === '_blank') return;
+
+            e.preventDefault();
+
+            var rect = target.getBoundingClientRect();
+            var top = rect.top + window.pageYOffset - HEADER_OFFSET;
+
+            window.scrollTo({
+                top: top,
+                behavior: 'smooth'
+            });
+
+            // Update the URL hash without triggering another scroll
+            if (history.replaceState) {
+                history.replaceState(null, '', '#' + targetId);
+            }
+        });
+    }
+
+    /* ----------------------------------------------------------------
+       3. Smart drop cap: apply .has-drop-cap to the first paragraph
+          of substantial body text. Skips:
+             - Posts that already have an explicit .has-drop-cap (honor
+               WordPress's intent)
+             - Empty paragraphs (those containing only HTML comments,
+               whitespace, or invisible markup)
+             - Bylines (paragraphs whose first child is a large-bold
+               element styled like a heading)
+             - Short paragraphs under 80 characters (likely metadata
+               or one-line notes rather than body prose)
+       ---------------------------------------------------------------- */
+    function applySmartDropCap() {
+        var posts = document.querySelectorAll('.post-single .post-content');
+        posts.forEach(function(post) {
+            // If WordPress already marked one, leave it alone
+            if (post.querySelector('p.has-drop-cap')) return;
+
+            // Walk through paragraphs in document order, including those
+            // inside top-level wrappers like <div class="wrap">.
+            var paragraphs = post.querySelectorAll('p');
+            for (var i = 0; i < paragraphs.length; i++) {
+                var p = paragraphs[i];
+                var text = p.textContent.trim();
+
+                // Skip empty or near-empty paragraphs
+                if (text.length < 80) continue;
+
+                // Skip paragraphs that look like bylines/metadata
+                if (/^Posted by /i.test(text)) continue;
+                if (/^Lecture by /i.test(text)) continue;
+                if (/^Published in /i.test(text)) continue;
+
+                // Skip if the paragraph's first child is a styled "heading-like"
+                // element — heuristic: a <b> or <strong> with explicit large font.
+                var firstChild = p.firstElementChild;
+                if (firstChild) {
+                    var style = firstChild.getAttribute('style') || '';
+                    if (/font-size:\s*(?:[2-9]\d|[0-9]+pt|[1-9]\.\d+em|[1-9]rem)/i.test(style)) {
+                        continue;
+                    }
+                }
+
+                // Found it — mark this paragraph for the drop cap
+                p.classList.add('has-drop-cap');
+                break;
+            }
+        });
+    }
+
+    /* ----------------------------------------------------------------
+       Run everything once the DOM is ready.
+       ---------------------------------------------------------------- */
+    function init() {
+        backfillHeadingIds();
+        applySmartDropCap();
+        attachAnchorScroll();
+    }
+
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', init);
+    } else {
+        init();
+    }
+})();
+</script>

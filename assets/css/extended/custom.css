@@ -1,0 +1,395 @@
+/* =====================================================================
+   Keren Wang site overrides — v4
+   Loaded automatically by PaperMod from assets/css/extended/
+   ===================================================================== */
+
+/* ---------------------------------------------------------------------
+   1. Typography
+   --------------------------------------------------------------------- */
+
+:root {
+    --font-serif:
+        "Sitka Text",
+        Charter,
+        "Bitstream Charter",
+        "Iowan Old Style",
+        "Source Serif Pro",
+        "Source Serif 4",
+        "Cambria",
+        "Times New Roman",
+        Georgia,
+        serif;
+    --font-sans:
+        -apple-system,
+        BlinkMacSystemFont,
+        "Segoe UI",
+        Roboto,
+        "Helvetica Neue",
+        Arial,
+        sans-serif;
+}
+
+body,
+.post-content,
+.post-content p,
+.post-content li,
+.post-content blockquote,
+.post-title,
+h1, h2, h3, h4, h5, h6,
+.entry-header,
+.entry-hint,
+.first-entry,
+.archive-title,
+.archive-month-header,
+.terms-tags a,
+.archive-entry-title {
+    font-family: var(--font-serif);
+}
+
+body,
+.post-content {
+    font-size: 1.05rem;
+    line-height: 1.7;
+}
+
+.menu a,
+.menu .active,
+.logo a,
+.footer,
+.post-meta,
+.entry-footer,
+.toc summary,
+.breadcrumbs,
+.nav,
+.share-buttons,
+.read-more {
+    font-family: var(--font-sans);
+}
+
+code, pre, kbd, samp {
+    font-family: ui-monospace, "SF Mono", Menlo, Consolas,
+                 "Liberation Mono", monospace;
+}
+
+
+/* ---------------------------------------------------------------------
+   2. Layout width
+   --------------------------------------------------------------------- */
+
+:root {
+    --main-width: clamp(720px, 92vw, 1280px);
+    --content-gap: 30px;
+}
+
+.main {
+    max-width: var(--main-width) !important;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.nav, .header {
+    max-width: var(--main-width) !important;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.post-content {
+    max-width: min(75ch, 100%);
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@media (min-width: 1200px) {
+    .post-content {
+        max-width: none;
+        margin-right: 320px;
+    }
+}
+
+@media (max-width: 768px) {
+    .main {
+        max-width: 100% !important;
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+    .post-content {
+        max-width: 100%;
+    }
+}
+
+
+/* ---------------------------------------------------------------------
+   3. WordPress legacy color cleanup
+   --------------------------------------------------------------------- */
+
+.post-content [style*="color"],
+.post-content span[style],
+.post-content font[color],
+.post-content p[style*="color"],
+.post-content div[style*="color"] {
+    color: var(--primary) !important;
+}
+
+.post-content [style*="background-color"]:not(code):not(pre):not(mark) {
+    background-color: transparent !important;
+}
+
+
+/* ---------------------------------------------------------------------
+   4. Images and figures
+   --------------------------------------------------------------------- */
+
+.post-content figure,
+.post-content .wp-caption,
+.post-content [class*="wp-block-image"] {
+    max-width: 100% !important;
+    width: auto !important;
+    height: auto !important;
+    margin: 1.75em auto !important;
+}
+
+.post-content img,
+.post-content figure img,
+.post-content .wp-caption img {
+    max-width: 100%;
+    height: auto !important;
+    width: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+.post-content figcaption,
+.post-content .wp-caption-text {
+    text-align: center;
+    font-size: 0.9em;
+    color: var(--secondary);
+    font-style: italic;
+    margin: 0.6em auto 0;
+    max-width: 90%;
+    line-height: 1.45;
+}
+
+
+/* ---------------------------------------------------------------------
+   5. <pre> text wrapping fix
+   --------------------------------------------------------------------- */
+
+/* WordPress's editor sometimes wraps long paragraphs in <pre> tags,
+   which by default render as one impossibly long unwrapped line. Force
+   wrapping for all <pre> in post content. */
+.post-content pre {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    max-width: 100%;
+    font-family: var(--font-serif);  /* prose-in-pre should look like prose */
+    font-size: 1em;
+    line-height: 1.6;
+    background: var(--code-bg);
+    padding: 1em 1.25em;
+    border-radius: 4px;
+    margin: 1.5em 0;
+}
+
+/* Genuine code blocks: revert to normal monospace pre formatting and
+   horizontal scroll. PaperMod wraps actual code in .highlight or
+   includes <code> as a direct child of <pre>. */
+.post-content .highlight pre,
+.post-content pre:has(> code) {
+    white-space: pre;
+    overflow-x: auto;
+    font-family: ui-monospace, "SF Mono", Menlo, Consolas,
+                 "Liberation Mono", monospace;
+}
+
+
+/* ---------------------------------------------------------------------
+   6. Drop cap
+   --------------------------------------------------------------------- */
+
+.post-single .post-content p.has-drop-cap::first-letter {
+    float: left;
+    font-family: var(--font-serif);
+    font-size: 4.5em;
+    line-height: 0.82;
+    font-weight: 700;
+    color: var(--primary);
+    margin: 0.04em 0.1em 0 0;
+    padding: 0;
+}
+
+
+/* ---------------------------------------------------------------------
+   7. Table of contents
+   --------------------------------------------------------------------- */
+
+@media (min-width: 1200px) {
+    .toc {
+        position: sticky;
+        top: 80px;
+        max-height: calc(100vh - 100px);
+        overflow-y: auto;
+        float: right;
+        width: 280px;
+        margin-left: 2em;
+        margin-bottom: 1.5em;
+        padding: 1em 1.25em;
+        font-size: 0.92em;
+        background: var(--code-bg);
+        border-left: 3px solid var(--border);
+        border-radius: 4px;
+    }
+
+    .toc summary {
+        font-weight: 600;
+        cursor: pointer;
+        font-family: var(--font-sans);
+    }
+
+    .toc ul {
+        padding-left: 1.25em;
+        margin: 0.5em 0;
+    }
+
+    .toc li {
+        margin: 0.4em 0;
+        line-height: 1.45;
+    }
+
+    .toc a {
+        text-decoration: none;
+        color: var(--secondary);
+    }
+
+    .toc a:hover {
+        color: var(--primary);
+        text-decoration: underline;
+    }
+}
+
+html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 80px;
+}
+
+
+/* ---------------------------------------------------------------------
+   8. Misc readability polish
+   --------------------------------------------------------------------- */
+
+.post-content blockquote {
+    border-left: 3px solid var(--border);
+    padding-left: 1.25em;
+    margin-left: 0;
+    color: var(--secondary);
+    font-style: italic;
+}
+
+.post-content table {
+    border-collapse: collapse;
+    margin: 1.75em auto;
+    max-width: 100%;
+}
+
+.post-content th,
+.post-content td {
+    border: 1px solid var(--border);
+    padding: 0.5em 0.75em;
+}
+
+.post-content th {
+    background: var(--code-bg);
+    font-family: var(--font-sans);
+    font-weight: 600;
+}
+
+.post-content h2 {
+    margin-top: 2em;
+    margin-bottom: 0.6em;
+    font-weight: 700;
+    line-height: 1.25;
+}
+
+.post-content h3 {
+    margin-top: 1.6em;
+    margin-bottom: 0.5em;
+    font-weight: 600;
+    line-height: 1.3;
+}
+
+.post-content a {
+    text-decoration-thickness: 1px;
+    text-underline-offset: 2px;
+}
+
+.post-content p:empty {
+    display: none;
+}
+
+
+/* ---------------------------------------------------------------------
+   9. Highlighted Posts section on the homepage
+   --------------------------------------------------------------------- */
+
+.highlighted-posts {
+    margin: 2em 0 3em;
+    padding: 1.5em 1.75em;
+    background: var(--code-bg);
+    border-left: 4px solid var(--primary);
+    border-radius: 4px;
+}
+
+.highlighted-heading {
+    font-family: var(--font-sans);
+    font-size: 0.85em;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--secondary);
+    margin: 0 0 1.25em;
+    font-weight: 600;
+}
+
+.highlighted-post {
+    margin-bottom: 1.5em;
+    padding-bottom: 1.25em;
+    border-bottom: 1px solid var(--border);
+}
+
+.highlighted-post:last-child {
+    margin-bottom: 0;
+    padding-bottom: 0;
+    border-bottom: none;
+}
+
+.highlighted-title {
+    margin: 0 0 0.3em;
+    font-size: 1.2em;
+    line-height: 1.3;
+    font-family: var(--font-serif);
+    font-weight: 700;
+}
+
+.highlighted-title a {
+    text-decoration: none;
+    color: var(--primary);
+}
+
+.highlighted-title a:hover {
+    text-decoration: underline;
+}
+
+.highlighted-meta {
+    font-family: var(--font-sans);
+    font-size: 0.82em;
+    color: var(--secondary);
+    margin: 0;
+}
+
+.highlighted-summary {
+    margin: 0.5em 0 0;
+    font-size: 0.95em;
+    line-height: 1.55;
+    color: var(--primary);
+}

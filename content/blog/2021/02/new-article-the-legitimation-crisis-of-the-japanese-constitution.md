@@ -1,0 +1,13 @@
+---
+title: "New Publication Announcement: The Legitimation Crisis of the Japanese Constitution - Communication Law Review"
+date: 2021-02-25T12:05:16
+slug: "new-article-the-legitimation-crisis-of-the-japanese-constitution"
+categories: ["Blog"]
+tags: ["article", "communication", "comparative", "democracy", "human rights", "Japan", "Japanese constitution", "journal", "Law", "legitimacy", "post-WWII", "publication", "rhetoric", "rhetoric of law", "transnational"]
+wp_id: 544
+---
+
+Happy to announce the publication of my co-authored article with <strong>Dr. Tomonori Teraoka</strong> - “<a href="https://commlawreview.org/Archives/CLRv20/The_Legitimation_Crisis_of_the_Japanese_Constitution.PDF">The Legitimation Crisis of the Japanese Constitution: Reflections on Japan’s Judicial Rhetoric and Its Post-WWII Constitutionalization Process</a>” - on the latest issue of<strong> <a href="https://commlawreview.org/"><em>Communication Law Review</em></a></strong>. Our article presents an interdisciplinary, multilingual collaborative effort to critically examine Japanese constitutional discourse at both domestic and transnational levels.
+
+<img alt="Keren Wang and Tomonori Teraoka, “The Legitimation Crisis of the Japanese Constitution: Reflections on Japan’s Judicial Rhetoric and Its Post-WWII Constitutionalization Process,” Communication Law Review, Volume 20, Issue 1 (2020)" class="aligncenter wp-image-545 size-large" height="383" src="/images/uploads/2021/02/legitimation-crisis-1024x577.png" width="680"/>
+<blockquote><em><strong>Abstract:</strong> Our article examines the issue of constitutional legitimacy in the post-WWII Japanese </em><em>legal system. Our analysis proceeds from the judicial rhetoric of postwar Japan, focusing </em><em>primarily on the state of judicial review and executive legislative practices throughout the </em><em>Japanese postwar constitutionalization process. The aim of our rhetorical analysis is to </em><em>identify the main points of discursive tensions as manifested in Japanese judiciary and </em><em>legislative norms. Although the postwar Japanese constitution provides a judicial review </em><em>process and separation of powers like its American counterpart, their implementation is </em><em>constrained by the legislative usurpation of the executive branch and judicial passivity of </em><em>the Japanese Supreme Court. Whereas the written language in the postwar Japanese </em><em>constitution adheres to the prevailing transnational dóxa for a democratic rule-of-law </em><em>society, we find many key constitutional elements are not internationalized within the </em><em>operational modality of Japanese judicial rhetoric.</em></blockquote>

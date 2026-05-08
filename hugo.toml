@@ -1,0 +1,105 @@
+baseURL = "https://kerenwang.org/"
+languageCode = "en-us"
+title = "Keren Wang"
+theme = "PaperMod"
+copyright = """© 2015–2026 Keren Wang. All rights reserved.<br>
+Non-commercial educational use with attribution is permitted for classroom and scholarly purposes.
+No portion of this material may be reproduced, adapted, or distributed for commercial purposes —
+including incorporation into AI/ML training datasets — without the express written permission of the author.<br>
+For permission requests, contact: <a href=\"mailto:contact@kerenwang.org\">contact@kerenwang.org</a>"""
+
+# Generate clean URLs: /blog/2025/11/post-slug/ rather than /blog/2025/11/post-slug.html
+[permalinks]
+  blog = "/blog/:year/:month/:slug/"
+  teaching = "/teaching/:year/:month/:slug/"
+
+# Pagination: number of posts per index page
+[pagination]
+  pagerSize = 15
+
+# Build settings
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+# Allow raw HTML in Markdown (your converted posts contain WordPress HTML)
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    style = "monokai"
+    lineNos = false
+
+# Site-wide parameters used by the theme
+[params]
+  env = "production"
+  description = "Research, teaching, and reflections by Keren Wang."
+  author = "Keren Wang"
+  defaultTheme = "auto"
+  disableThemeToggle = false
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = true
+  ShowRssButtonInSectionTermList = true
+  ShowToc = true
+  TocOpen = false
+  comments = false
+
+  # Site profile shown on the homepage
+  [params.profileMode]
+    enabled = false
+    title = "Keren Wang"
+    subtitle = "Faculty, Department of Communication, Georgia State University"
+    imageUrl = "/images/uploads/2025/08/profile-large.jpg"
+    imageWidth = 180
+    imageHeight = 180
+    imageTitle = "Keren Wang"
+
+  # Homepage info mode (used when profileMode is disabled)
+  [params.homeInfoParams]
+    Title = "Welcome"
+    Content = """
+Faculty in the Department of Communication at Georgia State University.
+Research and writing on rhetoric, ritual, algorithmic governance, and comparative legal-political thought.
+"""
+
+  # Asset settings
+  [params.assets]
+    disableHLJS = false
+    disableFingerprinting = false
+    favicon = "/favicon.ico"
+
+# Top navigation menu
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  url = "/about/"
+  weight = 10
+
+[[menu.main]]
+  identifier = "cv"
+  name = "CV"
+  url = "/cv/"
+  weight = 20
+
+[[menu.main]]
+  identifier = "blog"
+  name = "Blog"
+  url = "/blog/"
+  weight = 30
+
+[[menu.main]]
+  identifier = "teaching"
+  name = "Teaching"
+  url = "/teaching/"
+  weight = 40
+
+# Output formats — enable RSS for blog and teaching sections
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  section = ["HTML", "RSS"]

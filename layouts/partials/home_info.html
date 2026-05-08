@@ -1,0 +1,58 @@
+{{- /* Override of PaperMod's home_info.html partial.
+       Renders the standard welcome content first, then a "Highlighted
+       Posts" section listing posts that have `featured: true` set in
+       their front matter. Sorted by date descending (most recent first). */ -}}
+
+<article class="first-entry home-info">
+    <header class="entry-header">
+        <h1>
+            {{ .Site.Params.homeInfoParams.Title | default site.Title | markdownify }}
+            {{- with .Site.Params.homeInfoParams.HTitle }}
+                <span>{{ . | markdownify }}</span>
+            {{- end }}
+        </h1>
+    </header>
+    <div class="entry-content">
+        {{ .Site.Params.homeInfoParams.Content | markdownify }}
+    </div>
+    {{- with .Site.Params.socialIcons }}
+    <footer class="entry-footer">
+        <div class="social-icons">
+            {{- range . }}
+            <a href="{{ trim .url " " }}" target="_blank" rel="noopener noreferrer me" title="{{ (.title | default .name) | title }}">
+                {{- partial "svg.html" . -}}
+            </a>
+            {{- end }}
+        </div>
+    </footer>
+    {{- end }}
+</article>
+
+{{- /* Highlighted Posts section: any post with `featured: true` in
+       front matter. Sorted by date desc. */ -}}
+{{- $featured := where site.RegularPages "Params.featured" true }}
+{{- $featured = sort $featured "Date" "desc" }}
+{{- if $featured }}
+<section class="highlighted-posts">
+    <h2 class="highlighted-heading">Highlighted Posts</h2>
+    {{- range $featured }}
+    <article class="highlighted-post">
+        <h3 class="highlighted-title">
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        </h3>
+        <p class="highlighted-meta">
+            <time>{{ .Date.Format "January 2, 2006" }}</time>
+            {{- with .Params.categories }} &middot; {{ delimit . ", " }}{{ end }}
+        </p>
+        {{- with .Description }}
+        <p class="highlighted-summary">{{ . }}</p>
+        {{- else }}
+        {{- $summary := .Summary | plainify | truncate 220 }}
+        {{- if $summary }}
+        <p class="highlighted-summary">{{ $summary }}</p>
+        {{- end }}
+        {{- end }}
+    </article>
+    {{- end }}
+</section>
+{{- end }}
