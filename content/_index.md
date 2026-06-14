@@ -1,9 +1,6 @@
 ---
 title: "About"
-date: 2023-08-29T11:12:35
-slug: "about"
 ShowToc: false
-hidemeta: true
 ---
 
 <div style="display:flex;gap:1.5rem;align-items:flex-start;margin-bottom:1.5rem;flex-wrap:wrap;">
@@ -31,12 +28,6 @@ Visiting Scholar, Emory University<br>
 ## Highlighted Posts
 
 <section style="display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:1rem;margin-top:.5rem;">
-
-<article style="padding:.75rem;border-radius:8px;border:1px solid #ddd;">
-<h3 style="margin:.25rem 0;font-size:1rem;"><a href="/blog/2026/05/raising-the-lobster-养龙虾-token-oblation-and-the-domestication-of-the-agent/">Raising the Lobster: 养龙虾, Token Oblation, and the Domestication of the Agent</a></h3>
-<p style="margin:.25rem 0 .5rem;font-size:.9rem;">On the spring 2026 OpenClaw phenomenon and the 养 metaphor as a terministic screen for agentic AI.</p>
-<a href="/blog/2026/05/raising-the-lobster-养龙虾-token-oblation-and-the-domestication-of-the-agent/">Read more →</a>
-</article>
 
 <article style="padding:.75rem;border-radius:8px;border:1px solid #ddd;">
 <h3 style="margin:.25rem 0;font-size:1rem;"><a href="/blog/2025/08/new-research-project-artificial-intelligence-and-human-sacrifice/">New Research Project: Artificial Intelligence and Human Sacrifice</a></h3>

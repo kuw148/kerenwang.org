@@ -1107,7 +1107,7 @@ There is nothing new about public authorities using collected numerical info as 
      style=&#34;width:150px;height:150px;object-fit:cover;border-radius:6px;flex-shrink:0;&#34;&gt;
 &lt;div&gt;
 &lt;p style=&#34;margin:0 0 .5rem 0;&#34;&gt;&lt;strong&gt;Keren Wang, PhD&lt;/strong&gt;&lt;br&gt;
-Faculty, Department of Communication, Georgia State University&lt;br&gt;
+Associate Graduate Research Faculty, Department of Communication, Georgia State University&lt;br&gt;
 Visiting Scholar, Emory University&lt;br&gt;
 &lt;em&gt;&lt;a href=&#34;https://www.acls.org/fellow-grantees/keren-wang/&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;ACLS Emerging Voices Fellow (2022–2024)&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p style=&#34;margin:0;&#34;&gt;
@@ -1123,6 +1123,11 @@ Visiting Scholar, Emory University&lt;br&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;highlighted-posts&#34;&gt;Highlighted Posts&lt;/h2&gt;
 &lt;section style=&#34;display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:1rem;margin-top:.5rem;&#34;&gt;
+&lt;article style=&#34;padding:.75rem;border-radius:8px;border:1px solid #ddd;&#34;&gt;
+&lt;h3 style=&#34;margin:.25rem 0;font-size:1rem;&#34;&gt;&lt;a href=&#34;https://kerenwang.org/blog/2026/05/raising-the-lobster-养龙虾-token-oblation-and-the-domestication-of-the-agent/&#34;&gt;Raising the Lobster: 养龙虾, Token Oblation, and the Domestication of the Agent&lt;/a&gt;&lt;/h3&gt;
+&lt;p style=&#34;margin:.25rem 0 .5rem;font-size:.9rem;&#34;&gt;On the spring 2026 OpenClaw phenomenon and the 养 metaphor as a terministic screen for agentic AI.&lt;/p&gt;
+&lt;a href=&#34;https://kerenwang.org/blog/2026/05/raising-the-lobster-养龙虾-token-oblation-and-the-domestication-of-the-agent/&#34;&gt;Read more →&lt;/a&gt;
+&lt;/article&gt;
 &lt;article style=&#34;padding:.75rem;border-radius:8px;border:1px solid #ddd;&#34;&gt;
 &lt;h3 style=&#34;margin:.25rem 0;font-size:1rem;&#34;&gt;&lt;a href=&#34;https://kerenwang.org/blog/2025/08/new-research-project-artificial-intelligence-and-human-sacrifice/&#34;&gt;New Research Project: Artificial Intelligence and Human Sacrifice&lt;/a&gt;&lt;/h3&gt;
 &lt;p style=&#34;margin:.25rem 0 .5rem;font-size:.9rem;&#34;&gt;This series will share work-in-progress manuscript draft as I develop the project into a full-length monograph. In the months ahead, I will trace how sacrificial rationalities persist, adapt, and become reconfigured in our algorithmic age.&lt;/p&gt;</description>
@@ -1540,7 +1545,7 @@ The symposium is being convened by &lt;strong&gt;&lt;a href=&#34;https://www.car
 &lt;/script&gt;
 &lt;!-- /wp:html --&gt;
 &lt;h2&gt;&lt;strong&gt;ABOUT ME:&lt;/strong&gt;&lt;/h2&gt;
-&lt;p data-pm-slice=&#34;1 1 []&#34;&gt;As a scholar, my research and teaching traverse the intersections of rhetorical theory, transnational legal studies, and political communication, interrogating the symbolic and discursive underpinnings of contemporary governance. My monograph, &lt;a href=&#34;https://id.lib.harvard.edu/alma/99153820005603941/catalog&#34;&gt;&lt;strong&gt;&lt;em&gt;Legal and Rhetorical Foundations of Economic Globalization: &lt;/em&gt;&lt;/strong&gt;&lt;em&gt;An Atlas of Ritual Sacrifice in Late-Capitalism&lt;/em&gt;&lt;/a&gt; (Routledge, 2020), examines how ritualistic frameworks render exploitative structures of the prevailing political‑economic system inescapable—or even preferable—offering an interdisciplinary critical lens on the architecture of global development.&lt;/p&gt;</description>
+&lt;p&gt;As a communication scholar, my research and teaching draw rhetorical theory, transnational legal studies, and political communication into a common analytical frame to address questions of contemporary governance and ethics. My monograph, &lt;a href=”https://id.lib.harvard.edu/alma/99153820005603941/catalog”&gt;&lt;em&gt;Legal and Rhetorical Foundations of Economic Globalization: An Atlas of Ritual Sacrifice in Late-Capitalism&lt;/em&gt;&lt;/a&gt; (Routledge, 2020), examines how ritualistic frameworks render the exploitative structures of the prevailing political-economic system inescapable—or even preferable—offering an interdisciplinary critical lens on the architecture of global development. My current research project maps how increasingly agentic “thinking machines” reshape sacrificial rationalities in governance, labor, the rule of law, and social development.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
