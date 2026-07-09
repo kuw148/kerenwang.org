@@ -30,6 +30,18 @@ Visiting Scholar, Emory University<br>
 <section style="display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:1rem;margin-top:.5rem;">
 
 <article style="padding:.75rem;border-radius:8px;border:1px solid #ddd;">
+<h3 style="margin:.25rem 0;font-size:1rem;"><a href="/blog/2026/07/archival-gravity/">Archival Gravity: How Machine Memory Inherits the World Unevenly</a></h3>
+<p style="margin:.25rem 0 .5rem;font-size:.9rem;">Notes toward <em>Artificial Intelligence and Human Sacrifice</em>: archival gravity as the structural force by which unevenly preserved, digitized, and tokenized human language bends machine memory toward some lifeworlds while rendering others thin, noisy, or mute.</p>
+<a href="/blog/2026/07/archival-gravity/">Read more →</a>
+</article>
+
+<article style="padding:.75rem;border-radius:8px;border:1px solid #ddd;">
+<h3 style="margin:.25rem 0;font-size:1rem;"><a href="/blog/2026/05/raising-the-lobster-%E5%85%BB%E9%BE%99%E8%99%BE-token-oblation-and-the-domestication-of-the-agent/">Raising the Lobster: 养龙虾, Token Oblation, and the Domestication of the Agent</a></h3>
+<p style="margin:.25rem 0 .5rem;font-size:.9rem;">On the spring 2026 OpenClaw phenomenon and the 养 metaphor as a terministic screen for agentic AI.</p>
+<a href="/blog/2026/05/raising-the-lobster-%E5%85%BB%E9%BE%99%E8%99%BE-token-oblation-and-the-domestication-of-the-agent/">Read more →</a>
+</article>
+
+<article style="padding:.75rem;border-radius:8px;border:1px solid #ddd;">
 <h3 style="margin:.25rem 0;font-size:1rem;"><a href="/blog/2025/08/new-research-project-artificial-intelligence-and-human-sacrifice/">New Research Project: Artificial Intelligence and Human Sacrifice</a></h3>
 <p style="margin:.25rem 0 .5rem;font-size:.9rem;">This series will share work-in-progress manuscript draft as I develop the project into a full-length monograph. In the months ahead, I will trace how sacrificial rationalities persist, adapt, and become reconfigured in our algorithmic age.</p>
 <a href="/blog/2025/08/new-research-project-artificial-intelligence-and-human-sacrifice/">Read more →</a>
