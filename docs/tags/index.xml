@@ -9,13 +9,69 @@
     <copyright>2015–2026 Keren Wang. All rights reserved.
 Non-commercial educational use with attribution is permitted for classroom and scholarly purposes. No portion of this material may be reproduced, adapted, or distributed for commercial purposes — including incorporation into AI/ML training datasets — without the express written permission of the author.
 For permission requests, contact: contact@kerenwang.org</copyright>
-    <lastBuildDate>Fri, 08 May 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://kerenwang.org/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI</title>
       <link>https://kerenwang.org/tags/ai/</link>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
       <guid>https://kerenwang.org/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Archival Theory</title>
+      <link>https://kerenwang.org/tags/archival-theory/</link>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://kerenwang.org/tags/archival-theory/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Artificial Intelligence and Human Sacrifice</title>
+      <link>https://kerenwang.org/tags/artificial-intelligence-and-human-sacrifice/</link>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://kerenwang.org/tags/artificial-intelligence-and-human-sacrifice/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Confucian Philosophy</title>
+      <link>https://kerenwang.org/tags/confucian-philosophy/</link>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://kerenwang.org/tags/confucian-philosophy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Digital Humanities</title>
+      <link>https://kerenwang.org/tags/digital-humanities/</link>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://kerenwang.org/tags/digital-humanities/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Language Models</title>
+      <link>https://kerenwang.org/tags/language-models/</link>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://kerenwang.org/tags/language-models/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rhetoric</title>
+      <link>https://kerenwang.org/tags/rhetoric/</link>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://kerenwang.org/tags/rhetoric/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ritual Studies</title>
+      <link>https://kerenwang.org/tags/ritual-studies/</link>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://kerenwang.org/tags/ritual-studies/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>WIP</title>
+      <link>https://kerenwang.org/tags/wip/</link>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://kerenwang.org/tags/wip/</guid>
       <description></description>
     </item>
     <item>
@@ -30,20 +86,6 @@ For permission requests, contact: contact@kerenwang.org</copyright>
       <link>https://kerenwang.org/tags/china/</link>
       <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
       <guid>https://kerenwang.org/tags/china/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Rhetoric</title>
-      <link>https://kerenwang.org/tags/rhetoric/</link>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://kerenwang.org/tags/rhetoric/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ritual Studies</title>
-      <link>https://kerenwang.org/tags/ritual-studies/</link>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://kerenwang.org/tags/ritual-studies/</guid>
       <description></description>
     </item>
     <item>
@@ -163,13 +205,6 @@ For permission requests, contact: contact@kerenwang.org</copyright>
       <link>https://kerenwang.org/tags/data-ethics/</link>
       <pubDate>Mon, 01 Dec 2025 09:35:52 +0000</pubDate>
       <guid>https://kerenwang.org/tags/data-ethics/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Digital Humanities</title>
-      <link>https://kerenwang.org/tags/digital-humanities/</link>
-      <pubDate>Mon, 01 Dec 2025 09:35:52 +0000</pubDate>
-      <guid>https://kerenwang.org/tags/digital-humanities/</guid>
       <description></description>
     </item>
     <item>
@@ -1846,13 +1881,6 @@ For permission requests, contact: contact@kerenwang.org</copyright>
       <description></description>
     </item>
     <item>
-      <title>Artificial Intelligence and Human Sacrifice</title>
-      <link>https://kerenwang.org/tags/artificial-intelligence-and-human-sacrifice/</link>
-      <pubDate>Mon, 25 Aug 2025 02:36:41 +0000</pubDate>
-      <guid>https://kerenwang.org/tags/artificial-intelligence-and-human-sacrifice/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Bioethics</title>
       <link>https://kerenwang.org/tags/bioethics/</link>
       <pubDate>Mon, 25 Aug 2025 02:36:41 +0000</pubDate>
@@ -1969,13 +1997,6 @@ For permission requests, contact: contact@kerenwang.org</copyright>
       <link>https://kerenwang.org/tags/violence/</link>
       <pubDate>Mon, 25 Aug 2025 02:36:41 +0000</pubDate>
       <guid>https://kerenwang.org/tags/violence/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>WIP</title>
-      <link>https://kerenwang.org/tags/wip/</link>
-      <pubDate>Mon, 25 Aug 2025 02:36:41 +0000</pubDate>
-      <guid>https://kerenwang.org/tags/wip/</guid>
       <description></description>
     </item>
     <item>

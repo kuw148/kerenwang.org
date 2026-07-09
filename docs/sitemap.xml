@@ -3,36 +3,57 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://kerenwang.org/</loc>
-    <lastmod>2026-05-08T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kerenwang.org/tags/ai/</loc>
-    <lastmod>2026-05-08T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kerenwang.org/tags/algorithmic-governance/</loc>
-    <lastmod>2026-05-08T00:00:00+00:00</lastmod>
+    <loc>https://kerenwang.org/blog/2026/07/archival-gravity/</loc>
+    <lastmod>2026-07-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kerenwang.org/tags/archival-theory/</loc>
+    <lastmod>2026-07-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kerenwang.org/tags/artificial-intelligence-and-human-sacrifice/</loc>
+    <lastmod>2026-07-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kerenwang.org/blog/</loc>
-    <lastmod>2026-05-08T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kerenwang.org/categories/</loc>
+    <lastmod>2026-07-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kerenwang.org/tags/confucian-philosophy/</loc>
+    <lastmod>2026-07-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kerenwang.org/tags/digital-humanities/</loc>
+    <lastmod>2026-07-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kerenwang.org/categories/essays/</loc>
+    <lastmod>2026-07-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kerenwang.org/tags/language-models/</loc>
+    <lastmod>2026-07-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kerenwang.org/tags/rhetoric/</loc>
+    <lastmod>2026-07-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kerenwang.org/tags/ritual-studies/</loc>
+    <lastmod>2026-07-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kerenwang.org/tags/</loc>
+    <lastmod>2026-07-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kerenwang.org/tags/wip/</loc>
+    <lastmod>2026-07-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kerenwang.org/tags/algorithmic-governance/</loc>
     <lastmod>2026-05-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kerenwang.org/tags/china/</loc>
     <lastmod>2026-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kerenwang.org/categories/essays/</loc>
-    <lastmod>2026-05-08T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://kerenwang.org/blog/2026/05/raising-the-lobster-%E5%85%BB%E9%BE%99%E8%99%BE-token-oblation-and-the-domestication-of-the-agent/</loc>
-    <lastmod>2026-05-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kerenwang.org/tags/rhetoric/</loc>
-    <lastmod>2026-05-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kerenwang.org/tags/ritual-studies/</loc>
-    <lastmod>2026-05-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kerenwang.org/tags/</loc>
     <lastmod>2026-05-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kerenwang.org/categories/blog/</loc>
@@ -90,9 +111,6 @@
     <lastmod>2025-12-01T09:35:52+00:00</lastmod>
   </url><url>
     <loc>https://kerenwang.org/tags/data-ethics/</loc>
-    <lastmod>2025-12-01T09:35:52+00:00</lastmod>
-  </url><url>
-    <loc>https://kerenwang.org/tags/digital-humanities/</loc>
     <lastmod>2025-12-01T09:35:52+00:00</lastmod>
   </url><url>
     <loc>https://kerenwang.org/tags/digital-rhetoric/</loc>
@@ -845,9 +863,6 @@
     <loc>https://kerenwang.org/tags/ai-augmented-healthcare/</loc>
     <lastmod>2025-08-25T02:36:41+00:00</lastmod>
   </url><url>
-    <loc>https://kerenwang.org/tags/artificial-intelligence-and-human-sacrifice/</loc>
-    <lastmod>2025-08-25T02:36:41+00:00</lastmod>
-  </url><url>
     <loc>https://kerenwang.org/tags/bioethics/</loc>
     <lastmod>2025-08-25T02:36:41+00:00</lastmod>
   </url><url>
@@ -900,9 +915,6 @@
     <lastmod>2025-08-25T02:36:41+00:00</lastmod>
   </url><url>
     <loc>https://kerenwang.org/tags/violence/</loc>
-    <lastmod>2025-08-25T02:36:41+00:00</lastmod>
-  </url><url>
-    <loc>https://kerenwang.org/tags/wip/</loc>
     <lastmod>2025-08-25T02:36:41+00:00</lastmod>
   </url><url>
     <loc>https://kerenwang.org/tags/anthropology/</loc>
