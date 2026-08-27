@@ -31,8 +31,7 @@ We begin this chapter by addressing the question of why it is necessary to exami
 
 There are many reasons for why it is necessary to examine comparative historical perspectives when studying persuasion and propaganda. The first and perhaps most obvious would be the need for historical accuracy and completeness of our understanding of the subject matter. Despite increased interest in alternative rhetorics of gender, race, ethnicities, and class, the topic of ancient rhetoric in American university classrooms remains firmly entrenched in a narrow band of [Greco-Roman classics](https://hellenic.princeton.edu/study/undergraduate/courses/spring-2020-rhetoric-classical-theory-modern-practice). See "a brief history of persuasion and propaganda" timeline below for better visualization of the need to fill the gaps in rhetorical history before and beyond ancient Greeks and Romans:
 
-<!-- FIGURE 1 — timeline image. Look in static/images/uploads/2021/10/ -->
-![A brief history of persuasion and propaganda](/images/uploads/2021/10/FIXME-timeline.jpg)
+![A brief history of persuasion and propaganda](/images/uploads/2021/10/brief-history-of-persuasion-timeline.png)
 
 *Fig. 1: a brief history of persuasion & propaganda (from left): [Cave of Altamira](https://en.wikipedia.org/wiki/Cave_of_Altamira), [Venus of Willendorf](https://en.wikipedia.org/wiki/Venus_of_Willendorf), [Göbekli Tepe](https://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe), [Urfa Man](https://en.wikipedia.org/wiki/Urfa_Man), [Narmer Palette](https://en.wikipedia.org/wiki/Narmer_Palette), [Archaic cuneiform](https://en.wikipedia.org/wiki/Cuneiform), [Code of Hammurabi](https://en.wikipedia.org/wiki/Code_of_Hammurabi), [Old Attic script](https://en.wikipedia.org/wiki/Archaic_Greek_alphabets#Old_Attic), [Gautama Buddha](https://en.wikipedia.org/wiki/Gautama_Buddha), [Dead Sea Scrolls](https://en.wikipedia.org/wiki/Dead_Sea_Scrolls), [Augustus](https://en.wikipedia.org/wiki/Augustus), [Emperor Wu of Han](https://en.wikipedia.org/wiki/Emperor_Wu_of_Han), [Signing of the US DOI](https://en.wikipedia.org/wiki/Signing_of_the_United_States_Declaration_of_Independence), [Raising the Flag on Iwo Jima](https://en.wikipedia.org/wiki/Raising_the_Flag_on_Iwo_Jima#Raising_the_first_flag) (images courtesy of [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page))*
 
@@ -50,22 +49,19 @@ Being a logographic writing system means that often taken-for-granted writing co
 
 Finally, in contrast to [phonemic writing systems](https://en.wikipedia.org/wiki/Phonemic_orthography), Hanzi characters tend to remain incredibly stable in form and usage even across several thousands of years of timespan, as logograms do not change with the ever-evolving spoken tongue on the ground. Despite its age, the [earliest known Chinese characters](https://en.wikipedia.org/wiki/Oracle_bone_script) remain closely related in form and syntax with the Hanzi system still in use and are remarkably accessible for modern scholars. See the table below for a clearer visualization of how the same Hanzi work across different spoken languages, and how the characters remain mostly the same across 3,200 years of continuous usage:
 
-| Hanzi | Meaning | Mandarin | Cantonese | Japanese |
-| :-: | :-: | :-: | :-: | :-: |
-| 王 | king/prince | wáng | wòhng | ō |
-| 米 | rice grain | mǐ | máih | kome |
-| 火 | fire | huǒ | fó | hi / ka |
-| 羊 | goat/sheep | yáng | yèuhng | hitsuji |
-| 人 | person | rén | yàhn | hito |
-
-<!-- The original table carried a sixth column of c. 1,200 BCE oracle-bone glyph images. Re-add if the source files turn up. -->
+| c. 1,200 BCE | Hanzi | Meaning | Mandarin | Cantonese | Japanese |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| ![Oracle bone script for 王](/images/uploads/2021/10/王.jpg) | 王 | king/prince | wáng | wòhng | ō |
+| ![Oracle bone script for 米](/images/uploads/2021/10/米.jpg) | 米 | rice grain | mǐ | máih | kome |
+| ![Oracle bone script for 火](/images/uploads/2021/10/火.jpg) | 火 | fire | huǒ | fó | hi / ka |
+| ![Oracle bone script for 羊](/images/uploads/2021/10/羊.jpg) | 羊 | goat/sheep | yáng | yèuhng | hitsuji |
+| ![Oracle bone script for 人](/images/uploads/2021/10/人.jpg) | 人 | person | rén | yàhn | hito |
 
 The Hanzi system consists of thousands of unique individual glyphs, each one comes with its prescribed [composition](https://en.wikipedia.org/wiki/Kangxi_radical#Unicode), [stroke order](https://en.wikipedia.org/wiki/Stroke_order), and complex set of usage rules. The exceptionally long-time commitment required to gain proficiency in Hanzi means that prior to the introduction of modern compulsory education, only an exceedingly small percentage of the population was able to acquire literacy. Thus, in ancient China, its writing system perpetuated a self-reproducing class of [*literati*](https://en.wikipedia.org/wiki/Scholar-official) ruling elites and formed a powerful barrier preventing the common population from participating and engaging in the communication process of the power structure.
 
 While the Hanzi system played a vital role in imperial governance, its history precedes Imperial China by more than a thousand years, during a period of the Chinese Bronze Age known as the [Shang dynasty](https://en.wikipedia.org/wiki/Shang_dynasty). The earliest fully-developed Hanzi system, known as the [oracle bone script](https://en.wikipedia.org/wiki/Oracle_bone_script), was invented as a tool for [pyromancy](https://en.wikipedia.org/wiki/Pyromancy) — esoteric divination rituals by means of fire.
 
-<!-- FIGURE 2 — Shang dynasty map. Look in static/images/uploads/2021/10/ -->
-![Map of the Shang dynasty](/images/uploads/2021/10/FIXME-shang-map.jpg)
+![Map of the Shang dynasty](/images/uploads/2021/10/shang-dynasty-map.webp)
 
 *The Shang dynasty ruled over the fertile Yellow River basin from c. 1,600 BCE to 1046 BCE.*
 
