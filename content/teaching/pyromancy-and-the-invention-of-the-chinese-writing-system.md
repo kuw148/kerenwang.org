@@ -1,0 +1,97 @@
+---
+title: "Persuasion and Propaganda in Ancient China (chapter draft), Part 1: Pyromancy and the Invention of the Chinese Writing System"
+date: 2021-10-01T00:00:00-04:00
+author: "Keren Wang"
+categories: ["teaching"]
+tags:
+  - ancient China
+  - Chinese
+  - comparative research
+  - course development
+  - cryptographic
+  - history
+  - intellectual history
+  - linguistics
+  - logograms
+  - Oracle Bone Script
+  - Persuasion and Propaganda
+  - rhetoric
+  - teaching
+  - Textbook
+  - Writing
+---
+
+*Persuasion and Propaganda in Ancient China（chapter draft, part 1）*
+
+There are increasing calls to give rhetorics that are historically overlooked within Western academia their overdue consideration.[^1] Despite growing interest in comparative and alternative rhetorics, insufficient attention has been paid to one category of crucial contribution to the intellectual history of persuasion and propaganda: the study of nonwestern ancient rhetorical traditions.[^2] This chapter provides a sneak preview of the intellectual history of persuasion and propaganda in Ancient China, where a rich and distinct rhetorical tradition flourished for more than three millennia.
+
+We begin this chapter by addressing the question of why it is necessary to examine comparative perspectives, followed by looking briefly into the [historical origin of Chinese characters](https://en.wikipedia.org/wiki/Oracle_bone_script) — the [oldest writing system still in use](https://languagelog.ldc.upenn.edu/nll/?p=3954). Our discussion then proceeds to a high-altitude overview of the [hundred schools of thought](https://en.wikipedia.org/wiki/Hundred_Schools_of_Thought) that emerged during a pivotal moment of Chinese intellectual history and profoundly shaped the arc of Sinic civilizational development.
+
+## Why Study Comparative Perspectives?
+
+There are many reasons for why it is necessary to examine comparative historical perspectives when studying persuasion and propaganda. The first and perhaps most obvious would be the need for historical accuracy and completeness of our understanding of the subject matter. Despite increased interest in alternative rhetorics of gender, race, ethnicities, and class, the topic of ancient rhetoric in American university classrooms remains firmly entrenched in a narrow band of [Greco-Roman classics](https://hellenic.princeton.edu/study/undergraduate/courses/spring-2020-rhetoric-classical-theory-modern-practice). See "a brief history of persuasion and propaganda" timeline below for better visualization of the need to fill the gaps in rhetorical history before and beyond ancient Greeks and Romans:
+
+<!-- FIGURE 1 — timeline image. Look in static/images/uploads/2021/10/ -->
+![A brief history of persuasion and propaganda](/images/uploads/2021/10/FIXME-timeline.jpg)
+
+*Fig. 1: a brief history of persuasion & propaganda (from left): [Cave of Altamira](https://en.wikipedia.org/wiki/Cave_of_Altamira), [Venus of Willendorf](https://en.wikipedia.org/wiki/Venus_of_Willendorf), [Göbekli Tepe](https://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe), [Urfa Man](https://en.wikipedia.org/wiki/Urfa_Man), [Narmer Palette](https://en.wikipedia.org/wiki/Narmer_Palette), [Archaic cuneiform](https://en.wikipedia.org/wiki/Cuneiform), [Code of Hammurabi](https://en.wikipedia.org/wiki/Code_of_Hammurabi), [Old Attic script](https://en.wikipedia.org/wiki/Archaic_Greek_alphabets#Old_Attic), [Gautama Buddha](https://en.wikipedia.org/wiki/Gautama_Buddha), [Dead Sea Scrolls](https://en.wikipedia.org/wiki/Dead_Sea_Scrolls), [Augustus](https://en.wikipedia.org/wiki/Augustus), [Emperor Wu of Han](https://en.wikipedia.org/wiki/Emperor_Wu_of_Han), [Signing of the US DOI](https://en.wikipedia.org/wiki/Signing_of_the_United_States_Declaration_of_Independence), [Raising the Flag on Iwo Jima](https://en.wikipedia.org/wiki/Raising_the_Flag_on_Iwo_Jima#Raising_the_first_flag) (images courtesy of [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page))*
+
+Engaging comparative/alternative histories of rhetorics also helps us to expand our present knowledge of the ways the exchange of meaning works in both theory and practice. By better understanding how rhetorical practices operate across divergent cultural and historical contexts, we broaden and deepen our current understanding of the communication process.
+
+Finally, comparative scholarship is necessary because it illuminates our tacit misconceptions. By encountering the unfamiliar other, we must reevaluate our internalized assumptions and preoccupations, thereby enabling us to arrive at a more nuanced understanding of human communicative practices. For example, we cannot start from some theory or concept on the ancient Hellenistic (Greek) world, say the [Aristotelian notion of](https://owl.purdue.edu/owl/general_writing/academic_writing/rhetorical_situation/aristotles_rhetorical_situation.html) [*logos*](https://www.radicalphilosophy.com/article/is-logos-a-proper-noun), and automatically assume there will be a Chinese equivalent. When engaging in comparative studies, we must contextualize a given theory or concept within the knowledge and language system in which it operates. It's interesting to consider how ancient Chinese rhetoricians got along [without a central preoccupation](https://www.radicalphilosophy.com/article/is-logos-a-proper-noun) around the Aristotelian concept of *logos*. What kinds of problems did ancient Chinese and Greek philosophers try to solve, to which they gave divergent solutions and theoretical preoccupations? Such inquiry would be necessary to shed light on what is truly "universal" and what is historically and culturally specific.
+
+## Pyromancy and the Invention of the Chinese Writing System
+
+The circumstances in which the art of persuasion was developed and practiced differ considerably in different ancient civilizations. It would be best to proceed with attempts to compare and contrast divergent rhetorical traditions by deeply immersing oneself in the historical, cultural, and linguistic life-worlds from which these traditions emerged. To make sense of Chinese intellectual history, it is particularly important to first become aware of the historical context of its writing system — [*Hanzi*](https://en.wikipedia.org/wiki/Chinese_characters) ("Chinese characters") — and why it operates on fundamentally distinct principles from virtually all other writing systems in the world.
+
+The vast majority of languages still in use, English included, use a [phonemic writing system](https://en.wikipedia.org/wiki/Phonemic_orthography) in which the text, typically written in [alphabets](https://en.wikipedia.org/wiki/Alphabet) or [syllabaries](https://en.wikipedia.org/wiki/Syllabary), corresponds to the spoken sound of the language. While it may be tempting for English speakers (as with users of any phonemic writing systems) to assume that writing systems were invented to transcribe the spoken language, it is not the case for Hanzi. Like many earliest known writing systems such as [Anatolian hieroglyphs](https://en.wikipedia.org/wiki/Anatolian_hieroglyphs) and [archaic cuneiform](https://en.wikipedia.org/wiki/Cuneiform#Archaic_cuneiform_(circa_3000_BC)), Chinese writing uses a [logographic system](https://en.wikipedia.org/wiki/Logogram) that encodes meaning without relying on phonetic representation.[^3] While [many ancient civilizations](https://en.wikipedia.org/wiki/History_of_writing#/media/File:Comparative_evolution_of_Cuneiform,_Egyptian_and_Chinese_characters.svg) have developed their own logograms, virtually all of them have fallen into disuse. Hanzi is the only major logographic writing system still in use, and it is an orthographic "living fossil" that gives valuable insights on how [literacy](https://www.britannica.com/topic/literacy) functions under fundamentally different linguistic rules.
+
+Being a logographic writing system means that often taken-for-granted writing concepts such as spelling, and alphabet do not apply to written Chinese at all. Furthermore, unlike alphabetical and syllabary writing systems, the same Hanzi system can be [adopted by completely different spoken languages](https://en.wikipedia.org/wiki/Chinese_characters#Adaptation_to_other_languages) without changing their encoded meanings. For example, the spoken word for "moon" is *yuè* in Mandarin Chinese and *tsuki* in Japanese, but in both languages, it is written with the same Hanzi character "月". Likewise, a [Cantonese](https://en.wikipedia.org/wiki/Cantonese) and a [Shanghainese](https://en.wikipedia.org/wiki/Wu_Chinese) speaker could read the same newspaper article written in Chinese without any gap of understanding, yet they could not understand each other when hearing the other person reading the article's content aloud in their respective local ["dialect."](https://en.wikipedia.org/wiki/Varieties_of_Chinese)
+
+Finally, in contrast to [phonemic writing systems](https://en.wikipedia.org/wiki/Phonemic_orthography), Hanzi characters tend to remain incredibly stable in form and usage even across several thousands of years of timespan, as logograms do not change with the ever-evolving spoken tongue on the ground. Despite its age, the [earliest known Chinese characters](https://en.wikipedia.org/wiki/Oracle_bone_script) remain closely related in form and syntax with the Hanzi system still in use and are remarkably accessible for modern scholars. See the table below for a clearer visualization of how the same Hanzi work across different spoken languages, and how the characters remain mostly the same across 3,200 years of continuous usage:
+
+| Hanzi | Meaning | Mandarin | Cantonese | Japanese |
+| :-: | :-: | :-: | :-: | :-: |
+| 王 | king/prince | wáng | wòhng | ō |
+| 米 | rice grain | mǐ | máih | kome |
+| 火 | fire | huǒ | fó | hi / ka |
+| 羊 | goat/sheep | yáng | yèuhng | hitsuji |
+| 人 | person | rén | yàhn | hito |
+
+<!-- The original table carried a sixth column of c. 1,200 BCE oracle-bone glyph images. Re-add if the source files turn up. -->
+
+The Hanzi system consists of thousands of unique individual glyphs, each one comes with its prescribed [composition](https://en.wikipedia.org/wiki/Kangxi_radical#Unicode), [stroke order](https://en.wikipedia.org/wiki/Stroke_order), and complex set of usage rules. The exceptionally long-time commitment required to gain proficiency in Hanzi means that prior to the introduction of modern compulsory education, only an exceedingly small percentage of the population was able to acquire literacy. Thus, in ancient China, its writing system perpetuated a self-reproducing class of [*literati*](https://en.wikipedia.org/wiki/Scholar-official) ruling elites and formed a powerful barrier preventing the common population from participating and engaging in the communication process of the power structure.
+
+While the Hanzi system played a vital role in imperial governance, its history precedes Imperial China by more than a thousand years, during a period of the Chinese Bronze Age known as the [Shang dynasty](https://en.wikipedia.org/wiki/Shang_dynasty). The earliest fully-developed Hanzi system, known as the [oracle bone script](https://en.wikipedia.org/wiki/Oracle_bone_script), was invented as a tool for [pyromancy](https://en.wikipedia.org/wiki/Pyromancy) — esoteric divination rituals by means of fire.
+
+<!-- FIGURE 2 — Shang dynasty map. Look in static/images/uploads/2021/10/ -->
+![Map of the Shang dynasty](/images/uploads/2021/10/FIXME-shang-map.jpg)
+
+*The Shang dynasty ruled over the fertile Yellow River basin from c. 1,600 BCE to 1046 BCE.*
+
+Traditional Chinese historiography has divided periods of Chinese history into "dynasties" — a formal historical term referring to periods of "unified rule" (*Tianxia gongzhu*, lit. "One sovereign uniting the world under one Heaven"), where the area we now know of as "China" was ruled by a single sovereign clan. The change of imperial ruling clan signaled a change in dynasty, and also signified a change in [Heaven's Mandate](https://en.wikipedia.org/wiki/Mandate_of_Heaven). Officially, imperial rule of China only started with the Qin dynasty under Emperor [Shi Huangdi](https://en.wikipedia.org/wiki/Qin_Shi_Huang) in 221 BCE. Prior to the establishment of the Qin dynasty, the previous dynasties — Xia, Zhou, and Shang — were organized in the form of a confederate feudal state system, in which the state that managed to acquire hegemony via military supremacy will be recognized by other feudal clans as their tributary overlord, and the monarch of that state would be referred to as *Tianzi*, literally translates as "Heaven's son." The title *Tianzi*, which once referred to those kings of the hegemonic feudal domains during pre-Imperial dynasties, was adopted as the honorific title of the emperor throughout imperial China, which lasted from 221 BCE until the fall of the Qing dynasty in 1912.[^i]
+
+Current understanding of religious practices of the Shang society reveals that the invention of the Hanzi writing system was deeply intertwined with the establishment of the Shang [state cult](https://en.wikipedia.org/wiki/State_religion) — a set of officially endorsed rituals and mythological narratives designed to provide a [divine justification](https://en.wikipedia.org/wiki/Divine_right_of_kings) of ruler's absolute authority over the state. The [Roman imperial cult](https://en.wikipedia.org/wiki/Roman_imperial_cult) and the [Incan Sapa Inca](https://en.wikipedia.org/wiki/Sapa_Inca) imperial mythology are other historical examples of state cult.
+
+The state rite practiced by Shang rulers was distinctly monotheistic and, of which the [*Shangdi*](https://en.wikipedia.org/wiki/Shangdi) (lit., "the lord above") being the omnipotent and all-encompassing supreme being who bestows the Shang king their divine authority to rule. While the Shang people viewed the spiritual domain (e.g., spirit of dead ancestors) as an extension of the human world that is readily accessible via folk religious rituals, words of Shangdi, however, are inaccessible to all except through the Shang king via the oracle bone script. The Shang king claimed the exclusive power to communicate with the high god Shangdi via means of [oracle bone pyromancy](https://en.wikipedia.org/wiki/Oracle_bone), and the difficulty of mastering the oracle bone logograms helped Shang rulers to maintain their claim.[^ii]
+
+Thus, the Hanzi was not invented to transcribe the spoken language, nor was it intended to facilitate communication among the masses. Quite the opposite, it was painstakingly [cryptographic](https://en.wikipedia.org/wiki/Cryptography) by design — keeping access to the divine will of Shangdi exclusively to a small group of literati elites, thereby legitimizing their claim to the [divine right of kings](https://en.wikipedia.org/wiki/Divine_right_of_kings). Written artifacts excavated from Shang archaeological sites were predominantly in the form of oracle bone script. These inscriptions were used specifically during state divination rituals where the Shang ruler, both acting as the king and the high priest, would carve questions concerning matters of state importance (e.g., military campaigns, prayers for a bountiful harvest, and matters concerning sacrificial offerings to Shangdi, include human sacrifice) onto oracle bones mostly commonly prepared from tortoise plastrons or ox shoulder bones. The Shang king would then prod the oracle bones with a bronze rod heat to red-hot, which would cause the bones to crack under the intense heat, indicating that Shangdi had answered the questions inscribed on the oracle bones. The Shang king would conclude the pyromancy by interpreting the oracle bone inscriptions along with the pattern of the pyromantic cracks, and issue decrees "on Shangdi's behalf."
+
+Specifically, studies found that Shang dynasty human sacrifice functioned as prayers to Shangdi to "bail out" the Shang people from major calamities and would only take place during periods of severe food shortage or in the aftermath of major military conflict. Hundreds of captured slaves or war prisoners might be executed during a ritual sacrifice ceremony by means of mass decapitation and/or bloodletting. The corpses of the victims, along with their severed heads, were buried in mass sacrificial pits or collectively incinerated. During these exceptional occasions, the oracle bone script and pyromancy were deployed to help legitimize the use of violence by the Shang rulers.[^iii][^iv]
+
+Throughout the subsequent Zhou and [Imperial Chinese](https://en.wikipedia.org/wiki/History_of_China#Imperial_China) periods, Hanzi, being a logographic writing system developed independently from the spoken language, allowed the imperial authority to govern its population under a [unified literacy](https://www.britannica.com/topic/Chinese-languages/Qin-dynasty-standardization) irrespective of the different spoken languages of its subjects.[^4] This means that [written decrees and official communications](https://en.wikipedia.org/wiki/Official_communications_of_the_Chinese_Empire) could be sent to the [furthest reaches](https://en.wikipedia.org/wiki/Protectorate_of_the_Western_Regions) of the empire without the need for translation and localization, provided there is a class of highly educated [*literati*](https://en.wikipedia.org/wiki/Scholar-official) scholar-officials to conduct imperial edicts. Therefore, compared to its [European](https://en.wikipedia.org/wiki/Carolingian_Empire) and [Mesoamerican](https://en.wikipedia.org/wiki/Aztec_Empire) counterparts, Imperial China has been relatively successful in sustaining [highly centralized governance](https://en.wikipedia.org/wiki/Qin_Shi_Huang#Administrative_reforms) across vast territories, as long as there was a well-maintained system of [roads](https://en.wikipedia.org/wiki/Silk_Road), [canals](https://en.wikipedia.org/wiki/Grand_Canal_(China)), draft laborers, [post stations](https://www.tour-beijing.com/blog/beijing-travel/beijing-yulinbu-ancient-post-station), and most importantly, highly developed [*literati*](https://en.wikipedia.org/wiki/Imperial_examination). Not only did the [Chinese bureaucratic system](https://en.wikipedia.org/wiki/Legalism_(Chinese_philosophy)#%22Legalist%22_administration) historically emerge as a rhetorical response to the demands of record-keeping and conflict resolution, but it also serves as a powerful platform for propaganda for examining the abilities and loyalty of ministers and holding them accountable according to their responsibilities.[^v]
+
+---
+
+**Continue to Part 2: [Persuasion and Propaganda in Ancient China (chapter draft), part 2: the Hundred Schools of Thought](FIXME-part-2-url)**
+
+[^1]: FIXME — marker recovered, target uncertain.
+[^2]: FIXME — marker recovered, target uncertain.
+[^3]: FIXME — marker recovered, target uncertain.
+[^4]: FIXME — marker recovered, target uncertain.
+
+[^i]: 陈启云 Qiyun Chen, "封建与大一统之间——关于中国传统政体的理论和史实," 《学术月刊》, no. [FIXME]–2 (2007).
+[^ii]: FIXME — citation garbled in the PDF capture.
+[^iii]: Zhe Sun, *Tianming Wangchao* (Beijing: Zhongguo Qingnian Publishing, 2008).
+[^iv]: Institute of Archaeology, Chinese Academy of Social Sciences, 《殷墟与商文化——殷墟科学发掘80周年纪念文集》 (Beijing: Kexue Chubanshe, 2011).
+[^v]: Han Fei (c. 280–233 BC), *Han Feizi*, Chapter XLIII, "Deciding Between Two Legalistic Doctrines." <https://ctext.org/hanfeizi/ding-fa/zh>
