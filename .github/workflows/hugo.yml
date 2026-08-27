@@ -36,6 +36,11 @@ jobs:
           submodules: recursive
           fetch-depth: 0
 
+      - name: Get PaperMod theme
+        run: |
+          rm -rf themes/PaperMod
+          git clone --depth 1 https://github.com/adityatelange/hugo-PaperMod.git themes/PaperMod
+
       - name: Configure Pages
         id: pages
         uses: actions/configure-pages@v5
