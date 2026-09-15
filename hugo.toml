@@ -50,28 +50,10 @@ buildExpired = false
   TocOpen = false
   comments = false
 
-  # Site profile shown on the homepage
-  [params.profileMode]
-    enabled = false
-    title = "Keren Wang"
-    subtitle = "Faculty, Department of Communication, Georgia State University"
-    imageUrl = "/images/uploads/2025/08/profile-large.jpg"
-    imageWidth = 180
-    imageHeight = 180
-    imageTitle = "Keren Wang"
-
-  # Homepage info mode (used when profileMode is disabled)
-  [params.homeInfoParams]
-    Title = "Welcome"
-    Content = """
-Faculty in the Department of Communication at Georgia State University.
-Research and writing on rhetoric, ritual, algorithmic governance, and comparative legal-political thought.
-"""
-
   # Asset settings
   [params.assets]
     disableHLJS = false
-    disableFingerprinting = false
+    disableFingerprinting = true
     favicon = "/favicon.ico"
 
 # Top navigation menu
