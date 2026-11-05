@@ -15,7 +15,7 @@ Visiting Scholar, Emory University<br>
 <p style="margin:0;">
 <a href="mailto:contact@kerenwang.org">Email</a> ·
 <a href="/cv/">C.V.</a> ·
-<a href="/blog/">Blog</a> ·
+<a href="/blog/">Research Blog</a> ·
 <a href="/teaching/">Teaching</a> ·
 <a href="https://orcid.org/0000-0001-6933-885X" rel="noopener" target="_blank">Publications (ORCID)</a> ·
 <a href="https://www.routledge.com/Legal-and-Rhetorical-Foundations-of-Economic-Globalization-An-Atlas-of-Ritual-Sacrifice-in-Late-Capitalism/Wang/p/book/9780367727826" rel="noopener" target="_blank">Book</a>

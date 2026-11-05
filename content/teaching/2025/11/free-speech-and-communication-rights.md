@@ -2,9 +2,11 @@
 title: "Free Speech and Communication Rights"
 date: 2025-11-03T04:41:42
 slug: "free-speech-and-communication-rights"
-categories: ["Blog", "teaching"]
+categories: ["teaching"]
 tags: ["18 U.S.C. §2257", "1st amendment", "academic course content", "age-verification laws", "algorithmic filtering", "anti-censorship tools", "Article 19 UDHR", "Cherie DeVille video", "Chicago style citations", "child sexual abuse material", "Cohen v. California", "communication rights", "copyright duration U.S", "criminal solicitation", "culture", "dark web vs Tor", "defamation elements", "democracy and free expression", "Digital rhetoric", "digital rights", "DMCA takedown", "dynamic pricing mitigation", "fair use", "fighting words doctrine", "First Amendment", "FOSTA-SESTA", "franchise remakes IP", "fraud and scams", "free speech", "geo-restriction bypass", "Hustler v. Falwell", "intellectual property violations", "internet censorship", "journalistic transparency", "Keren Wang", "Law", "libel and slander", "media", "media law lesson", "Miller test SLAPS", "Near v. Minnesota", "New York Times v. United States", "nonprofit VPNs Riseup", "obscenity law", "onion services", "open source privacy tools", "patently offensive", "Pentagon Papers", "platform governance", "Policy", "Pornhub notice to user", "press freedom", "prior restraint", "ProtonVPN", "prurient interest", "ransomware Petya example", "SCOM 2050 lecture", "scom2050", "shadow banning", "society", "speech integral to criminal conduct", "surveillance and data harvesting", "teaching", "teaching materials", "Tor for Android", "Tor network", "true threats", "United States v. Alvarez", "United States v. The Progressive", "unprotected speech categories", "user privacy", "VPN benefits and risks", "whistleblowing protection"]
 wp_id: 1175
+section: teaching
+aliases: ["/blog/2025/11/free-speech-and-communication-rights/"]
 ---
 
 <div class="scom2050-lesson" style="font-family: system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif; line-height: 1.55; max-width: 880px; margin: 0 auto;">

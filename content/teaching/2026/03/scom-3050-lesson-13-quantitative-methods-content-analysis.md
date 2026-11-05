@@ -2,8 +2,10 @@
 title: "SCOM 3050 Lesson 13: Quantitative Methods - Content Analysis"
 date: 2026-03-28T20:48:09
 slug: "scom-3050-lesson-13-quantitative-methods-content-analysis"
-categories: ["Blog"]
+categories: ["teaching"]
 wp_id: 800
+section: teaching
+aliases: ["/blog/2026/03/scom-3050-lesson-13-quantitative-methods-content-analysis/"]
 ---
 
 <section id="overview">

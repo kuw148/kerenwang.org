@@ -2,9 +2,11 @@
 title: "MEDIA & VIOLENCE - A Transnational Perspective"
 date: 2025-04-14T18:23:19
 slug: "media-violence-a-transnational-perspective"
-categories: ["Blog", "teaching"]
+categories: ["teaching"]
 tags: ["AI", "authoritarianism", "blog", "child abuse", "communication", "comparative", "COVID", "crime", "digital humanities", "Digital rhetoric", "Elsagate", "genocide", "history", "International affairs", "labor camp", "media", "media literacy", "mental health", "Myanmar", "pig buchering", "Political communication", "propaganda", "public memory", "radio", "research", "rhetoric", "ritual", "Rwanda", "sacrifice", "scom2050", "slavery", "social media", "society and culture", "teaching", "transnational", "video games", "violence", "war", "Youtube"]
 wp_id: 890
+section: teaching
+aliases: ["/blog/2025/04/media-violence-a-transnational-perspective/"]
 ---
 
 Lesson Module by Keren Wang, updated 4 Nov 2025.

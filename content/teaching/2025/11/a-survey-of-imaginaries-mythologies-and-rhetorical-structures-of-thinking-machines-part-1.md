@@ -2,9 +2,11 @@
 title: "\"What Is AI?\" Part 1: A Survey of Imaginaries, Mythologies, and Rhetorical Structures of Thinking Machines"
 date: 2025-11-17T14:18:43
 slug: "a-survey-of-imaginaries-mythologies-and-rhetorical-structures-of-thinking-machines-part-1"
-categories: ["Blog", "Book chapter draft", "teaching"]
+categories: ["Book chapter draft", "teaching"]
 tags: ["AGI", "AI History", "Algorithmic Agency", "Algorithmic Governance", "Ancient Tech Imaginaries", "artificial intelligence", "Artificial Superintelligence", "ASI", "Automata", "book project", "Computational Culture", "Cultural History of AI", "Digital rhetoric", "Generative Models", "Golem", "Heidegger and AI", "Homunculus", "Human-Machine Interaction", "lecture", "Liezi", "media society and culture", "Media Theory", "Mythic Structures", "Mythology and Technology", "Neuromorphic Computing", "Philosophy of Technology", "Rhetoric of Technology", "Rhetorical Studies", "Ritology", "Ritual Studies", "scom 2050", "Talos", "teaching", "Tech Ethics", "Technological Imagination", "Thinking Machines", "WIP project", "Yan Shi"]
 wp_id: 1219
+section: teaching
+aliases: ["/blog/2025/11/a-survey-of-imaginaries-mythologies-and-rhetorical-structures-of-thinking-machines-part-1/"]
 ---
 
 <strong><span style="color: #cc99ff;"><em>*Online lesson module and WIP chapter draft.</em></span></strong>

@@ -71,7 +71,7 @@ buildExpired = false
 
 [[menu.main]]
   identifier = "blog"
-  name = "Blog"
+  name = "Research Blog"
   url = "/blog/"
   weight = 30
 
